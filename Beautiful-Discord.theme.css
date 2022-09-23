@@ -1,0 +1,194 @@
+/**
+* @name Beautiful Discord
+* @author SkyEnergy#2948
+* @description Made by a CSS NOOB but there's LOVE in it
+* @version 1.00
+* @website https://znap.link/SkyEnergy
+**/
+
+/*
+!======================================================================================================================================================================
+!                                                                   ⚠️ IMPORTANT
+!                                                  Important theme files, don't remove anything here
+!======================================================================================================================================================================
+*/
+
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/ChatBubbles.css);
+:root {
+    --chat-bubble: 1;
+
+    --chat-bubble-background-color: #1e1e1e;
+    --chat-bubble-border-color: #27292c;
+    --chat-bubble-code-background-color: #232527;
+
+    --chat-bubble-max-width: 90%;
+    --chat-bubble-border-radius: 8px;
+
+    --chat-bubble-box-shadow-h-offset: 0;
+    --chat-bubble-box-shadow-v-offset: 0px;
+    --chat-bubble-box-shadow-blur: 0px;
+    
+    --chat-bubble-box-shadow-color-h: 0;
+    --chat-bubble-box-shadow-color-s: 0%;
+    --chat-bubble-box-shadow-color-l: 0%;
+    --chat-bubble-box-shadow-color-a: 0;
+}
+.scrollbarGhostHairline-2LpzZ9 {
+    border-radius: 8px;
+}
+
+
+
+.imageWrapper-oMkQl4.imageZoom-3yLCXY.clickable-LksVCf {
+    border-radius: 8px;
+}
+
+
+/*///////////////*/
+/* Server Leiste */
+/*///////////////*/
+.scroller-3X7KbA.none-2-_0dP.scrollerBase-_bVAAt {
+    background-color: #111111;
+}
+.circleIcon-3489FI {
+    color: #26292c;
+}
+.circleIconButton-1VxDrg {
+    background-color: #181818;
+}
+.circleIconButton-1VxDrg.selected-2r1Hvo {
+    background-color: #1e1f20;
+}
+.expandedFolderBackground-1kSAf6 {
+    background-color: #1e1e1e;
+}
+.folder-241Joy {
+    background-color: #181818;
+}
+.folder-241Joy.hover-3m7-WT {
+    background-color: #181a1a;
+}
+
+/*///////////////////*/
+/* Fenster Title Bar */
+/*///////////////////*/
+.typeWindows-2-g3UY.withFrame-2dL45i.titleBar-1it3bQ.horizontalReverse-2QssvL.flex-3BkGQD.directionRowReverse-HZatnx.justifyStart-2Mwniq.alignStretch-Uwowzr {
+    background-color: #111111;
+    margin-top: 0px;
+    padding-top: 5px;
+}
+
+/*//////////////*/
+/* Seitenleiste */
+/*//////////////*/
+.scroller-WSmht3.thin-31rlnD.scrollerBase-_bVAAt.fade-1R6FHN, .sidebar-1tnWFu, .privateChannels-oVe7HL {
+    background-color: #1e1e1e;
+}
+.title-31SJ6t.container-ZMc96U.themed-Hp1KC_ {
+    background-color: #1e1e1e;
+}
+.children-3xh0VB::after {
+    display: none;
+}
+.animatedContainer-2laTjx {
+    border-radius: 8px;
+    width: 220px;
+    height: 125px;
+    margin-top: 10px;
+    margin-left: 10px;
+    box-shadow: 0 0 5px 2px #111111;
+}
+.bannerImg-2PzH6z {
+    height: 125px;
+    width: 220px;
+}
+.header-3OsQeK {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 3px;
+}
+.members-3WRCEx, .members-3WRCEx>div, .container-2o3qEW {
+    background-color: #1e1e1e;
+}
+.container-1NXEtd {
+    background-color: #1e1e1e;
+}
+.containerDefault-3TQ5YN {
+    padding-top: 6px;
+}
+.container-2giAcK {
+    margin-bottom: -3px;
+}
+.divider-3qUeLQ {
+    margin-top: 15px;
+}
+.header-3OsQeK {
+    padding-bottom: 10px;
+}
+
+
+/*//////*/
+/* Chat */
+/*//////*/
+.form-3gdLxP::before {
+    display: none;
+}
+.chatContent-3KubbW {
+    background-color: #111111;
+}
+.scrollableContainer-15eg7h.webkit-QgSAqd {
+    background-color: #1e1e1e;
+}
+.upload-vLbqu- {
+    background-color: #111111;
+}
+.wrapper-2IMkT {
+    background-color: #272727;
+}
+.layout-1qmrhw {
+    background-color: #111111;
+    border-radius: 8px;
+    margin-top: 2px;
+}
+#app-mount .containerDefault-YUSmu3 .content-1gYQeQ {
+    border-radius: 8px;
+    margin-top: 5px;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    background-color: #111111;
+}
+.modeSelected-3DmyhH>.content-1gYQeQ:not(#a#b){
+    background-color: #272727;
+}
+
+.unread-36eUEm.unreadRelevant-2f-VSK {
+    margin-top: -1px;
+}
+.wrapper-2vIMkT {
+    background-color: #292727;
+    border-radius: 8px;
+}
+.image-1091CL {
+    border-radius: 8px;
+}
+
+
+/*///////////*/
+/* Userpanel */
+/*///////////*/
+.panels-3wFtMD {
+    margin: 6px;
+    border: 1px solid var(--background-secondary);
+    border-radius: 8px;
+    border-color: #111111;
+    background-color: #111111;
+    box-shadow: 0 0 5px 2px #111111;
+}
+.avatarWrapper-1B9FTW.withTagAsButton-OsgQ9L {
+    margin-right: 1px;
+    padding-left: 0px;
+}
+.description-1Dd2kv, .separator-1So4YB {
+    display: none;
+}
