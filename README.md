@@ -16,7 +16,7 @@
 ## Preview
 
 <div align="center">
-  <a href="https://github.com/SkyEnergy0/Beautiful-Discord-Theme">
+  <a href="https://cdn.discordapp.com/attachments/913890209224077382/1023278340653719683/unknown.png">
     <img src="images/screenshot-1.png" alt="Logo">
   </a>
 </div>
