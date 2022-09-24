@@ -8,7 +8,7 @@
   <h1 align="center">v1.00.0 | Beautiful Discord | Work in Progress</h1>
 
   <p align="center">
-    Made by a CSS NOOB but there's LOVE in it
+    Made by a CSS NOOB but there's ❤️ in it
   </p>
 </div>
 
