@@ -38,8 +38,9 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Settings
-- [ ] User Popups
+- [ ] Settings Support
+- [ ] Forum Support
+- [ ] User Popups Redesign
 - [ ] White Mode Support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
