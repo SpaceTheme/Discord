@@ -40,6 +40,7 @@
 
 - [ ] Settings Support
 - [ ] Forum Support
+- [ ] Full Thread Support
 - [ ] Server Home (Beta) Support
 - [ ] User Popups Redesign
 - [ ] White Mode Support
