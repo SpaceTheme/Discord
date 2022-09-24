@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/SkyEnergy0/Beautiful-Discord-Theme">
-    <img src="images/logo.png" alt="Logo" width="250" height="250">
+    <img src="images/screenshot-1.png" alt="Logo" width="250" height="250">
   </a>
 </div>
 
