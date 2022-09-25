@@ -43,6 +43,7 @@
 - [ ] Full Thread Support
 - [ ] Server Home (Beta) Support
 - [ ] User Popups Redesign
+- [ ] Variables
 - [ ] White Mode Support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
