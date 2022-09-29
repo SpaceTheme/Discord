@@ -38,6 +38,8 @@
 <!-- ROADMAP -->
 ## Roadmap
 
+- [ ] MK2
+- [ ] Variables Support
 - [ ] Settings Support
 - [ ] Forum Support
 - [ ] Full Thread Support
