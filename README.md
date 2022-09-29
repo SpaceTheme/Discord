@@ -5,7 +5,7 @@
     <img src="images/logo.png" alt="Logo" width="250" height="250">
   </a>
 
-  <h1 align="center">v1.3.0 | Beautiful Discord | Work in Progress</h1>
+  <h1 align="center">v1.3.0 | Beautiful Discord | Not Finished</h1>
 
   <p align="center">
     Made by a CSS NOOB but there's ❤️ in it
