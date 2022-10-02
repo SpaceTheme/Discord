@@ -26,12 +26,12 @@
 ## Installation
 
 1. Download [BetterDiscord](https://betterdiscord.app)
-2. Download [Beautiful Discord](https://github.com/SkyEnergy0/Beautiful-Discord-Theme/releases)
+2. Download [Beautiful Discord MK2 (beta)](https://github.com/SkyEnergy0/Beautiful-Discord-Theme/releases)
 3. Install Theme Go To
    ```
    C:\Users\your_username_\AppData\Roaming\BetterDiscord\themes
    ```
-4. Paste the ```Beautiful-Discord.theme.css``` file into the themes folder
+4. Paste the ```Beautiful-Discord-MK2.theme.css``` file into the themes folder
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
