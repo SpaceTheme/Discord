@@ -1,3 +1,4 @@
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -21,8 +22,6 @@
   </a>
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Installation
 
 1. Download [BetterDiscord](https://betterdiscord.app)
@@ -32,8 +31,6 @@
    C:\Users\your_username_\AppData\Roaming\BetterDiscord\themes
    ```
 4. Paste the ```Beautiful-Discord-MK2.theme.css``` file into the themes folder
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -47,11 +44,8 @@
 - ✅ User Popups Redesign
 - ⭕ White Mode Support
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
  Discord - SkyEnergy#2948
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ 
