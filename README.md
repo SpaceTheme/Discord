@@ -40,7 +40,7 @@
 
 - ✅ MK2
 - ⭕ Variables Support
-- ⭕ Settings Support
+- 🔧 Settings Support
 - ⭕ Forum Support
 - ⭕ Full Thread Support
 - ⭕ Server Home (Beta) Support
