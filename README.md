@@ -1,4 +1,3 @@
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -48,4 +47,3 @@
 ## Contact
 
  Discord - SkyEnergy#2948
- 
