@@ -38,13 +38,13 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [X] MK2
+- [✅] MK2
 - [ ] Variables Support
 - [ ] Settings Support
 - [ ] Forum Support
 - [ ] Full Thread Support
 - [ ] Server Home (Beta) Support
-- [X] User Popups Redesign
+- [✅] User Popups Redesign
 - [ ] White Mode Support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
