@@ -25,7 +25,7 @@
 
 1. Download [BetterDiscord](https://betterdiscord.app)
 2. Download [Beautiful Discord MK2 (beta)](https://github.com/SkyEnergy0/Beautiful-Discord-Theme/releases)
-3. Install Theme Go To
+3. Install Theme go to
    ```
    C:\Users\your_username_\AppData\Roaming\BetterDiscord\themes
    ```
