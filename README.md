@@ -37,7 +37,7 @@
 - ✅ MK2
 - ⭕ Variables Support
 - 🔧 Settings Support
-- ⭕ Forum Support
+- 🔧 Forum Support
 - ⭕ Full Thread Support
 - ⭕ Server Home (Beta) Support
 - ✅ User Popups Redesign
