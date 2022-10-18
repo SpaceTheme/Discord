@@ -38,6 +38,7 @@
 - ⭕ Variables Support
 - 🔧 Settings Support
 - ✅ Forum Support
+- ⭕ App Directory Support
 - ⭕ Full Thread Support
 - ⭕ Server Home (Beta) Support
 - ✅ User Popups Redesign
