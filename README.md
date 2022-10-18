@@ -35,12 +35,13 @@
 ## Roadmap
 
 - ✅ MK2
-- ⭕ Variables Support
-- 🔧 Settings Support
-- ✅ Forum Support
-- ⭕ App Directory Support
-- ⭕ Full Thread Support
-- ⭕ Server Home (Beta) Support
+- ⭕ Variables
+- 🔧 Settings
+- ✅ Forum
+- ⭕ Thread
+- ⭕ App Directory
+- ⭕ Server Discover
+- ⭕ Server Home (Beta)
 - ✅ User Popups Redesign
 - ⭕ White Mode Support
 
