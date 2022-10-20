@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SkyEnergy0/Beautiful-Discord-Theme">
-    <img src="images/logo.png" alt="Logo" width="250" height="250">
+    <img src="images/Logo.png" alt="Logo" width="250" height="250">
   </a>
 
   <h1 align="center">MK2 v1.4.6 (beta) | Beautiful Discord | Not Finished</h1>
