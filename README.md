@@ -5,7 +5,7 @@
     <img src="images/Logo.png" alt="Logo" width="250" height="250">
   </a>
 
-  <h1 align="center">MK2 v1.5.2 (beta) | Beautiful Discord | Not Finished</h1>
+  <h1 align="center">MK2 v1.5.3 (beta) | Beautiful Discord | Not Finished</h1>
 
   <p align="center">
     Made by a CSS NOOB but there's ❤️ in it
