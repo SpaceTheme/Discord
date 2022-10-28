@@ -2,7 +2,7 @@
 * @name Beautiful Discord MK2
 * @author SkyEnergy#2948
 * @description Made by a CSS NOOB but there's ❤️ in it
-* @version 1.5.2 (beta)
+* @version 1.5.3 (beta)
 * @website https://znap.link/SkyEnergy
 * @source https://github.com/SkyEnergy0/Beautiful-Discord-Theme
 **/
@@ -132,6 +132,7 @@
 
 /* Open Folder Background */
 .expandedFolderBackground-1kSAf6 {
+    border-radius: 16px 16px 8px 8px;
     background-color: #1e1e1e;
 }
 
@@ -518,12 +519,12 @@
 .member-2gU6Ar.container-1oeRFJ.clickable-28SzVr>.layout-1qmrhw {
     background-color: #111111;
     border-radius: 8px;
-    margin-top: 3px;
+    margin-top: 1px;
 }
 .member-2gU6Ar.container-1oeRFJ.selected-1-Z6gm>.layout-1qmrhw {
     background-color: #232629;
     border-radius: 8px;
-    margin-top: 3px;
+    margin-top: 1px;
 }
 .member-2gU6Ar.container-1oeRFJ.clickable-28SzVr>.layout-1qmrhw:hover {
     background-color: #242627;
@@ -1408,103 +1409,102 @@
 
 
 /*
-!====================
-!     Background
-!====================
+!==============
+!     Base
+!==============
 */
 
-/* Popout */
-.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR,
-.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerNonPremium-1XjSjn::before {
-    height: 100%;
-    width: 340px;
-    border-radius: 8px;
-    background-color: #18191c;
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR {
+    --profile-gradient-primary-color: #1a1919;
+    --profile-gradient-secondary-color: #1a1919;
 }
-
-
-/*
-!================
-!     Banner
-!================
-*/
-
-.banner-2boKnS.popoutBanner-16rVDY {
-    width: 95%;
-    height: 52px;
-    margin-top: 8px;
-    margin-left: 8.5px;
-    border-radius: 8px;
-}
-.banner-2boKnS.popoutBannerPremium-2RvDNZ.bannerPremium-86naOf.roundedBanner-TdlJGa {
-    width: 95%;
-    height: 112px;
-    min-height: 112px;
-    margin-top: 8px;
-    margin-left: 8.5px;
-    border-radius: 8px;
-}
-
-
-/*
-!================
-!     Badges
-!================
-*/
-
-.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerNonPremium-1XjSjn>.profileBadges-31rDHI {
-    padding: 5px;
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR .userPopoutOverlayBackground-dKOOda.overlayBackground-1KgwVi {
     background-color: #111111;
-    border-radius: 8px;
 }
-
-
-/*
-!==============
-!     Body
-!==============
-*/
-
-.userPopoutInner-1hXSeY.userProfileInner-3F03PX.userProfileInnerNonPremium-1XjSjn>.userPopoutOverlayBackground-dKOOda.overlayBackground-1KgwVi {
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR .profileBadges-31rDHI.containerWithContent-2_V0PM.container-5SvbtF {
     background-color: #111111;
 }
 
 
 /*
-!=========================
-!     Try My Commands
-!=========================
+!==================
+!     About Me
+!==================
 */
 
-.button-f2h6uQ.lookFilled-yCfaCM.colorPrimary-2AuQVo.sizeIcon-1kBo12.grow-2sR_-F {
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .defaultColor-24IHKz.lineClamp2Plus-2RYGV2.text-sm-normal-3Zj3Iv {
+    padding: 6px;
+    border-radius: 8px;
     background-color: #1e1e1e;
 }
-.button-f2h6uQ.lookFilled-yCfaCM.colorPrimary-2AuQVo.sizeIcon-1kBo12.grow-2sR_-F:hover {
-    background-color: #232429;
-}
 
 
 /*
 !===============
-!     Roles
+!     Since
 !===============
 */
 
+/* Background */
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .memberSinceContainer-3biwiY {
+    padding: 7px;
+    justify-content: center;
+    gap: 40px;
+    border-radius: 8px;
+    background-color: #1e1e1e;
+}
+
+/* Pannel */
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .discordIcon-JXet1k {
+    display: none;
+}
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .memberSinceContainer-3biwiY>.icon-1zKOXL.iconSizeSmol-qsFaRK.iconInactive-26M06U {
+    display: none;
+}
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .defaultColor-24IHKz.text-sm-normal-3Zj3Iv.body-2Fhyoo {
+    padding: 6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    background-color: #111111;
+}
+
+/*Point*/
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .divider-D-Vspq {
+    background-color: #1e1e1e;
+}
+
+
+/*
+!==============
+!     Role
+!==============
+*/
+
+/* Background */
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .roles-3zC7MX {
+    padding: 6px;
+    border-radius: 8px;
+    background-color: #1e1e1e;
+}
+
 /* Border Color */
-.role-2TIOKu {
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .role-2TIOKu {
     transform: translate(0);
     border: 0;
-    border-radius: 5px;
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+    border-radius: 4px;
 }
-.role-2TIOKu .roleRemoveIcon-387wKV {
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .role-2TIOKu .roleRemoveIcon-387wKV {
     margin: 0;
     left: unset;
     transform: translate(50%,-50%);
 }
-.role-2TIOKu .roleRemoveButton-17oXnT {
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .role-2TIOKu .roleRemoveButton-17oXnT{
     position: static
 }
-.role-2TIOKu .roleCircle-3K9O3d:before {
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .role-2TIOKu .roleCircle-3K9O3d:before {
     content: '';
     top: 0;left: 0;
     z-index: -1;
@@ -1513,115 +1513,47 @@
     box-sizing: border-box;
     position: absolute;
     background: inherit;
-    border-radius: 5px;
+    border-radius: 6px;
     border: 2px solid transparent;
     -webkit-mask: linear-gradient(#000 0 0) padding-box, linear-gradient(#000 0 0);
     -webkit-mask-composite: xor;
 }
 
-/* Add Role Button */
-.addButton-1_dZYu.actionButton-1YKTU0.role-2TIOKu.flex-3BkGQD.alignCenter-14kD11.justifyCenter-rrurWZ {
-    background-color: #292b2f;
-}
-.addButton-1_dZYu.actionButton-1YKTU0.role-2TIOKu.flex-3BkGQD.alignCenter-14kD11.justifyCenter-rrurWZ:hover {
-    background-color: #232429;
-}
-
-/* Role Pannel */
-.root-jbEB5E.flex-3BkGQD.wrap-7NZuTn.rolesList-3uZoaa {
-    margin-bottom: 2px;
-}
-
 
 /*
-!==================
+!==============
+!     Note
+!==============
+*/
+
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .textarea-_59yqs {
+    border-radius: 8px;
+    background-color: #1e1e1e;
+}
+
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .textarea-_59yqs:hover {
+    background-color: #242627;
+}
+
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .input-2g-os5:focus {
+    border-radius: 8px;
+    background-color: #26292c !important;
+}
+
+/*
+!=================
 !     Message
-!==================
+!=================
 */
 
-.footer-3naVBw {
-    margin-top: 10px;
-    padding: 15px;
-    background-color: #111111;
-    border-radius: 8px;
-}
-.inputWrapper-1YNMmM.messageInputContainer-2rGDH8 {
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .inputWrapper-1YNMmM {
     border: none;
     border-radius: 8px;
     background-color: #1e1e1e;
 }
 
-
-/*
-!===========================
-!     User Panel Popout
-!===========================
-*/
-
-/* Footer */
-.divider-1tWBgZ.divider-1i5sVV {
-    display: none;
-}
-#account-status-picker, #account-set-custom-status, #account-edit-custom-status, #account-switch-account {
-    padding: 10px;
-    margin-top: 5px;
-    border-radius: 8px;
-    background-color: #1e1e1e;
-}
-#account-status-picker:hover, #account-set-custom-status:hover, #account-edit-custom-status:hover, #account-switch-account:hover {
-    background-color: #26292c;
-}
-.description-22_U3B {
-    display: none;
-}
-
-
-/*
-!==============================
-!     Custom Status Popout
-!==============================
-*/
-
-/* Text Field */
-.inputDefault-3FGxgL.input-2g-os5.input-3AAlUz {
-    border-radius: 8px;
-    background-color: #26292c;
-}
-
-/* Selector */
-.select-1Ia3hD.lookFilled-1GseHa {
-    border-radius: 8px;
-    background-color: #26292c;
-    border-color: #26292c;
-}
-
-/* Drop Down Menu */
-.popout-1KHNAq {
-    margin-top: 5px;
-    border-radius: 8px;
-    border: none;
-    background-color: #232527;
-}
-.option-2eIyOn {
-    background-color: #232527;
-    border-radius: 8px;
-    margin: 5px;
-    justify-content: center;
-    --background-modifier-hover: #232527;
-    --background-modifier-selected: #111111;
-}
-.option-2eIyOn:hover {
-    background-color: #1e1e1e;
-}
-
-/* Divider Hidden */
-.divider-_0um2u.formDivider-1vYIF8 {
-    display: none;
-}
-
-/* Button */
-.button-f2h6uQ.lookFilled-yCfaCM.colorBrand-I6CyqQ.sizeMedium-2bFIHr.grow-2sR_-F {
-    border-radius: 8px;
+.userPopoutOuter-3AVBmJ.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv .inputWrapper-1YNMmM:hover {
+    background-color: #242627;
 }
 
 
@@ -1641,221 +1573,20 @@
 */
 
 
-/*
-!====================
-!     Background
-!====================
-*/
-
-/* Body */
-.userProfileModalOuter-1FYL8T.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR,
-.userProfileModalInner-3fh3QA.userProfileInner-3F03PX.userProfileInnerNonPremium-1XjSjn::before {
-    width: 600px;
-    height: 100%;
-    border-radius: 8px;
+.userProfileModalOuter-1FYL8T.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR {
+    --profile-gradient-primary-color: #1a1919;
+    --profile-gradient-secondary-color: #1a1919;
+}
+.userProfileModalOuter-1FYL8T.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR .userProfileModalOverlayBackground-8p3-eU.overlayBackground-1KgwVi {
     background-color: #111111;
 }
-.infoScroller-3MqKC5.thin-31rlnD.scrollerBase-_bVAAt.fade-1R6FHN::-webkit-scrollbar-thumb {
-    display: none;
-}
-
-
-/*
-!=================
-!     Avatar
-!=================
-*/
-
-.root-8LYsGj .avatar-3QF_VA {
-    margin-left: 5px;
-    background-color: #111111;
-    border: 8px solid #111111;
-}
-.root-8LYsGj .bannerSVGWrapper-qc0szY>mask{
-    display: none;
-}
-
-
-/*
-!================
-!     Banner
-!================
-*/
-
-/* Normal Banner */
-.banner-2boKnS.profileBanner-2zIsK7.roundedBanner-TdlJGa {
-    width: 97%;
-    height: 100px;
-    margin-top: 8px;
-    margin-left: 8.5px;
-    border-radius: 8px;
-}
-
-/* Nitro Banner */
-.banner-1YaD3N.profileBannerPremium-KD60EB.bannerPremium-kkSkPv {
-    border-radius: 8px;
-    margin: 12px;
-    height: 228px;
-}
-
-/* Edit Pencile Hidden */
-.pencilContainer-18TrEJ {
-    display: none;
-}
-
-/* Nitro Icon */
-.premiumIconWrapper-32h0Ri.clickable-_6T6Od {
-    display: none;
-}
-
-
-/*
-!==============
-!     Tabs
-!==============
-*/
-
-.tabBar-2StdUa.top-K_jibn {
-    gap: 15px;
-}
-
-/* Normal */
-.tabBarItem-3VvT2z.item-3XjbnG.themed-2-lozF {
-    height: fit-content;
-    padding: 10px;
-    margin-bottom: 5px;
-    border: 0px;
-    border-radius: 8px;
+.userProfileModalOuter-1FYL8T.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR .badgeList-2pMvZX.containerWithContent-2_V0PM.container-5SvbtF {
     background-color: #111111;
 }
-
-/* Selected */
-.tabBarItem-3VvT2z.item-3XjbnG.selected-g-kMVV.themed-2-lozF {
-    background-color: #232527;
+.userProfileModalOuter-1FYL8T.userProfileOuter-1K_BYU.userProfileOuterUnthemed-2b2rsv.profileColors-3Y0XaR .badgeList-2pMvZX {
+    padding: 4px;
 }
 
-/*
-!===================
-!     User Info
-!===================
-*/
-
-/* Note */
-.textarea-_59yqs.inputDefault-3FGxgL.input-2g-os5.scrollbarGhostHairline-2LpzZ9.scrollbar-3vVt8d {
-    border-radius: 8px;
-    padding: 5px;
-    background-color: #111111;
-}
-
-
-/*
-!============================
-!     Connected Accounts
-!============================
-*/
-
-/* Container */
-.connectedAccountContainer-3aLMHJ {
-    border: none;
-    border-radius: 8px;
-    background-color: #111111;
-}
-
-/* Verified Icon Hidden */
-.connectedAccountVerifiedIcon-3EPFPC {
-    display: none;
-}
-
-/* Blue Steam Icon */
-.connectedAccountIcon-3FdW8x[aria-label="Steam"] {
-    --c:#075a8e;
-    content:linear-gradient(var(--c) 0 0);
-    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M12.0041 2.00001C17.1763 2.00895 21.4906 5.95038 21.9587 11.0944C22.4268 16.2383 18.8947 20.8919 13.8088 21.8317C8.72289 22.7716 3.75714 19.6885 2.35093 14.7179L6.20594 16.3116C6.5198 17.7178 7.8363 18.6682 9.27188 18.5248C10.7075 18.3815 11.8094 17.1896 11.8382 15.7491V15.6241L15.2552 13.1868H15.3491C16.8821 13.1944 18.2684 12.278 18.8604 10.8657C19.4523 9.45349 19.133 7.82415 18.0517 6.7389C16.9704 5.65365 15.3404 5.32671 13.9233 5.91082C12.5062 6.49494 11.5817 7.8748 11.5817 9.40577V9.46827L9.1848 12.9368H9.02522C8.45433 12.9348 7.89684 13.1095 7.4294 13.4368L2.03802 11.2182C2.43122 6.01377 6.77779 1.9934 12.0041 2.00001ZM8.30554 17.1865L7.0852 16.6865C7.29931 17.1614 7.69311 17.5322 8.18037 17.7177C9.26649 18.1594 10.5059 17.643 10.9559 16.5616C11.1781 16.0427 11.1781 15.4555 10.9559 14.9367C10.5134 13.8748 9.31078 13.3508 8.23044 13.7492L9.51648 14.2804C9.90142 14.434 10.2081 14.7361 10.3671 15.1184C10.5261 15.5007 10.524 15.9308 10.3613 16.3116C10.0152 17.1067 9.10576 17.4914 8.29302 17.1865H8.30554ZM13.4591 9.40577C13.459 9.90903 13.6615 10.3912 14.0211 10.7438C14.3807 11.0964 14.8671 11.2899 15.371 11.2806C16.4135 11.2808 17.264 10.4468 17.2828 9.40577C17.2828 8.35132 16.4268 7.49652 15.371 7.49652C14.3151 7.49652 13.4591 8.35132 13.4591 9.40577ZM17.8398 9.43702C17.855 10.4668 17.2454 11.4037 16.2969 11.8081C15.3484 12.2125 14.2492 12.0042 13.515 11.2809C12.7807 10.5576 12.5572 9.46286 12.9491 8.51021C13.3411 7.55756 14.2708 6.93603 15.3021 6.93718C15.9737 6.92193 16.6228 7.17927 17.1011 7.6504C17.5794 8.12153 17.8459 8.76617 17.8398 9.43702Z' fill='%23000'/%3E%3C/svg%3E");
-}
-
-
-/*
-!==================
-!     Activity
-!==================
-*/
-
-/* Activity Title Hidden */
-.headerContainer-1wJjOa.flex-3BkGQD.marginBottom8-emkd0_ {
-    display: none;
-}
-
-/* Better Position */
-.activityProfileV2-1N7pee.userProfileActivity-1JPDhh {
-    padding-top: 9px;
-    padding-bottom: 0px;
-}
-
-/* Icons Radius */
-.assetsLargeImageProfileV2-2nujZI, .assetsLargeImageUserPopoutV2-9ksyvz {
-    border-radius: 8px;
-}
-
-/* Platform Icon */
-.platformIcon-k3yytQ {
-    margin-top: -10px;
-}
-
-/* Spotify Buttons Hidden */
-.flex-2S1XBF.flex-3BkGQD.horizontal-112GEH.horizontal-1Piu5-.flex-3BkGQD.directionRow-2Iu2A9.justifyStart-2Mwniq.alignEnd-2awoY_.noWrap-hBpHBz.actionsProfileV2-2xJe2L.buttonsWrapper-2ARRp1.horizontal-30-DXt {
-    display: none;
-}
-
-
-/*
-!================================
-!     Mutual Servers/Friends
-!================================
-*/
-
-.listRow-Y5zoF8 {
-    padding: 5px;
-    border-radius: 8px;
-    margin-bottom: 5px;
-    background-color: #111111;
-}
-.listRow-Y5zoF8:hover {
-    background-color: #232527;
-}
-
-/*
-!=====================
-!     Data Access
-!=====================
-*/
-
-.row-3NCCgF {
-    padding: 10px;
-    margin: 7px;
-    margin-left: 8px;
-    border-radius: 8px;
-    background-color: #111111;
-}
-.divider-1WxFNb {
-    display: none;
-}
-
-
-/*
-!===============
-!     Other
-!===============
-*/
-
-/* Friend Request/Message Button */
-.actionButton-iarQTd {
-    border-radius: 8px;
-}
-
-/* Add to Server */
-.applicationInstallButton-1-58qm {
-    border-radius: 8px;
-}
 
 
 /*
@@ -3093,7 +2824,7 @@ div>.divider--oiTeJ>.children-1xdcWE>.divider--oiTeJ, div>.divider--oiTeJ>.child
     --hl-inbox: "M6.912 3a3 3 0 00-2.868 2.118l-2.411 7.838a3 3 0 00-.133.882V18a3 3 0 003 3h15a3 3 0 003-3v-4.162c0-.299-.045-.596-.133-.882l-2.412-7.838A3 3 0 0017.088 3H6.912zm13.823 9.75l-2.213-7.191A1.5 1.5 0 0017.088 4.5H6.912a1.5 1.5 0 00-1.434 1.059L3.265 12.75H6.11a3 3 0 012.684 1.658l.256.513a1.5 1.5 0 001.342.829h3.218a1.5 1.5 0 001.342-.83l.256-.512a3 3 0 012.684-1.658h2.844z";
     --hl-help: "M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm11.378-3.917c-.89-.777-2.366-.777-3.255 0a.75.75 0 01-.988-1.129c1.454-1.272 3.776-1.272 5.23 0 1.513 1.324 1.513 3.518 0 4.842a3.75 3.75 0 01-.837.552c-.676.328-1.028.774-1.028 1.152v.75a.75.75 0 01-1.5 0v-.75c0-1.279 1.06-2.107 1.875-2.502.182-.088.351-.199.503-.331.83-.727.83-1.857 0-2.584zM12 18a.75.75 0 100-1.5.75.75 0 000 1.5z";
 
-
+    /* Server Channel Side */
 
 
 
@@ -3223,6 +2954,23 @@ div>.divider--oiTeJ>.children-1xdcWE>.divider--oiTeJ, div>.divider--oiTeJ>.child
     d:path(var(--ser-h-rep-raid));
     fill-rule: evenodd;
 }
+
+
+/*
+!=============================
+!     Server Channel Side
+!=============================
+*/
+
+
+
+
+/*
+!===========================
+!     User Setting Tabs
+!===========================
+*/
+
 
 
 
