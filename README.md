@@ -4,12 +4,8 @@
   <a href="https://github.com/SkyEnergy0/Beautiful-Discord-Theme">
     <img src="images/Logo.png" alt="Logo" width="250" height="250">
   </a>
-
-<<<<<<< HEAD
+  
   <h1 align="center">MK2 v1.6.2 (beta) | Beautiful Discord | Not Finished</h1>
-=======
-  <h1 align="center">MK2 v1.5.3 (beta) | Beautiful Discord | Not Finished</h1>
->>>>>>> e83b7d48647709d0f3371094fd42a59a3f62ef19
 
   <p align="center">
     Made by a CSS NOOB but there's ❤️ in it
