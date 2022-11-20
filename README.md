@@ -38,12 +38,7 @@
 - ⭕ Variables
 - 🔧 Settings
 - ✅ Forum
-- ⭕ Thread
-- ⭕ App Directory
-- ⭕ Server Discover
-- ⭕ Server Home (Beta)
 - ✅ User Popups Redesign
-- ⭕ White Mode Support
 
 <!-- CONTACT -->
 ## Contact
