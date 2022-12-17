@@ -12,8 +12,14 @@
   </p>
 </div>
 
+<div align="center">
+  <a href="https://cdn.discordapp.com/attachments/1051825367008153620/1053727301780652112/image.png">
+    <img src="https://cdn.discordapp.com/attachments/1051825367008153620/1053727301780652112/image.png" alt="Logo">
+  </a>
+</div>
+
 <!-- ABOUT THE PROJECT -->
-## Preview
+## Preview (MK2 Old Version)
 
 <div align="center">
   <a href="https://cdn.discordapp.com/attachments/913890209224077382/1023278340653719683/unknown.png">
@@ -34,13 +40,9 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- ✅ MK2
-- ⭕ Variables
-- 🔧 Settings
-- ✅ Forum
-- ✅ User Popups Redesign
+- 🔧 MK3
 
 <!-- CONTACT -->
 ## Contact
 
- Discord - SkyEnergy#2948
+ [Discord - SkyEnergy#2948](https://discord.com/channels/@me/1053728373035257876)
