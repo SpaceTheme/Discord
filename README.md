@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://cdn.discordapp.com/attachments/1051825367008153620/1053727301780652112/image.png">
-    <img src="https://cdn.discordapp.com/attachments/1051825367008153620/1053727301780652112/image.png" alt="Logo">
+    <img src="https://cdn.discordapp.com/attachments/1051825367008153620/1053727301780652112/image.png">
   </a>
 </div>
 
