@@ -19,7 +19,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## Preview (MK2 Old Version)
+## Preview (from 24/09/2022)
 
 <div align="center">
   <a href="https://cdn.discordapp.com/attachments/913890209224077382/1023278340653719683/unknown.png">
