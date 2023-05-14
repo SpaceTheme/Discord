@@ -1,48 +1,22 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/SkyEnergy0/Beautiful-Discord-Theme">
-    <img src="images/Logo.png" alt="Logo" width="250" height="250">
-  </a>
-  
-  <h1 align="center">MK2 v1.6.6 (beta) | Beautiful Discord | Not Finished</h1>
+![Announcement](https://media.discordapp.net/attachments/1051825367008153620/1107104722399285268/image.png?width=1611&height=105)
 
-  <p align="center">
-    Made by a CSS NOOB but there's ❤️ in it
-  </p>
-</div>
-
-<div align="center">
-  <a href="https://cdn.discordapp.com/attachments/1051825367008153620/1053727301780652112/image.png">
-    <img src="https://cdn.discordapp.com/attachments/1051825367008153620/1053727301780652112/image.png">
-  </a>
-</div>
-
-<!-- ABOUT THE PROJECT -->
-## Preview (from 24/09/2022)
-
-<div align="center">
-  <a href="https://cdn.discordapp.com/attachments/913890209224077382/1023278340653719683/unknown.png">
-    <img src="images/screenshot-1.png" alt="Logo">
-  </a>
-</div>
+![Logo](images/SpaceTheme_Banner.png)
+# SpaceTheme for Discord | v1.1.3 (alpha)
+[Join Discord Server for more News and Updates](https://discord.gg/7Zv8Xz3Vzn)
 
 ## Installation
+**1.** First, make sure you have BetterDiscord installed. If you haven't installed it yet, you can download it from their [official website](https://betterdiscord.app) and follow the installation instructions.
 
-1. Download [BetterDiscord](https://betterdiscord.app)
-2. Download [Beautiful Discord MK2 (beta)](https://github.com/SkyEnergy0/Beautiful-Discord-Theme/releases)
-3. Install Theme go to
-   ```
-   C:\Users\your_username_\AppData\Roaming\BetterDiscord\themes
-   ```
-4. Paste the ```Beautiful-Discord-MK2.theme.css``` file into the themes folder
+**2.** Once you have BetterDiscord successfully installed, download the `SpaceTheme-MK3.1.theme.css` file from [⁠updates](https://discord.com/channels/1104516050537685144/1104523460052520980).
 
-<!-- ROADMAP -->
-## Roadmap
+**3.** Open the file explorer and type `%AppData%\BetterDiscord\themes` in the address bar and hit enter.
 
-- 🔧 MK3
+**4.** Paste the `SpaceTheme-MK3.1.theme.css` file in the `themes` folder.
 
-<!-- CONTACT -->
-## Contact
+**5.** Open Discord and navigate to the *User Settings* by clicking the gear icon in the bottom left corner of the screen.
 
- [Discord - SkyEnergy#2948](https://discord.com/channels/@me/1053728373035257876)
+**6.** Scroll down to *Themes* and click on it.
+
+**7.** Find *🪐SpaceTheme🪐* in the list of themes and click on the *Enable* button.
+
+Voila! You have successfully installed and activated SpaceTheme. Enjoy the new look of your Discord!
