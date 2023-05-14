@@ -7,7 +7,7 @@
 ## Installation
 **1.** First, make sure you have BetterDiscord installed. If you haven't installed it yet, you can download it from their [official website](https://betterdiscord.app) and follow the installation instructions.
 
-**2.** Once you have BetterDiscord successfully installed, download the `SpaceTheme.theme.css` file from [⁠updates](https://discord.com/channels/1104516050537685144/1104523460052520980).
+**2.** Once you have BetterDiscord successfully installed, download the `SpaceTheme.theme.css` file from [Releases](https://github.com/SkyEnergy0/SpaceTheme-Discord/releases) or [⁠Discord - Updates](https://discord.com/channels/1104516050537685144/1104523460052520980).
 
 **3.** Open the file explorer and type `%AppData%\BetterDiscord\themes` in the address bar and hit enter.
 
