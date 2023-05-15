@@ -1,8 +1,8 @@
-![Announcement](https://media.discordapp.net/attachments/1051825367008153620/1107104722399285268/image.png?width=1611&height=105)
+![Announcement](https://media.discordapp.net/attachments/1051825367008153620/1107104722399285268/image.png)
 
-![Logo](https://media.discordapp.net/attachments/1051825367008153620/1107094789960253460/image.png?width=2023&height=897)
+![Logo](https://media.discordapp.net/attachments/1051825367008153620/1107094789960253460/image.png)
 # SpaceTheme for Discord | v1.1.3 (alpha)
-[Join Discord Server for more News and Updates](https://discord.gg/7Zv8Xz3Vzn)
+[Join Discord Server for Support, News and Updates](https://discord.gg/7Zv8Xz3Vzn)
 
 ## Installation
 **1.** First, make sure you have BetterDiscord installed. If you haven't installed it yet, you can download it from their [official website](https://betterdiscord.app) and follow the installation instructions.
