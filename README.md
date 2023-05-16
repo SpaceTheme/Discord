@@ -4,6 +4,10 @@
 # SpaceTheme for Discord | v1.1.3 (alpha)
 [Join Discord Server for Support, News and Updates](https://discord.gg/7Zv8Xz3Vzn)
 
+<a href="https://ko-fi.com/spaceenergy">
+  <img src="https://cdn.discordapp.com/attachments/1104518841092034631/1108133244198723656/kofi_bg_tag_dark.png" height="60">
+</a>
+
 ## Installation
 **1.** First, make sure you have BetterDiscord installed. If you haven't installed it yet, you can download it from their [official website](https://betterdiscord.app) and follow the installation instructions.
 
