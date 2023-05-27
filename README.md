@@ -6,6 +6,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/spaceenergy)
 
+## Preview (v1.1.3 (alpha))
+![Preview](https://cdn.discordapp.com/attachments/1104518841092034631/1112150639699558512/image.png)
+
 ## Installation
 **1.** First, make sure you have BetterDiscord installed. If you haven't installed it yet, you can download it from their [official website](https://betterdiscord.app) and follow the installation instructions.
 
