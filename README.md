@@ -1,13 +1,20 @@
 [![Banner](https://media.discordapp.net/attachments/1107274994288959510/1107655839889768448/image.png)](https://github.com/SkyEnergy0/SpaceTheme-Steam)
 
-![Logo](https://media.discordapp.net/attachments/1107274994288959510/1107276526757617684/image.png)
-# SpaceTheme for Discord | v1.2.3 (alpha)
+![Logo](https://cdn.discordapp.com/attachments/1107274994288959510/1145257964270276688/Group_165.png)
+# SpaceTheme for Discord | v1.2.4 (alpha)
 [Join Discord Server for Support, News and Updates](https://discord.gg/7Zv8Xz3Vzn)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/spaceenergy)
 
-## Preview (v1.1.3 (alpha))
-![Preview](https://cdn.discordapp.com/attachments/1104518841092034631/1112150639699558512/image.png)
+## Preview (v1.2.4 (alpha))
+![Preview](https://cdn.discordapp.com/attachments/1107274994288959510/1145266438832132106/Frame_9.png)
+<details>
+  <summary>More images</summary>
+  <h3>Forum (WIP)</h3>
+  <img src="https://cdn.discordapp.com/attachments/1107274994288959510/1145265542362562661/Frame_8.png">
+  <h3>100% Settings width</h3>
+  <img src="https://cdn.discordapp.com/attachments/1107274994288959510/1145265541536284722/Frame_10.png">
+</details>
 
 ## Installation
 **1.** First, make sure you have BetterDiscord installed. If you haven't installed it yet, you can download it from their [official website](https://betterdiscord.app) and follow the installation instructions.
