@@ -9,7 +9,9 @@
 ## Preview
 ![Preview](https://cdn.discordapp.com/attachments/1107274994288959510/1147897252224974868/Frame_11.png)
 <details>
-  <summary>More images</summary>
+  <summary>More images (v1.2.4 (alpha))</summary>
+  <h3>Chat</h3>
+  <img src="https://cdn.discordapp.com/attachments/1107274994288959510/1145266438832132106/Frame_9.png">
   <h3>Forum (WIP)</h3>
   <img src="https://cdn.discordapp.com/attachments/1107274994288959510/1145265542362562661/Frame_8.png">
   <h3>100% Settings width</h3>
