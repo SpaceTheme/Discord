@@ -1,4 +1,4 @@
-[![Banner](https://media.discordapp.net/attachments/1107274994288959510/1107655839889768448/image.png)](https://github.com/SkyEnergy0/SpaceTheme-Steam)
+[![Banner](https://media.discordapp.net/attachments/1107274994288959510/1107655839889768448/image.png)](https://github.com/SpaceEnergy/SpaceTheme-Steam)
 
 ![Logo](https://cdn.discordapp.com/attachments/1107274994288959510/1145273484990234654/Group_165.png)
 # SpaceTheme for Discord | v1.3.0 part 1/2 (alpha)
@@ -21,7 +21,7 @@
 ## Installation
 **1.** First, make sure you have BetterDiscord installed. If you haven't installed it yet, you can download it from their [official website](https://betterdiscord.app) and follow the installation instructions.
 
-**2.** Once you have BetterDiscord successfully installed, download the `SpaceTheme-alpha.theme.css` file from [Releases](https://github.com/SkyEnergy0/SpaceTheme-Discord/releases) or [⁠Discord - Updates](https://discord.com/channels/1104516050537685144/1104523460052520980).
+**2.** Once you have BetterDiscord successfully installed, download the `SpaceTheme-alpha.theme.css` file from [Releases](https://github.com/SpaceEnergy/SpaceTheme-Discord/releases) or [⁠Discord - Updates](https://discord.com/channels/1104516050537685144/1104523460052520980).
 
 **3.** Open the file explorer and type `%AppData%\BetterDiscord\themes` in the address bar and hit enter.
 
