@@ -1,21 +1,20 @@
-[![Banner](https://media.discordapp.net/attachments/1107274994288959510/1107655839889768448/image.png)](https://github.com/SpaceEnergy/SpaceTheme-Steam)
+![Banner](https://i.imgur.com/pGjctKv.png)
+[![Banner](https://i.imgur.com/3OnuvpH.png)](https://github.com/SpaceEnergy/SpaceTheme-Steam)
 
-![Logo](https://cdn.discordapp.com/attachments/1107274994288959510/1145273484990234654/Group_165.png)
-# SpaceTheme for Discord | v1.3.0 (alpha)
+![Logo](https://i.imgur.com/oo9MNQb.png)
+# SpaceTheme for Discord | v1.3.0-alpha
 [Join Discord Server for Support, News and Updates](https://discord.gg/7Zv8Xz3Vzn)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/spaceenergy)
 
 ## Preview
-![Preview](https://cdn.discordapp.com/attachments/1107274994288959510/1147897252224974868/Frame_11.png)
+![Preview](https://i.imgur.com/S0hi5np.png)
 <details>
-  <summary>More images (v1.2.4 (alpha))</summary>
-  <h3>Chat</h3>
-  <img src="https://cdn.discordapp.com/attachments/1107274994288959510/1145266438832132106/Frame_9.png">
-  <h3>Forum (WIP)</h3>
-  <img src="https://cdn.discordapp.com/attachments/1107274994288959510/1145265542362562661/Frame_8.png">
-  <h3>100% Settings width</h3>
-  <img src="https://cdn.discordapp.com/attachments/1107274994288959510/1145265541536284722/Frame_10.png">
+    <summary>More images v1.3.0-alpha</summary>
+    <h3>Chat</h3>
+    <img src="https://i.imgur.com/XJtsaKE.png">
+    <h3>Forum</h3>
+    <img src="https://i.imgur.com/SJ7Pbxt.png">
 </details>
 
 ## Installation
