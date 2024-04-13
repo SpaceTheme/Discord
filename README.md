@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/pGjctKv.png)
+<!-- ![Banner](https://i.imgur.com/pGjctKv.png) -->
 [![Banner](https://i.imgur.com/3OnuvpH.png)](https://github.com/SpaceEnergy/SpaceTheme-Steam)
 
 ![Logo](https://i.imgur.com/oo9MNQb.png)
