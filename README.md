@@ -10,7 +10,7 @@
 ## Preview
 ![Preview](https://i.imgur.com/S0hi5np.png)
 <details>
-    <summary>More images v1.3.0-alpha</summary>
+    <summary>More images v1.3.2-alpha</summary>
     <h3>Chat</h3>
     <img src="https://i.imgur.com/XJtsaKE.png">
     <h3>Forum</h3>
