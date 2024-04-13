@@ -2,7 +2,7 @@
 [![Banner](https://i.imgur.com/3OnuvpH.png)](https://github.com/SpaceEnergy/SpaceTheme-Steam)
 
 ![Logo](https://i.imgur.com/oo9MNQb.png)
-# SpaceTheme for Discord | v1.3.0-alpha
+# SpaceTheme for Discord | v1.3.2-alpha
 [Join Discord Server for Support, News and Updates](https://discord.gg/7Zv8Xz3Vzn)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/spacetheme)
@@ -10,7 +10,7 @@
 ## Preview
 ![Preview](https://i.imgur.com/S0hi5np.png)
 <details>
-    <summary>More images v1.3.2-alpha</summary>
+    <summary>More images v1.3.0-alpha</summary>
     <h3>Chat</h3>
     <img src="https://i.imgur.com/XJtsaKE.png">
     <h3>Forum</h3>
