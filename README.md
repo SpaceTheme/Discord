@@ -5,7 +5,6 @@
 
 # SpaceTheme for Discord
 
-## Preview
 ![Preview](https://i.imgur.com/S0hi5np.png)
 <details>
     <summary>More images v1.3.0-alpha</summary>
