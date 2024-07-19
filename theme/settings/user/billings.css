@@ -1,0 +1,70 @@
+.paymentPane_f66684 {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2) !important;
+}
+
+.paymentPane_f66684 .paymentRow_f66684 {
+    border: none;
+}
+.paymentPane_f66684 .paymentRowHeader_f66684 {
+    margin-right: 70px;
+    padding: 15px 30px;
+}
+
+.paymentPane_f66684 .scrollerBase_eed6a8 {
+    overflow: unset !important;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: none;
+}
+.paymentPane_f66684 .paginator_f66684 {
+    background-color: unset;
+}
+
+.bottomDivider_f66684 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    border: none;
+}
+.bottomDivider_f66684::-webkit-scrollbar {
+    display: none;
+}
+
+.paymentPane_f66684 .payment_a28a08 {
+    gap: 0;
+    width: auto;
+    margin: 0 10px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+.paymentPane_f66684 .payment_a28a08:hover {
+    background-color: var(--color-3);
+}
+.paymentPane_f66684 .payment_a28a08 .expandedInfo_a28a08 {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+.paymentPane_f66684 .pageActions_cb56ee {
+    gap: 5px;
+    margin: 15px 10px 10px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+}
+.paymentPane_f66684 .pageIndicator_cb56ee,
+.paymentPane_f66684 .pageButtonPrev_cb56ee,
+.paymentPane_f66684 .pageButtonNext_cb56ee {
+    border: none;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+
+.codeRedemptionRedirect_cb70f4.card_a298b8 {
+    margin-top: 15px;
+    border: none;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}

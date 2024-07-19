@@ -1,0 +1,32 @@
+.vc-plugins-grid,
+.vc-settings-theme-grid {
+    display: grid;
+    grid: auto-flow dense/repeat(auto-fit,minmax(20rem,1fr));
+    grid-auto-rows: minmax(3rem,auto);
+    grid-gap: 16px;
+}
+
+
+.vc-addon-card {
+    margin: 0;
+    border-radius: var(--border-radius-large);
+    background: var(--color-2);
+}
+
+.vc-addon-header {
+    width: auto;
+    margin: 0 0 12px;
+    padding: 12px;
+    border: 2px solid var(--color-3);
+    border-radius: var(--border-radius-large);
+    background: var(--color-3);
+}
+.vc-addon-header .bd-icon {
+    height: 20px !important;
+    width: 20px !important;
+    fill: var(--accent);
+}
+
+.vc-addon-card a[role="link"] {
+    color: var(--accent);
+}

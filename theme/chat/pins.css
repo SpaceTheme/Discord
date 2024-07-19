@@ -1,0 +1,38 @@
+.layerContainer_cd0de5:has(.messagesPopoutWrap_ac90a2) .layer_cd0de5 {
+    top: 91.5px !important;
+}
+
+
+.layerContainer_cd0de5 .messagesPopoutWrap_ac90a2 {
+    width: 600px;
+    max-height: 80vh !important;
+    padding: 12px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+.layerContainer_cd0de5 .messagesPopoutWrap_ac90a2 .header_ac90a2 {
+    margin-bottom: 12px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+.layerContainer_cd0de5 .messagesPopoutWrap_ac90a2 [class*="scroller"] {
+    padding: 0;
+    border-radius: var(--border-radius-large);
+}
+.layerContainer_cd0de5 .messagesPopoutWrap_ac90a2 [class*="scroller"]::-webkit-scrollbar {
+    display: none;
+}
+
+.layerContainer_cd0de5 .messagesPopoutWrap_ac90a2 .messageGroupWrapper_ac90a2 {
+    margin-bottom: 6px;
+    border: none;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+.layerContainer_cd0de5 .messagesPopoutWrap_ac90a2 .footer_ac90a2 {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}

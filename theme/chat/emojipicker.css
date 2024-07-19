@@ -1,0 +1,154 @@
+.contentWrapper_af5dbb,
+.wrapper_c6ee36:not(.emojiPickerHasTabWrapper_c6ee36) {
+    grid-row-gap: 0;
+    grid-template-rows: 40px auto;
+    padding-top: 12px;
+    background-color: var(--color-2);
+}
+.wrapper_c6ee36:not(.emojiPickerHasTabWrapper_c6ee36) .emojiPicker_c6ee36 {
+    background-color: var(--color-2);
+    box-shadow: none
+}
+
+.positionContainer_af5dbb,
+.wrapper_c6ee36:not(.emojiPickerHasTabWrapper_c6ee36) {
+    height: 650px;
+}
+.wrapper_c6ee36:not(.emojiPickerHasTabWrapper_c6ee36) .emojiPicker_c6ee36 {
+    height: calc(650px - 58px);
+    border-radius: var(--border-radius-large);
+}
+
+.drawerSizingWrapper_af5dbb,
+.wrapper_c6ee36:not(.emojiPickerHasTabWrapper_c6ee36) .emojiPicker_c6ee36 {
+    max-width: 475px;
+}
+
+.resizeHandle_af5dbb {
+    display: none
+}
+
+
+/* Tabs */
+.contentWrapper_af5dbb .nav_af5dbb {
+    display: flex;
+    height: 40px;
+    padding: 0 12px;
+}
+.contentWrapper_af5dbb .navList_af5dbb {
+    width: 100%;
+    gap: 6px;
+}
+.contentWrapper_af5dbb .navButton_af5dbb {
+    width: 100%;
+    padding: 12px 20px;
+    background-color: var(--color-1);
+}
+.contentWrapper_af5dbb .navItem_af5dbb {
+    flex: unset;
+}
+.navItem_af5dbb+.navItem_af5dbb {
+    margin: 0;
+}
+
+
+/* Searchbar */
+.wrapper_c6ee36:not(.emojiPickerHasTabWrapper_c6ee36) .header_c6ee36 {
+    margin: 0 12px;
+}
+.header_c6ee36,
+.contentWrapper_af5dbb .header_b56bbc,
+.contentWrapper_af5dbb .header_d8cdac {
+    margin: 12px 12px 0;
+    padding: 12px 12px 6px;
+    border-radius: var(--border-radius-large) var(--border-radius-large) 0 0;
+    background-color: var(--color-1);
+    box-shadow: none;
+}
+.header_c6ee36 .searchBar_b56bbc,
+.contentWrapper_af5dbb .header_b56bbc .searchBar_b56bbc,
+.contentWrapper_af5dbb .header_d8cdac .container_effbe2 {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-4);
+}
+.header_c6ee36 .searchBar_b56bbc .inner_effbe2,
+.contentWrapper_af5dbb .header_b56bbc .searchBar_b56bbc .inner_c18ec9,
+.contentWrapper_af5dbb .header_d8cdac .container_effbe2 .inner_effbe2 {
+    overflow: hidden !important;
+    padding: 6px !important;
+}
+
+
+/* Grid */
+.wrapper_d8cdac,
+.emojiPicker_c6ee36 {
+    grid-template-columns: 0 auto;
+}
+
+
+/* Emoji list */
+.emojiPickerListWrapper_c6ee36 {
+    margin: 0 12px 12px;
+    border-radius: 0 0 var(--border-radius-large) var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+.wrapper_e06857 {
+    background-color: var(--color-1);
+}
+
+
+/* Emoji infos */
+.inspector_c3120f {
+    width: calc(100% - 20px);
+    margin: -5px auto 67px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+}
+
+
+/* Sticker list */
+#sticker-picker-grid .row_a708c4 {
+    column-gap: 16px !important;
+}
+#sticker-picker-grid .scroller_dcade6 {
+    height: calc(100% - 12px);
+    margin: 0 12px 12px;
+    border-radius: 0 0 var(--border-radius-large) var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+
+/* Gif list */
+#gif-picker-tab-panel .container_af1167 {
+    height: calc(100% - 12px);
+    margin: 0 12px 12px;
+    border-radius: 0 0 var(--border-radius-large) var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+
+/* Server bar */
+.wrapper_ba23fe.categoryList_c6ee36,
+.wrapper_ba23fe.categoryList_a7a485 {
+    max-height: 455px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+    transform: rotate(-90deg) translateX(-288px) translateY(213.5px);
+}
+.wrapper_c6ee36:not(.emojiPickerHasTabWrapper_c6ee36) .wrapper_ba23fe.categoryList_c6ee36 {
+    transform: rotate(-90deg) translateX(-340.5px) translateY(213.5px);
+}
+
+.wrapper_ba23fe.categoryList_c6ee36 .categoryItem_dfa278,
+.wrapper_ba23fe.categoryList_c6ee36 .unicodeShortcut_dfa278,
+.wrapper_ba23fe.categoryList_a7a485 .stickerCategory_a7a485,
+.wrapper_ba23fe.categoryList_a7a485 .standardStickerShortcut_a7a485 {
+    transform: rotate(90deg);
+    border-radius: var(--border-radius-large);
+}
+
+.wrapper_ba23fe.categoryList_c6ee36 .scroller_dcade6::-webkit-scrollbar,
+.wrapper_ba23fe.categoryList_a7a485 .scroller_dcade6::-webkit-scrollbar {
+    display: none;
+}

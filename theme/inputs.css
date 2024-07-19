@@ -1,0 +1,149 @@
+/*
+* Button
+*/
+button {
+    border-radius: var(--border-radius-large) !important;
+}
+
+
+/*
+* Color
+*/
+.customColorPicker_bbc020 {
+    border: none;
+    border-radius: var(--border-radius-large);
+    background: var(--color-2) !important;
+    box-shadow: none;
+}
+
+:has(.sectionsContainer_b45d91) .customColorPicker_bbc020 {
+    width: 283px;
+}
+:has(.sectionsContainer_b45d91) .layer_cd0de5:has(.customColorPicker_bbc020) {
+    margin: 61px -77px 0;
+}
+:has(.customColorPicker_bbc020) .customizationSection_b3a5c2:has(.colorSwatch_c66781) {
+    padding-bottom: 346px !important;
+}
+
+:has(.colorPicker_da1bd9) .customColorPicker_bbc020 {
+    width: 410px;
+}
+:has(.colorPicker_da1bd9) .layer_cd0de5:has(.customColorPicker_bbc020) {
+    margin: 61px -150px 0;
+}
+:has(.customColorPicker_bbc020) .colorPicker_da1bd9 {
+    padding-bottom: 271px !important;
+}
+
+.saturation__918ba>div {
+    border-radius: var(--border-radius-large);
+}
+.customColorPicker_bbc020 .saturation-white {
+    border-radius: var(--border-radius-large);
+}
+.customColorPicker_bbc020 .saturation-black {
+    border-radius: 7px;
+}
+
+.suggestedColors__513bd {
+    flex-wrap: unset;
+}
+.suggestedColor__713b5 {
+    border: 2px solid var(--color-1);
+    border-radius: var(--border-radius-large);
+}
+.suggestedColor__713b5:hover {
+    border: 2px solid var(--accent);
+    border-radius: var(--border-radius-large);
+}
+
+
+/*
+* Dropdown
+*/
+.select_f6639d {
+    border: none;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2) !important;
+}
+
+.popout_f6639d {
+    margin-top: 6px;
+    padding: 6px;
+    border: none;
+    border-radius: var(--border-radius-large);
+    background: var(--color-2);
+}
+.option_f6639d {
+    margin: 6px 0;
+    border-radius: var(--border-radius-large);
+}
+
+
+/*
+* Radio Button
+*/
+.iconContainer_d90b3d:has([d="M12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4C7.58172 4 4 7.58172 4 12C4 16.4183 7.58172 20 12 20ZM12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"]) {
+    color: var(--accent-2);
+}
+.iconContainer_d90b3d .radioSelection_d90b3d {
+    color: var(--accent);
+}
+.focused_d90b3d .iconContainer_d90b3d .radioSelection_d90b3d {
+    color: var(--accent);
+}
+
+
+/*
+* Range
+*/
+.slider_c7a159 .bar_c7a159 {
+    background: var(--color-2);
+}
+.slider_c7a159 .barFill_c7a159 {
+    background: var(--accent);
+}
+
+.slider_c7a159 .grabber_c7a159 {
+    border: none;
+    background: var(--accent-2);
+}
+
+.slider_c7a159 .defaultValue_c7a159 .markValue_c7a159 {
+    color: var(--accent);
+}
+.slider_c7a159 .markDash_c7a159 {
+    width: 4px;
+    border-radius: var(--border-radius-large);
+    background: var(--color-2);
+}
+
+
+/*
+* Switch
+*/
+.bd-switch .bd-switch-body,
+.container_cebd1c {
+    background-color: var(--color-2) !important;
+}
+
+.bd-switch input:checked + .bd-switch-body,
+.container_cebd1c.checked_cebd1c {
+    background-color: var(--accent) !important;
+}
+
+.bd-switch .bd-switch-handle,
+.container_cebd1c > svg > rect {
+    fill: black !important;
+}
+
+.bd-switch input:checked + .bd-switch-body .bd-switch-handle,
+.container_cebd1c.checked_cebd1c > svg > rect {
+    fill: black !important;
+}
+
+.bd-switch .bd-switch-symbol path,
+.container_cebd1c > svg > svg > path {
+    display: none;
+}

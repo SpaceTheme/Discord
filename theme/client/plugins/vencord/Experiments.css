@@ -1,0 +1,10 @@
+#experiments-tab:has(#vc-experiments-warning-card) .children_a6ae9b::before {
+    display: none;
+}
+
+#experiments-tab #vc-experiments-warning-card {
+    padding: 26px;
+    border-radius: var(--border-radius-large);
+    border: 2px solid #EF4B4B;
+    background: rgba(239, 75, 75, 0.17);
+}

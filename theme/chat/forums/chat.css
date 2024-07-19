@@ -1,0 +1,31 @@
+.resizeHandle_d1c246 {
+    height: 200px;
+    width: 5px;
+    margin: auto 6px;
+    border-radius: var(--border-radius-large);
+    background: var(--accent-2);
+    transition: height 0.3s ease-in-out;
+}
+.resizeHandle_d1c246:hover {
+    height: 210px;
+    background: var(--accent);
+}
+.container_d1c246 {
+    background: var(--background);
+}
+
+.container_d1c246 .chatHeaderBar_e2f46e {
+    margin: 12px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+.container_b385c8 {
+    margin: 12px 16px 12px 30px;
+    border: none;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.divider_af45f8 {
+    display: none;
+}

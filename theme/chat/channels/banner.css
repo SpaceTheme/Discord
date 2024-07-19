@@ -1,0 +1,11 @@
+.hasBanner_fd6364 .header_fd6364 {
+    margin: 12px 12px 0;
+}
+.animatedContainer_fd6364 {
+    width: calc(100% - 20px);
+    margin: 12px 12px 0;
+    border-radius: var(--border-radius-large);
+}
+.bannerImage_fd6364 {
+    width: 100%;
+}

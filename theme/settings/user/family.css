@@ -1,0 +1,29 @@
+.container_d00e26 .max-width_d00e26,
+.container_d00e26 .max-width_a2e886,
+.container_f70f48 {
+    max-width: unset;
+}
+
+.container_d00e26 .container_b01337,
+.container_d00e26 .container_a2e886,
+.container_f70f48 .box_f70f48 {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+.container_d00e26 .featureCards_d00e26 .container_d00e26 {
+    width: 100%;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.container_d00e26 .featureCards_d00e26 .circle_d7c696 {
+    background-color: var(--color-2);
+}
+
+
+.container_d00e26 .container_a2e886 .row_e677b7 {
+    background-color: var(--color-4);
+}
+.container_d00e26 .container_a2e886 .iconContainer_e677b7 {
+    background-color: var(--color-4);
+}

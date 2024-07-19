@@ -1,0 +1,39 @@
+.contentColumn_c25c6d:has(.localizedName_a4645f) div[role="radiogroup"] {
+    display: grid;
+    grid: auto-flow dense/repeat(auto-fit,minmax(15rem,1fr));
+    grid-auto-rows: minmax(3rem,auto);
+    grid-gap: 10px;
+}
+
+.contentColumn_c25c6d:has(.localizedName_a4645f) .item_eb92a8 {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 15px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.contentColumn_c25c6d:has(.localizedName_a4645f) .item_eb92a8:hover {
+    background-color: var(--color-4);
+}
+.contentColumn_c25c6d:has(.localizedName_a4645f) .item_eb92a8[aria-checked="true"] {
+    border: 2px solid var(--color-5);
+    background-color: var(--color-4);
+}
+.contentColumn_c25c6d:has(.localizedName_a4645f) .item_eb92a8 .option_a4645f {
+    flex-direction: column;
+}
+
+.contentColumn_c25c6d:has(.localizedName_a4645f) .item_eb92a8 .radioBar_eb92a8>div:has(svg) {
+    display: none;
+}
+
+.contentColumn_c25c6d:has(.localizedName_a4645f) .item_eb92a8 .flag_a4645f {
+    order: -1;
+    margin-bottom: 15px;
+}
+.contentColumn_c25c6d:has(.localizedName_a4645f) .item_eb92a8 .flag_a4645f .flagImage_a4645f {
+    width: auto;
+    height: 40px;
+    margin: 0;
+}

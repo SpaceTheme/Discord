@@ -1,0 +1,29 @@
+/* Navbar */
+.root_dd069c.idle_dd069c .topControls_dd069c {
+    opacity: 1;
+    transform: unset;
+}
+
+
+/* Base */
+.callContainer_d880dc {
+    background-color: var(--background);
+}
+.videoGridWrapper_bae578 {
+    margin-top: 70px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+
+/* Gradient */
+.videoControls_dd069c .gradientContainer_dd069c {
+    display: none;
+}
+
+
+/* Toolbar */
+.root_dd069c.idle_dd069c .bottomControls_dd069c {
+    opacity: 1;
+    transform: unset;
+}

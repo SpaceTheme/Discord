@@ -1,0 +1,9 @@
+.container_a6d69a {
+    padding: 16px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+.container_a6d69a .content_eed6a8 {
+    min-width: unset !important;
+}

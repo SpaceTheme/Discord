@@ -1,0 +1,18 @@
+.chat_a7d72e {
+    background-color: transparent;
+}
+.content_a7d72e:before {
+    display: none;
+}
+
+.chatContent_a7d72e {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+.chatContent_a7d72e .scroller_e2e187 {
+    border-radius: var(--border-radius-large);
+}
+.form_a7d72e::before,
+.form_a7d72e::after {
+    display: none;
+}

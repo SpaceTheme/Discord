@@ -1,0 +1,18 @@
+.container_ee69e0 {
+    margin: 0 0 16px 0;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2) !important;
+}
+.sidebar_a4d4d9 {
+    width: 260px;
+    margin: 0 16px 0 0;
+    background-color: transparent;
+}
+.header_fd6364 {
+    border-radius: var(--border-radius-large) var(--border-radius-large) 0 0;
+}
+.modeSelected_d8bfb3 .link_d8bfb3,
+.modeSelected_d8bfb3:hover .link_d8bfb3,
+.wrapper_d8bfb3:hover .link_d8bfb3 {
+    background-color: unset;
+}

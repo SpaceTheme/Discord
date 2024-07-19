@@ -1,0 +1,12 @@
+.sidebarRegionScroller_c25c6d .item_a0 {
+    display: flex;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id]::before {
+    min-height: 18px;
+    min-width: 18px;
+    margin-right: 12px;
+    content: "";
+    background-size: 18px;
+    filter: invert(0.6);
+}

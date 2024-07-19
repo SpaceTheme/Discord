@@ -1,0 +1,24 @@
+:has([style*="display: flex;"] .wrapper_fea3ef) .base_a4d4d9 {
+    margin-left: 26px;
+}
+
+:has([style*="display: flex;"] .wrapper_fea3ef) .expandedFolderIconWrapper_bc7085:not(.collapsed_bc7085):not([style*="display: flex;"] .expandedFolderIconWrapper_bc7085) {
+    background-color: var(--color-3);
+}
+:has([style*="display: flex;"] .wrapper_fea3ef) .expandedFolderBackground_bc7085:not(.collapsed_bc7085):not([style*="display: flex;"] .expandedFolderBackground_bc7085) {
+    width: unset;
+    inset: unset;
+}
+:has([style*="display: flex;"] .wrapper_fea3ef) .wrapper_bc7085:has(.expandedFolderBackground_bc7085:not(.collapsed_bc7085)):not([style*="display: flex;"] .wrapper_bc7085) {
+    margin: 0;
+}
+
+:has(.titleBar_a934d8) .wrapper_fea3ef {
+    margin: 0 0 16px 16px;
+}
+[style*="display: flex;"] .wrapper_fea3ef {
+    margin: 16px 0 16px 12px;
+}
+:has(.titleBar_a934d8) [style*="display: flex;"] .wrapper_fea3ef {
+    margin: 0 0 16px 16px;
+}

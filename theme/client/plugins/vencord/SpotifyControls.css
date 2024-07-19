@@ -1,0 +1,98 @@
+/* Background */
+#vc-spotify-player {
+    order: 1;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-bottom: 6px;
+    padding: 12px;
+    border: none;
+    border-radius: var(--border-radius-large);
+}
+#vc-spotify-player::before {
+    content: "";
+    position: absolute;
+    top: -80%;
+    left: -80%;
+    width: 260%;
+    height: 260%;
+    filter: blur(6px) brightness(.4);
+    background: var(--vc-spotify-track-image) center / contain no-repeat;
+    animation: spotifyCoverRotate 64s infinite linear;
+}
+@keyframes spotifyCoverRotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+#vc-spotify-player #vc-spotify-info-wrapper,
+#vc-spotify-player #vc-spotify-progress-bar,
+#vc-spotify-player .vc-spotify-button-row {
+    position: relative;
+    z-index: 2;
+}
+
+
+/* Song infos */
+#vc-spotify-player #vc-spotify-info-wrapper {
+    order: 1;
+    gap: 6px;
+    height: unset;
+}
+
+#vc-spotify-player #vc-spotify-info-wrapper img {
+    width: 46px;
+    height: 46px;
+    border-radius: var(--border-radius-large);
+}
+
+#vc-spotify-player #vc-spotify-info-wrapper #vc-spotify-titles {
+    padding: 0;
+}
+
+#vc-spotify-player #vc-spotify-info-wrapper #vc-spotify-titles .vc-spotify-ellipoverflow:not(#vc-spotify-song-title) {
+    font-size: 12px;
+    line-height: 14px;
+}
+
+
+/* Controls */
+#vc-spotify-player .vc-spotify-button-row {
+    order: 2;
+}
+#vc-spotify-player .vc-spotify-button-row .vc-spotify-button:hover {
+    background: none;
+    backdrop-filter: brightness(.4);
+}
+
+
+/* Progress bar */
+#vc-spotify-player #vc-spotify-progress-bar {
+    order: 3;
+    margin: 0;
+}
+
+#vc-spotify-player #vc-spotify-progress-bar .vc-spotify-progress-time {
+    top: -18px;
+}
+
+#vc-spotify-player #vc-spotify-progress-bar [class^=slider_] {
+    position: unset;
+    height: unset;
+}
+#vc-spotify-player #vc-spotify-progress-bar [class^=bar_] {
+    position: unset;
+}
+#vc-spotify-player #vc-spotify-progress-bar [class^=barFill_] {
+    border-radius: var(--border-radius-medium);
+}
+
+#vc-spotify-player #vc-spotify-progress-bar [class^=slider_] [class^=grabber_] {
+    margin-top: -5px;
+}

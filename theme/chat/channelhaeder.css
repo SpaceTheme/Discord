@@ -1,0 +1,57 @@
+.container_fc4f04 {
+    height: 55px;
+    width: auto;
+    margin: 0 0 16px 0;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2) !important;
+}
+.container_c2739c {
+    background-color: var(--background);
+}
+
+
+.container_fc4f04 .children_fc4f04::after {
+    background: var(--color-2) !important;
+}
+
+.tabBody_c2739c::before {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+
+/* Nav toolbar buttons */
+.toolbar_fc4f04 .iconWrapper_fc4f04 {
+    height: 34px;
+    margin: 6px 2.5px;
+    padding: 6px 18px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+}
+
+.toolbar_fc4f04 .iconWrapper_fc4f04 .iconBadge_e44302 {
+    right: 18px;
+    bottom: 6px;
+}
+
+.inviteToolbar_c2739c .divider_fc4f04 {
+    display: none;
+}
+
+.search_ff5f90 {
+    margin: 0;
+}
+.searchBar_a46bef {
+    width: 140px;
+    height: 34px;
+    margin: 6px 2.5px;
+    padding: 6px 12px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+    transition: width 1s ease-in-out;
+}
+.search_ff5f90  .DraftEditor-root {
+    width: 90px;
+    padding: 0;
+    line-height: 24px;
+}

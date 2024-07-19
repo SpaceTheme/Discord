@@ -1,0 +1,43 @@
+.titleBar_a934d8 {
+    height: 34px;
+    padding-top: 0px;
+    margin-top: 0px;
+    background-color: var(--background);
+}
+
+.wordmark_a934d8 svg {
+	display: none;
+}
+.wordmark_a934d8::before {
+	content: 'Space';
+    position: relative;
+    top: 6px;
+	left: 6px;
+	font-size: 16px;
+	font-weight: 500;
+    color: var(--accent-2) ;
+}
+.wordmark_a934d8::after {
+	content: 'Theme';
+    position: relative;
+    top: 6px;
+	left: 6px;
+	font-size: 16px;
+	font-weight: 900;
+    color: var(--accent);
+}
+
+.titleBar_a934d8 .winButton_a934d8 {
+    top: 0;
+    height: 34px;
+    width: 40px;
+}
+.winButton_a934d8 svg {
+    color: var(--accent);
+}
+.winButtonClose_a934d8:hover {
+    background-color: var(--accent);
+}
+.winButtonClose_a934d8:hover svg {
+    color: var(--background);
+}

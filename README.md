@@ -3,27 +3,47 @@
 > SpaceTheme for Discord is currently paused.
 -->
 
-# SpaceTheme for Discord
+<div align="center">
+<h3><img height="52" src="./_assets/img/logo.png"></h3>
 
-![Preview](https://i.imgur.com/S0hi5np.png)
+![Endpoint Badge](https://img.shields.io/github/downloads/SpaceTheme/Discord/total?style=for-the-badge&labelColor=%23111111&color=%231e1e1e)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Floc-counter.onrender.com%2F%3Frepo%3DSpaceTheme%2FDiscord%26branch%3Dmain&style=for-the-badge&label=Lines%20of%20Code&labelColor=%23111111&color=%231e1e1e)
+[![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord&logoColor=%23ffffff&labelColor=%235865F2&color=%235865F2)](https://discord.spacetheme.de)
+[![KoFi](https://img.shields.io/badge/kofi-dark?style=for-the-badge&logo=kofi&logoColor=%23fff&labelColor=%23ff5e5b&color=%23ff5e5b)](https://kofi.spacetheme.de)
+[![Website](https://img.shields.io/badge/website-back?style=for-the-badge&logo=googlechrome&logoColor=%23ffffff&labelColor=%23111111&color=%23111111)](https://spacetheme.de)
+<hr>
+</div>
+
+![Preview](./_assets/img/preview.png)
 <details>
-    <summary>More images v1.3.0-alpha</summary>
-    <h3>Chat</h3>
-    <img src="https://i.imgur.com/XJtsaKE.png">
-    <h3>Forum</h3>
-    <img src="https://i.imgur.com/SJ7Pbxt.png">
+    <summary>More images (v1.4.0-alpha)</summary>
+
+|  Chat  |  Settings (currently disabled)  |
+|  :---:  |  :---:  |
+|  ![Preview](./_assets/img/preview.png)  |  ![Preview](./_assets/img/preview.png)  |
+|  **Custom Channel Icons**  |  **Custom Gradient Username**  |
+|  ![Preview](./_assets/img/channelIcons.png)  |  ![Preview](./_assets/img/gradientUsername.png)  |
+|   **Custom Userbadges (currently not working)**  |
+|  ![Preview](./_assets/img/placeholder.png)  |
 </details>
 
+## ⚠️Warning⚠️
+Using third party clients (e.g. Vencord or BetterDiscord) is against the Discord Terms of Service (ToS). While nobody has ever been banned for simply using discord client mods, We are not responsible for anything that might happen to your account by using third party clients. Use at your own discretion!
+
 ## Installation
-1. First, make sure you have BetterDiscord installed. If you haven't installed it yet, you can download it from their [official website](https://betterdiscord.app) and follow the installation instructions.
-1. Once you have BetterDiscord successfully installed, download the `SpaceTheme-alpha.theme.css` file from [Releases](https://github.com/SpaceEnergy/SpaceTheme-Discord/releases) or [⁠Discord - Updates](https://discord.com/channels/1104516050537685144/1104523460052520980).
-1. Open the file explorer and type `%AppData%\BetterDiscord\themes` in the address bar and hit enter.
-1. Paste the `SpaceTheme-alpha.theme.css` file in the `themes` folder.
-1. Open Discord and navigate to the *User Settings* by clicking the gear icon in the bottom left corner of the screen.
-1. Scroll down to *Themes* and click on it.
-1. Find *🪐SpaceTheme🪐* in the list of themes and click on the *Enable* button.
+1. Visit [Vencord](https://vencord.dev/) or [BetterDiscord](https://betterdiscord.app/). and follow the instructions to install the client mod.
+1. Get the `SpaceTheme.theme.css` file from [Releases](https://github.com/SpaceTheme/Discord/releases).
+1. Open the File Explorer and enter `%AppData%\Vencord\themes` or `%AppData%\BetterDiscord\themes` in the address bar.
+1. Drag and drop the `SpaceTheme.theme.css` file into the folder.
+1. In Discord, go to User Settings > Themes and select SpaceTheme.
 
-Voila! You have successfully installed and activated SpaceTheme. Enjoy the new look of your Discord!
+Voila! Enjoy the new look of your Discord!
 
-## Other Themes
-[![Banner](https://i.imgur.com/3OnuvpH.png)](https://github.com/SpaceEnergy/SpaceTheme-Steam)
+## Plugin support
+### Vencord
+  - BetterFolders
+  - Experiments
+  - ServerProfile
+  - SpotifyControls
+### BetterDiscord
+  - Experiments

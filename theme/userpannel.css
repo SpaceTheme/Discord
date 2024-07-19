@@ -1,0 +1,117 @@
+/*
+=-=-=-=-=-=-=-=
+?Base
+=-=-=-=-=-=-=-=
+*/
+
+.panels_a4d4d9 {
+    display: flex;
+    flex-direction: column;
+    background-color: transparent !important;
+}
+.container_b2ca13 {
+    display: grid;
+    gap: 6px;
+    height: unset;
+    padding: 6px;
+    margin: 0 !important;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2) !important;
+}
+
+
+/*
+=-=-=-=-=-=-=-=
+?User
+=-=-=-=-=-=-=-=
+*/
+
+.container_b2ca13:has(.avatarWrapper_b2ca13) {
+    order: 4;
+}
+
+.container_b2ca13 .avatarWrapper_b2ca13 {
+    margin: 0;
+    padding: 6px;
+    cursor: pointer;
+    border-radius: var(--border-radius-large);
+    transition: background-color 0.15s ease-in-out;
+    background-color: var(--color-1);
+}
+.container_b2ca13 .avatarWrapper_b2ca13:hover {
+    background-color: var(--color-3);
+}
+.hoverRoll_c0d6c6 {
+    cursor: pointer;
+}
+
+.container_b2ca13 .avatarWrapper_b2ca13 .title_d1da5f {
+    width: fit-content;
+}
+
+
+/*
+=-=-=-=-=-=-=-=
+?Buttons
+=-=-=-=-=-=-=-=
+*/
+
+.container_b2ca13 .noWrap_ec1a20 {
+    gap: 6px;
+}
+
+.container_b2ca13 .button_f67531 {
+    width: -webkit-fill-available;
+    transition: background-color 0.15s ease-in-out;
+    background-color: var(--color-3);
+}
+.container_b2ca13 .button_f67531:hover {
+    background-color: var(--color-1) !important;
+}
+
+
+/*
+=-=-=-=-=-=-=-=
+?Voice
+=-=-=-=-=-=-=-=
+*/
+
+.wrapper_adcaac:has(.container_adcaac) {
+    order: 3;
+}
+
+.container_adcaac {
+    margin-bottom: 6px !important;
+    border: none;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+.container_adcaac .button_adcaac {
+    background-color: var(--color-3);
+    transition: background-color 0.15s ease-in-out;
+}
+.container_adcaac .button_adcaac:hover {
+    background-color: var(--color-1);
+}
+
+.container_adcaac .buttonIcon_adcaac {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+
+/*
+=-=-=-=-=-=-=-=
+?Stream/Games
+=-=-=-=-=-=-=-=
+*/
+
+.panel_bf1a22 {
+    order: 2;
+    padding: 12px 6px 6px;
+    margin-bottom: calc(6px - (6px * 2));
+    border: none;
+    border-radius: var(--border-radius-large) var(--border-radius-large) 0 0;
+    background-color: var(--color-2) !important;
+}

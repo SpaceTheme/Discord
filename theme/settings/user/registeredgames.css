@@ -1,0 +1,27 @@
+.children_a6ae9b .activeGame_fd966d {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.children_a6ae9b .nowPlaying_fd966d {
+    background-color: var(--accent) !important;
+}
+
+.children_a6ae9b:has(.nowPlayingAdd_fd966d) .marginTop40_f7730b {
+    margin: 0px 0 15px;
+    padding: 10px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+.children_a6ae9b .game_fd966d.card_ffe375 {
+    margin-top: 5px;
+    padding: 15px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+    box-shadow: none;
+}
+
+.children_a6ae9b .game_fd966d .removeGame_fd966d {
+    top: -10px;
+    right: -10px;
+}

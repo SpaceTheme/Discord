@@ -1,0 +1,30 @@
+.customScroller_c25c6d .content_eed6a8:has(.roleRow_a930f1) {
+    max-width: 100%;
+    margin-left: 15px;
+}
+.content_eed6a8:has(.roleRow_a930f1) div[style="height: 60px;"] {
+    height: 20px !important;
+}
+
+.roleRow_a930f1 {
+    margin: 0 0 5px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-4);
+}
+.roleRow_a930f1::before {
+    display: none;
+}
+.roleRow_a930f1:last-child:after {
+    display: none;
+}
+
+.dragIcon_a930f1 {
+    visibility: visible;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    color: var(--accent);
+}
+.dragIcon_a930f1:hover {
+    color: var(--accent-2);
+}

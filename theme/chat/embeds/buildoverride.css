@@ -1,0 +1,28 @@
+.wrapper_ce1c1d {
+    margin-top: 6px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--background);
+}
+
+
+.wrapper_ce1c1d .svgContentLeft_ed3a34 {
+    fill: var(--color-2);
+}
+.wrapper_ce1c1d .svgDots_ed3a34 {
+    fill: var(--color-5);
+}
+.wrapper_ce1c1d .svgContentRight_ed3a34 {
+    fill: var(--color-1);
+}
+.wrapper_ce1c1d .svgContentLines_ed3a34 {
+    fill: var(--color-4);
+}
+
+.wrapper_ce1c1d .svgTag_ed3a34 {
+    fill: var(--accent);
+}
+
+
+.wrapper_ce1c1d .buttonSize_ce1c1d {
+    width: 100%;
+}

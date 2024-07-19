@@ -1,0 +1,105 @@
+/* Badge Request */
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126873259758075934"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b {
+    display: flex;
+    flex-direction: column;
+}
+
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126873259758075934"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b::before {
+    order: -2;
+    display: flex;
+    padding: 12px 16px 4px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    white-space: pre-wrap;
+    content: "Request a Custom Badge for you:";
+    border-radius: var(--border-radius-large) var(--border-radius-large) 0 0;
+    color: var(--header-primary);
+    background: var(--color-2);
+}
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126873259758075934"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b::after {
+    order: -1;
+    display: flex;
+    padding: 0 16px 8px;
+    font-size: 14px;
+    line-height: 18px;
+    white-space: pre-wrap;
+    content: "• At first you have to become a Supporter+ to request. (https://ko-fi.com/spacetheme/tiers) \a • Send the badge as a picture (.svg) \a • Please wait at least 24 hours for requests to be fulfilled. Requests will not always be taken in instantly.";
+    border-radius: 0;
+    color: var(--header-secondary);
+    background: var(--color-2);
+}
+
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126873259758075934"]) .form_a7d72e .inner_d0696b {
+    border-radius: 0 0 var(--border-radius-large) var(--border-radius-large);
+}
+
+
+
+.contents_ec86aa:has(.avatar_ec86aa[src*="avatars/221097896328691712"],
+                                   [src*="avatars/495333777606967306"],
+                                   [src*="avatars/682317162010247184"],
+                                   [src*="avatars/770013098689953832"],
+                                   [src*="avatars/871735378837667880"],
+                                   [src*="avatars/1178768557178376222"]) :is(.header_ec86aa, .username_ec86aa, .headerText_ec86aa) {
+    display: flex;
+}
+:is(.userPopoutOuter_c69a7b, .userProfileModalOuter_c69a7b):has([src*="avatars/221097896328691712"],
+                                                                [src*="avatars/495333777606967306"],
+                                                                [src*="avatars/682317162010247184"],
+                                                                [src*="avatars/770013098689953832"],
+                                                                [src*="avatars/871735378837667880"],
+                                                                [src*="avatars/1178768557178376222"]) :is(.profileBadges_f89da9, .badgeList_ec3b75)::before,
+.contents_ec86aa:has(.avatar_ec86aa[src*="avatars/221097896328691712"],
+                                   [src*="avatars/495333777606967306"],
+                                   [src*="avatars/682317162010247184"],
+                                   [src*="avatars/770013098689953832"],
+                                   [src*="avatars/871735378837667880"],
+                                   [src*="avatars/1178768557178376222"]) .username_ec86aa::after {
+    content: "";
+    display: block;
+    height: 22px;
+    width: 22px;
+    background-size: 20px !important;
+}
+.contents_ec86aa:has(.avatar_ec86aa[src*="avatars/221097896328691712"],
+                     .avatar_ec86aa[src*="avatars/495333777606967306"],
+                     .avatar_ec86aa[src*="avatars/682317162010247184"],
+                     .avatar_ec86aa[src*="avatars/770013098689953832"],
+                     .avatar_ec86aa[src*="avatars/871735378837667880"],
+                     .avatar_ec86aa[src*="avatars/1178768557178376222"]) .username_ec86aa::after {
+    height: 20px;
+    width: 20px;
+    margin-left: 0.25rem;
+}
+
+
+:is(.userPopoutOuter_c69a7b, .userProfileModalOuter_c69a7b):has([src*="avatars/221097896328691712"]) :is(.profileBadges_f89da9, .badgeList_ec3b75)::before,
+.contents_ec86aa:has(.avatar_ec86aa[src*="avatars/221097896328691712"]) .username_ec86aa::after {
+    background: url("../../src/userbadges/221097896328691712.svg") no-repeat center;
+}
+
+:is(.userPopoutOuter_c69a7b, .userProfileModalOuter_c69a7b):has([src*="avatars/495333777606967306"]) :is(.profileBadges_f89da9, .badgeList_ec3b75)::before,
+.contents_ec86aa:has(.avatar_ec86aa[src*="avatars/495333777606967306"]) .username_ec86aa::after {
+    background: url("../../src/userbadges/495333777606967306.svg") no-repeat center;
+}
+
+:is(.userPopoutOuter_c69a7b, .userProfileModalOuter_c69a7b):has([src*="avatars/682317162010247184"]) :is(.profileBadges_f89da9, .badgeList_ec3b75)::before,
+.contents_ec86aa:has(.avatar_ec86aa[src*="avatars/682317162010247184"]) .username_ec86aa::after {
+    background: url("../../src/userbadges/682317162010247184.svg") no-repeat center;
+}
+
+:is(.userPopoutOuter_c69a7b, .userProfileModalOuter_c69a7b):has([src*="avatars/770013098689953832"]) :is(.profileBadges_f89da9, .badgeList_ec3b75)::before,
+.contents_ec86aa:has(.avatar_ec86aa[src*="avatars/770013098689953832"]) .username_ec86aa::after {
+    background: url("https://i.imgur.com/58neJtR.png") no-repeat center;
+}
+
+:is(.userPopoutOuter_c69a7b, .userProfileModalOuter_c69a7b):has([src*="avatars/871735378837667880"]) :is(.profileBadges_f89da9, .badgeList_ec3b75)::before,
+.contents_ec86aa:has(.avatar_ec86aa[src*="avatars/871735378837667880"]) .username_ec86aa::after {
+    background: url("https://i.imgur.com/cZFJHs9.png") no-repeat center;
+}
+
+:is(.userPopoutOuter_c69a7b, .userProfileModalOuter_c69a7b):has([src*="avatars/1178768557178376222"]) :is(.profileBadges_f89da9, .badgeList_ec3b75)::before,
+.contents_ec86aa:has(.avatar_ec86aa[src*="avatars/1178768557178376222"]) .username_ec86aa::after {
+    background: url("https://i.imgur.com/5v11rfO.png") no-repeat center;
+}

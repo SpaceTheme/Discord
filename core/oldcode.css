@@ -1,0 +1,314 @@
+/*
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+?Left Sidebar
+
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+/* Sidebar */
+.sidebar_a4d4d9>.scrollerBase_c49869 {
+    margin: 0 0 16px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+/*
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+?Main Base
+
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+/*
+=-=-=-=-=-=-=-=
+?Base
+=-=-=-=-=-=-=-=
+*/
+
+.pageWrapper_a3a4ce,
+.pageWrapper_a3a4ce .scroller_a3a4ce,
+.scroller_a39aa3:has(.guildListSection_c8c448) {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+/*
+=-=-=-=-=-=-=-=
+?Banner
+=-=-=-=-=-=-=-=
+*/
+
+/* Base */
+.searchHeader_a3a4ce,
+.headerContainer_a39aa3 {
+    height: 200px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.searchHeader_a3a4ce .headerImage_a3a4ce,
+.headerContainer_a39aa3 .headerImage_a39aa3 {
+    display: none;
+}
+
+/* Searchbar */
+.search_f69601 .searchBox__56feb {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+    box-shadow: none;
+}
+.search_f69601 .searchBox__56feb:is(:focus, :focus-within) {
+    box-shadow: 0 0 0 3px var(--accent);
+}
+.search_f69601 .searchBox__56feb .searchBoxInput__56498 {
+    color: #fff;
+}
+
+/*
+=-=-=-=-=-=-=-=
+?Cards
+=-=-=-=-=-=-=-=
+*/
+
+/* Base */
+.card_eb1ca6,
+.container_f11cbf {
+    height: 400px;
+    background-color: var(--color-2) !important;
+}
+
+/* Banner */
+img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
+    border-radius: var(--border-radius-large);
+}
+.splash_eb1ca6 {
+    width: -webkit-fill-available;
+    margin: 12px;
+}
+
+/* Icon */
+.iconMask_eb1ca6 {
+    background-color: var(--color-2) !important;
+}
+
+/* Action Button */
+.actionButtons_eb1ca6 .wrapper_ef319f {
+    border-radius: var(--border-radius-large);
+    background-color: #2b2b2b;
+}
+
+/*
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+?Left Sidebar
+
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+/*
+=-=-=-=-=-=-=-=
+?Find or start a conversation Button
+=-=-=-=-=-=-=-=
+*/
+
+.searchBar_f0963d .searchBarComponent_f0963d {
+    height: 100%;
+    text-align: center;
+    white-space: unset;
+    background-color: var(--color-3);
+}
+.searchBar_f0963d {
+    height: 60px;
+    padding: 6px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+/*
+=-=-=-=-=-=-=-=
+?Friends
+=-=-=-=-=-=-=-=
+*/
+
+.channel_c91bad {
+    max-width: unset;
+}
+
+/*
+=-=-=-=-=-=-=-=
+?Module
+=-=-=-=-=-=-=-=
+*/
+
+.privateChannels_f0963d .scroller_c47fa9 {
+    margin: 16px 0;
+    border-radius: var(--border-radius-large);
+}
+
+/*
+=-=-=-=-=-=-=-=
+?Background
+=-=-=-=-=-=-=-=
+*/
+
+.scroller_c47fa9 {
+    background-color: var(--color-2) !important;
+}
+.privateChannels_f0963d {
+    background-color: var(--background);
+}
+
+/*
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+?
+?Middel
+?
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+/* Module */
+.peopleColumn_c2739c {
+    margin: 0 16px 0 0;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+/* Searchbar */
+.peopleColumn_c2739c
+.searchBar_e0840f {
+    height: 40px;
+    margin: 16px 16px 6px 16px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+/* Background */
+.tabBody_c2739c {
+    background-color: var(--background);
+}
+
+/* Friends List Cards
+.peopleList_e0840f {
+    margin: 16px;
+    padding: 0;
+}
+.peopleList_e0840f::-webkit-scrollbar {
+    display: none;
+}
+.peopleList_e0840f>div {
+    display: flex;
+    flex-wrap: wrap;
+}
+.peopleListItem_d51464 {
+    height: auto !important;
+    width: 307px;
+    margin: 6px !important;
+    padding: 8px !important;
+    cursor: default;
+    border: none;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2) !important;
+}
+.peopleListItem_d51464 .listItemContents_e05dae,
+.peopleListItem_d51464 .listItemContents_ccc740,
+.peopleListItem_d51464 .listItemContents_f71b83 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    max-width: 291px;
+}
+
+.peopleListItem_d51464 .userInfo_f3939d {
+    display: flex;
+    flex: unset;
+    align-items: center;
+    width: 100%;
+    height: 35px;
+    padding: 8px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+.peopleListItem_d51464 .userInfo_f3939d:hover {
+    background-color: var(--color-3);
+}
+.peopleListItem_d51464 .userInfo_f3939d .discriminator_f3939d {
+    visibility: hidden !important;
+}
+.peopleListItem_d51464 .userInfo_f3939d:hover .discriminator_f3939d {
+    visibility: visible !important;
+}
+
+.peopleListItem_d51464 .username_f3939d {
+    overflow: unset;
+}
+.peopleListItem_d51464 .userInfo_f3939d:hover .username_f3939d {
+    overflow: hidden;
+}
+
+.peopleListItem_d51464 .actions_e05dae,
+.peopleListItem_d51464 .actions_ccc740,
+.peopleListItem_d51464 .actionButton_e01b91.actionDeny_e01b91 {
+    width: 100%;
+    margin: 8px 0 0;
+}
+.peopleListItem_d51464 .actions_ccc740 .actionButton_e01b91 {
+    margin: 0;
+}
+.peopleListItem_d51464 .actions_ccc740 .actionButton_e01b91:nth-of-type(2) {
+    margin-left: 6px;
+}
+.peopleListItem_d51464 .actionButton_e01b91 {
+    width: 100%;
+    margin-left: 7px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+}
+.peopleListItem_d51464 .actionButton_e01b91:hover {
+    background-color: var(--color-1);
+}
+.actionButton_e01b91:first-child {
+    margin: 0;
+} */
+
+/*
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+?
+?Active Now
+?
+*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+/* Cards */
+.itemCard_f02fcf {
+    border: none;
+    background-color: var(--color-3);
+}
+.itemCard_f02fcf .body_cd82a7,
+.itemCard_f02fcf .section_cd82a7 {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-4);
+}
+.emptyCard_f02fcf {
+    background-color: var(--color-3);
+}
+
+/* Module */
+.nowPlayingColumn_c2739c {
+    min-width: 420px;
+    background-color: var(--background);
+}
+.container_bf550a {
+    border-radius: var(--border-radius-large);
+}
+.nowPlayingColumn_c2739c
+.scroller_bf550a {
+    border: none;
+}
+
+/* Background */
+.container_bf550a {
+    background-color: var(--color-2);
+}

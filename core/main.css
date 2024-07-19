@@ -1,0 +1,118 @@
+@import url("./oldcode.css");
+@import url("../theme/chat/channels/banner.css");
+@import url("../theme/chat/channels/index.css");
+@import url("../theme/chat/channels/nitro.css");
+@import url("../theme/chat/embeds/buildoverride.css");
+@import url("../theme/chat/embeds/embeds.css");
+@import url("../theme/chat/embeds/event.css");
+@import url("../theme/chat/embeds/gameinvite.css");
+@import url("../theme/chat/embeds/invite.css");
+@import url("../theme/chat/embeds/polls.css");
+@import url("../theme/chat/embeds/spotifyinvite.css");
+@import url("../theme/chat/forums/cards.css");
+@import url("../theme/chat/forums/chat.css");
+@import url("../theme/chat/forums/index.css");
+@import url("../theme/chat/forums/search.css");
+@import url("../theme/chat/browsechannels.css");
+@import url("../theme/chat/call.css");
+@import url("../theme/chat/channelhaeder.css");
+@import url("../theme/chat/codeblocks.css");
+@import url("../theme/chat/emojipicker.css");
+@import url("../theme/chat/inbox.css");
+@import url("../theme/chat/index.css");
+@import url("../theme/chat/input.css");
+@import url("../theme/chat/jumptopresentbar.css");
+@import url("../theme/chat/members.css");
+@import url("../theme/chat/membersList.css");
+@import url("../theme/chat/messages.css");
+@import url("../theme/chat/pins.css");
+@import url("../theme/chat/search.css");
+@import url("../theme/chat/thread.css");
+@import url("../theme/client/plugins/betterdiscord/Experiments.css");
+@import url("../theme/client/plugins/vencord/BetterFolders.css");
+@import url("../theme/client/plugins/vencord/Experiments.css");
+@import url("../theme/client/plugins/vencord/ServerProfile.css");
+@import url("../theme/client/plugins/vencord/SpotifyControls.css");
+@import url("../theme/client/betterdiscord.css");
+@import url("../theme/client/vencord.css");
+@import url("../theme/custom/channelicons.css");
+@import url("../theme/custom/gradientusername.css");
+@import url("../theme/custom/userbadge.css");
+
+/* Settings coming back soon */
+
+@import url("../theme/base.css");
+@import url("../theme/guilds.css");
+@import url("../theme/inputs.css");
+@import url("../theme/login.css");
+@import url("../theme/nointernet.css");
+@import url("../theme/other.css");
+@import url("../theme/titlebar.css");
+@import url("../theme/userpannel.css");
+
+
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    /* Colors */
+    --color-1: #111111;         /* Default: #111111 */
+    --color-2: #1e1e1e;         /* Default: #1e1e1e */
+    --color-3: #141414;         /* Default: #141414 */
+    --color-4: #181818;         /* Default: #181818 */
+    --color-5: #26292c;         /* Default: #262629 */
+    --color-6: #262629;         /* Default: #262629 */
+    --accent: #666CFF;          /* Default: #666CFF */
+    --accent-2: #878CFF;        /* Default: #878CFF */
+    --background: #0a0a0a;      /* Default: #0a0a0a */
+
+    /* Border Radius */
+    --border-radius-large: 8px;   /* Default: 8px */
+    --border-radius-medium: 4px;  /* Default: 4px */
+
+    /* Custom Home Icon */
+    --home-icon: url("https://discord.com/assets/99e79fc8aff1ebe7fd97fb5fd799a2bd.webp"); /* The URL can be changed to any other image URL. GIF's are also supported. */
+}
+
+
+/* Background */
+body,
+.appMount_ea7e65,
+.app_a01fb1,
+.bg_d4b6c5,
+.layer_d4b6c5,
+.container_a4d4d9 {
+    background-color: var(--background);
+}
+
+
+/* Fonts */
+::-webkit-input-placeholder, * {
+    font-family: "Be Vietnam Pro" !important;
+}
+
+
+/* Scrollbar */
+*::-webkit-scrollbar {
+    width: 14px !important;
+} 
+*::-webkit-scrollbar-track {
+    border-radius: var(--border-radius-large) !important;
+    background-color: transparent !important;
+}
+*::-webkit-scrollbar-thumb {
+    border-radius: var(--border-radius-large) !important;
+    border: 4px solid transparent !important;
+    background-clip: content-box !important;
+    background-color: var(--accent-2) !important;
+}
+*::-webkit-scrollbar-thumb:hover {
+    border: 3px solid transparent !important;
+    background-color: var(--accent) !important;
+}
+
+.guilds_a4d4d9 .scroller_fea3ef::-webkit-scrollbar {
+    display: none;
+}
+.sidebar_a4d4d9 .scroller_c47fa9::-webkit-scrollbar {
+    width: 10px !important;
+}

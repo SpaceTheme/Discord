@@ -1,0 +1,144 @@
+.card_a298b8:has([d="M8.25,12.75 L8.25,11.25 L9.75,11.25 L9.75,12.75 L8.25,12.75 Z M8.25,9.75 L8.25,5.25 L9.75,5.25 L9.75,9.75 L8.25,9.75 Z"]) {
+    border: 2px solid #ef8d4b;
+    border-radius: var(--border-radius-large);
+    background-color: #ef8d4b2b;
+}
+
+.card_a298b8:has([d="M8.25,12.75 L8.25,11.25 L9.75,11.25 L9.75,12.75 L8.25,12.75 Z M8.25,9.75 L8.25,5.25 L9.75,5.25 L9.75,9.75 L8.25,9.75 Z"]) svg {
+    width: 32px;
+    height: 32px;
+}
+
+.card_a298b8:has([d="M8.25,12.75 L8.25,11.25 L9.75,11.25 L9.75,12.75 L8.25,12.75 Z M8.25,9.75 L8.25,5.25 L9.75,5.25 L9.75,9.75 L8.25,9.75 Z"]) .button_dd4f85 {
+    background-color: #ef8d4b2b;
+}
+.card_a298b8:has([d="M8.25,12.75 L8.25,11.25 L9.75,11.25 L9.75,12.75 L8.25,12.75 Z M8.25,9.75 L8.25,5.25 L9.75,5.25 L9.75,9.75 L8.25,9.75 Z"]) .button_dd4f85:hover {
+    background-color: #ef8d4b;
+}
+
+
+.settingCard_dd864e {
+    background-color: var(--color-4) !important;
+}
+.settingCard_dd864e.active_dd864e {
+    padding-bottom: 15px;
+}
+
+.settingCard_dd864e .cardFolder_dd864e {
+    margin: 0 15px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+
+button:has(.contents_dd4f85 .advancedTitle_cd9517) {
+    display: none;
+}
+
+
+.sidebarScrollable_e9196a {
+    padding-right: 15px;
+}
+.sidebarScrollable_e9196a .scroller_e9196a {
+    overflow: hidden !important;
+    padding: 0;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.sidebarScrollable_e9196a .layoutStyle_a49993 {
+    padding: 5px;
+}
+
+.sidebarScrollable_e9196a .layoutStyle_a49993 .header_a0 {
+    margin-bottom: 10px;
+    padding: 15px 10px !important;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+}
+.sidebarScrollable_e9196a .layoutStyle_a49993 .header_a0 span {
+    font-size: 14px;
+}
+.sidebarScrollable_e9196a .layoutStyle_a49993 .item_a0 {
+    margin-bottom: 5px !important;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+}
+.sidebarScrollable_e9196a .layoutStyle_a49993 .item_a0 .roleInner_f778a8 {
+    font-size: 14px;
+}
+
+.sidebarScrollable_e9196a+.content_e9196a {
+    max-width: unset;
+}
+
+
+.content_e9196a:has(.permissionsForm_a49993) {
+    padding: 0;
+}
+
+.permissionsForm_a49993 {
+    display: grid;
+    grid: auto-flow dense/repeat(auto-fit,minmax(20rem,1fr));
+    grid-auto-rows: minmax(3rem,auto);
+    grid-gap: 10px;
+    margin-bottom: 15px !important;
+    padding: 40px 15px 15px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.permissionsForm_a49993:has(.text-sm-normal__95a78.marginBottom20_f7730b) {
+    padding: 65px 15px 15px;
+}
+.permissionsForm_a49993 .h5_c46f6a {
+    position: absolute;
+    transform: translateY(-25px);
+}
+.permissionsForm_a49993:has(.text-sm-normal__95a78.marginBottom20_f7730b) .h5_c46f6a {
+    transform: translateY(-50px);
+}
+.permissionsForm_a49993 .text-sm-normal__95a78.marginBottom20_f7730b {
+    position: absolute;
+    transform: translateY(-30px);
+}
+
+.permissionsForm_a49993 .flex_bba380.marginBottom20_f7730b {
+    position: relative;
+    margin-bottom: 0;
+    padding: 15px;
+    padding-bottom: 65px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+}
+
+.permissionsForm_a49993 .flex_bba380>.flex_bba380 {
+    flex: 0 !important;
+}
+
+.permissionsForm_a49993 .group_e3c4bb {
+    position: absolute;
+    bottom: 15px;
+    gap: 10px;
+    width: calc(100% - 30px);
+    height: 35px;
+    border: none;
+}
+.permissionsForm_a49993 .group_e3c4bb .item_e3c4bb {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.permissionsForm_a49993 .group_e3c4bb .item_e3c4bb:hover {
+    background-color: var(--color-6);
+}
+.permissionsForm_a49993 .group_e3c4bb .deny_e3c4bb.selected_e3c4bb {
+    background-color: #EF4B4B;
+}
+.permissionsForm_a49993 .group_e3c4bb .passthrough_e3c4bb.selected_e3c4bb {
+    background-color: var(--color-6);
+}
+.permissionsForm_a49993 .group_e3c4bb .allow_e3c4bb.selected_e3c4bb {
+    background-color: #23a559;
+}
+
+.permissionsForm_a49993 .flex_bba380.marginBottom20_f7730b .divider_b03b7f {
+    display: none;
+}

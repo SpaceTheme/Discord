@@ -1,0 +1,428 @@
+/* Icon Request */
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b {
+    display: flex;
+    flex-direction: column;
+}
+
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b::before {
+    order: -2;
+    display: flex;
+    padding: 12px 16px 4px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    white-space: pre-wrap;
+    content: "Request Custom Channel Icons:";
+    border-radius: var(--border-radius-large) var(--border-radius-large) 0 0;
+    color: var(--header-primary);
+    background: var(--color-2);
+}
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b::after {
+    order: -1;
+    display: flex;
+    padding: 0 16px 8px;
+    font-size: 14px;
+    line-height: 18px;
+    white-space: pre-wrap;
+    content: "• At first you have to become a Supporter+ to request. (https://ko-fi.com/spacetheme/tiers) \a • Send the Name of you server \a • And send the number of channels on the server (25 channels max) \a • When I have responded with\1F7E1 you can send me your server invite via DM. \a • Please wait at least 24 hours for requests to be fulfilled. Requests will not always be taken in instantly.";
+    border-radius: 0;
+    color: var(--header-secondary);
+    background: var(--color-2);
+}
+
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732"]) .form_a7d72e .inner_d0696b {
+    border-radius: 0 0 var(--border-radius-large) var(--border-radius-large);
+}
+
+
+/*
+!
+! PGS
+!
+*/
+.containerDefault_f6f816 a[data-list-item-id="channels___928787683671687269"],
+.containerDefault_f6f816 a[data-list-item-id="channels___942140331892285581"],
+.containerDefault_f6f816 a[data-list-item-id="channels___814985548028182609"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759498922116251658"],
+.containerDefault_f6f816 a[data-list-item-id="channels___928781005807030303"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759498956815859782"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759490590257446986"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1163568103955894332"],
+.containerDefault_f6f816 a[data-list-item-id="channels___760115341375438858"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759492413470539776"],
+.containerDefault_f6f816 a[data-list-item-id="channels___928782640696401950"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1109877268592988252"],
+.containerDefault_f6f816 a[data-list-item-id="channels___772493538234597387"],
+.containerDefault_f6f816 a[data-list-item-id="channels___929438701271015464"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759490330809860126"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1249428422380359731"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759490360086626392"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759489650015338567"],
+.containerDefault_f6f816 a[data-list-item-id="channels___940816236101652520"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759490786248228875"],
+.containerDefault_f6f816 a[data-list-item-id="channels___760115433617227787"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759491102218125322"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1040723150150840332"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759490868423688222"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759491017199583243"],
+.containerDefault_f6f816 a[data-list-item-id="channels___759491043317252166"] {
+    padding: 9px 6px;
+}
+
+.containerDefault_f6f816 a[data-list-item-id="channels___928787683671687269"]::before {      /* moderator-chat */
+    content: "👮‍♂️";
+    background-color: #00aff040;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___942140331892285581"]::before {      /* mod-spam */
+    content: "📨";
+    background-color: #00a6ed40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___814985548028182609"]::before {      /* rules */
+    content: "📜";
+    background-color: #ffdea740;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759498922116251658"]::before {      /* announcements */
+    content: "📣";
+    background-color: #f9c23c40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___928781005807030303"]::before {      /* introductions */
+    content: "🦺";
+    background-color: #ff672340;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759498956815859782"]::before {      /* cool-links */
+    content: "🔗";
+    background-color: #bebebe40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759490590257446986"]::before {      /* mod-logs */
+    content: "📁";
+    background-color: #fcd53f40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1163568103955894332"]::before {     /* fediverse-posts */
+    content: "📮";
+    background-color: #f92f6040;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___760115341375438858"]::before {      /* vip-chatter */
+    content: "💎";
+    background-color: #1c5cd740;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759492413470539776"]::before {      /* offtopic */
+    content: "👮‍♂️";
+    background-color: #00aff040;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___928782640696401950"]::before {      /* games */
+    content: "🎮";
+    background-color: #53356640;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1109877268592988252"]::before {     /* free-games */
+    content: "🎁";
+    background-color: #ca0b4a40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___772493538234597387"]::before {      /* bot-spam */
+    content: "🤖";
+    background-color: #cdc4d640;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___929438701271015464"]::before {      /* photography */
+    content: "📸";
+    background-color: #63599440;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759490330809860126"]::before {      /* collections */
+    content: "🧺";
+    background-color: #f3ad6140;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1249428422380359731"]::before {      /* stalker news */
+    content: "☢️";
+    background-color: #ffb02e40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759490360086626392"]::before {      /* anime-manga */
+    content: "🗻";
+    background-color: #6b438b40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759489650015338567"]::before {      /* content-feed */
+    content: "📰";
+    background-color: #998ea440;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___940816236101652520"]::before {      /* streams */
+    content: "🔴";
+    background-color: #f8312f40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759490786248228875"]::before {      /* voice-chat */
+    content: "🗯️";
+    background-color: #ffffff40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___760115433617227787"]::before {      /* VIP VC */
+    content: "💎";
+    background-color: #1c5cd740;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759491102218125322"]::before {      /* General VC */
+    content: "🎙️";
+    background-color: #b4acbc40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1040723150150840332"]::before {     /* Private */
+    content: "🔐";
+    background-color: #f9c23c40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759490868423688222"]::before {      /* Gaming Den */
+    content: "🕹️";
+    background-color: #f8312f40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759491017199583243"]::before {      /* Music Lounge */
+    content: "📻";
+    background-color: #83cbff40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___759491043317252166"]::before {      /* AFK */
+    content: "💀";
+    background-color: #ffffff40;
+}
+
+.containerDefault_f6f816 a[data-list-item-id^="channels___"]::before {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 26px;
+    width: 26px;
+    margin: auto 6px;
+    padding: 3px;
+    font-size: 16px;
+    border-radius: var(--border-radius-large);
+}
+
+.containerDefault_f6f816 :is(a[data-list-item-id="channels___928787683671687269"],
+                             a[data-list-item-id="channels___942140331892285581"],
+                             a[data-list-item-id="channels___814985548028182609"],
+                             a[data-list-item-id="channels___759498922116251658"],
+                             a[data-list-item-id="channels___928781005807030303"],
+                             a[data-list-item-id="channels___759498956815859782"],
+                             a[data-list-item-id="channels___759490590257446986"],
+                             a[data-list-item-id="channels___1163568103955894332"],
+                             a[data-list-item-id="channels___760115341375438858"],
+                             a[data-list-item-id="channels___759492413470539776"],
+                             a[data-list-item-id="channels___928782640696401950"],
+                             a[data-list-item-id="channels___1109877268592988252"],
+                             a[data-list-item-id="channels___772493538234597387"],
+                             a[data-list-item-id="channels___929438701271015464"],
+                             a[data-list-item-id="channels___759490330809860126"],
+                             a[data-list-item-id="channels___1249428422380359731"],
+                             a[data-list-item-id="channels___759490360086626392"],
+                             a[data-list-item-id="channels___759489650015338567"],
+                             a[data-list-item-id="channels___940816236101652520"],
+                             a[data-list-item-id="channels___759490786248228875"],
+                             a[data-list-item-id="channels___760115433617227787"],
+                             a[data-list-item-id="channels___759491102218125322"],
+                             a[data-list-item-id="channels___1040723150150840332"],
+                             a[data-list-item-id="channels___759490868423688222"],
+                             a[data-list-item-id="channels___759491017199583243"],
+                             a[data-list-item-id="channels___759491043317252166"] ) :is(.iconContainer_d8bfb3, .linkBottom_d8bfb3) {
+    margin-left: 37px;
+}
+
+
+
+/*
+!
+! SpaceTheme
+!
+*/
+.containerDefault_f6f816 a[data-list-item-id="channels___1104518841092034631"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104875221472792668"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1261359628747280384"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1215613548827508776"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104561510715494463"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1209815012403716166"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1209815101134082120"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104524821909479484"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104518841092034630"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1112389436815187979"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1224373306795364432"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1244349851492421692"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1261358630767427655"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104516051733065901"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1238649517902139403"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1191846540218736650"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1192344004520595577"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1213565675327590470"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1213565711738470470"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1213565355897790464"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1213565514450870292"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104523856846270546"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104523460052520980"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1126864557596479559"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1126864502554624042"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1190661950800142386"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104552173695680583"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104523836302573688"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104523441157181511"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1104552018414161981"],
+.containerDefault_f6f816 a[data-list-item-id="channels___1203491488865198110"] {
+    padding: 9px 6px;
+}
+
+.containerDefault_f6f816 a[data-list-item-id="channels___1104518841092034631"]::before {
+    content: "👮‍♂️";
+    background-color: #00aff040;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104875221472792668"]::before {
+    content: "⬆️";
+    background-color: #00aff040;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1261359628747280384"]::before {
+    content: "📁";
+    background-color: #ffce2540;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1215613548827508776"]::before {
+    content: "📟";
+    background-color: #00d26a40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104561510715494463"]::before {
+    content: "👤";
+    background-color: #6b478d40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1209815012403716166"]::before {
+    content: "🗯️";
+    background-color: #5865f240;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1209815101134082120"]::before {
+    content: "🎮";
+    background-color: #01a9ea40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104524821909479484"]::before {
+    content: "👋";
+    background-color: #ffcf2940;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104518841092034630"]::before {
+    content: "📜";
+    background-color: #ffdaa340;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1112389436815187979"]::before {
+    content: "📣";
+    background-color: #ffba2540;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1224373306795364432"]::before {
+    content: "🎁";
+    background-color: #ca0b4a40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1244349851492421692"]::before {
+    content: "💎";
+    background-color: #26eafc40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1261358630767427655"]::before {
+    content: "📫";
+    background-color: #5092ff40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104516051733065901"]::before {
+    content: "💬";
+    background-color: #ffffff40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1238649517902139403"]::before {
+    content: "🚀";
+    background-color: #f92f6040;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1191846540218736650"]::before {
+    content: "🤖";
+    background-color: #cdc5d740;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1192344004520595577"]::before {
+    content: "🐙";
+    background-color: #ff755140;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1213565675327590470"]::before {
+    content: "💎";
+    background-color: #1c5cd740;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1213565711738470470"]::before {
+    content: "💫";
+    background-color: #ffb02e40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1213565355897790464"]::before {
+    content: "🗨️";
+    background-color: #ffffff40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1213565514450870292"]::before {
+    content: "🆘";
+    background-color: #ff005e40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104523856846270546"]::before {
+    content: "📰";
+    background-color: #f3eef840;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104523460052520980"]::before {
+    content: "✨";
+    background-color: #ffba2540;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1126864557596479559"]::before {
+    content: "👤";
+    background-color: #6b478d40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1126864502554624042"]::before {
+    content: "📟";
+    background-color: #00d26440;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1190661950800142386"]::before {
+    content: "💾";
+    background-color: #5e5d9640;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104552173695680583"]::before {
+    content: "🆘";
+    background-color: #ff005e40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104523836302573688"]::before {
+    content: "📰";
+    background-color: #f3eef840;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104523441157181511"]::before {
+    content: "✨";
+    background-color: #ffba2540;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1104552018414161981"]::before {
+    content: "🆘";
+    background-color: #ff005e40;
+}
+.containerDefault_f6f816 a[data-list-item-id="channels___1203491488865198110"]::before {
+    content: "🚀";
+    background-color: #f92f6040;
+}
+
+.containerDefault_f6f816 a[data-list-item-id^="channels___"]::before {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 26px;
+    width: 26px;
+    margin: auto 6px;
+    padding: 3px;
+    font-size: 16px;
+    border-radius: var(--border-radius-large);
+}
+
+.containerDefault_f6f816 :is(a[data-list-item-id="channels___1104518841092034631"],
+                             a[data-list-item-id="channels___1104875221472792668"],
+                             a[data-list-item-id="channels___1261359628747280384"],
+                             a[data-list-item-id="channels___1215613548827508776"],
+                             a[data-list-item-id="channels___1104561510715494463"],
+                             a[data-list-item-id="channels___1209815012403716166"],
+                             a[data-list-item-id="channels___1209815101134082120"],
+                             a[data-list-item-id="channels___1104524821909479484"],
+                             a[data-list-item-id="channels___1104518841092034630"],
+                             a[data-list-item-id="channels___1112389436815187979"],
+                             a[data-list-item-id="channels___1224373306795364432"],
+                             a[data-list-item-id="channels___1244349851492421692"],
+                             a[data-list-item-id="channels___1261358630767427655"],
+                             a[data-list-item-id="channels___1104516051733065901"],
+                             a[data-list-item-id="channels___1238649517902139403"],
+                             a[data-list-item-id="channels___1191846540218736650"],
+                             a[data-list-item-id="channels___1192344004520595577"],
+                             a[data-list-item-id="channels___1213565675327590470"],
+                             a[data-list-item-id="channels___1213565711738470470"],
+                             a[data-list-item-id="channels___1213565355897790464"],
+                             a[data-list-item-id="channels___1213565514450870292"],
+                             a[data-list-item-id="channels___1104523856846270546"],
+                             a[data-list-item-id="channels___1104523460052520980"],
+                             a[data-list-item-id="channels___1126864557596479559"],
+                             a[data-list-item-id="channels___1126864502554624042"],
+                             a[data-list-item-id="channels___1190661950800142386"],
+                             a[data-list-item-id="channels___1104552173695680583"],
+                             a[data-list-item-id="channels___1104523836302573688"],
+                             a[data-list-item-id="channels___1104523441157181511"],
+                             a[data-list-item-id="channels___1104552018414161981"],
+                             a[data-list-item-id="channels___1203491488865198110"]) :is(.iconContainer_d8bfb3, .linkBottom_d8bfb3) {
+    margin-left: 37px;
+}

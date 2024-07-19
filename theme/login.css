@@ -1,0 +1,86 @@
+.characterBackground_bdd070 {
+    background-color: var(--background);
+}
+.artwork_bdd070 {
+    display: none;
+}
+
+
+.authBox_dc6abe {
+    height: 425px;
+    width: 850px;
+    padding: 16px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2) !important;
+    box-shadow: 0px 6px 26px 6px #000;
+}
+
+.authBox_dc6abe .centeringWrapper_dc6abe,
+.authBox_dc6abe .centeringWrapper_dc6abe .flex_bba380 {
+    height: 100%;
+}
+
+
+.mainLoginContainer_d58f04 {
+    height: calc(425px - 50px);
+    margin-right: 16px;
+}
+.authBox_dc6abe .header_d58f04 {
+    align-items: start;
+}
+.authBox_dc6abe.chooseAccountAuthBox_b4df52 .centeringWrapper_dc6abe {
+    text-align: start;
+}
+
+
+.authBox_dc6abe.chooseAccountAuthBox_b4df52 .list_f20a46 {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+.authBox_dc6abe.chooseAccountAuthBox_b4df52 .list_f20a46:has(.usernameSection_f20a46 [style="color: var(--text-danger);"]) {
+    border: 2.7px solid #f04747;
+}
+
+.authBox_dc6abe.chooseAccountAuthBox_b4df52 .centeringWrapper_dc6abe .userActions_f20a46 .button_dd4f85:not(.userActionMenu_f20a46) {
+    background-color: var(--accent);
+}
+.authBox_dc6abe.chooseAccountAuthBox_b4df52 .centeringWrapper_dc6abe .userActions_f20a46 .button_dd4f85:not(.userActionMenu_f20a46):hover {
+    background-color: var(--accent-2);
+}
+
+
+.authBox_dc6abe .input_f8bc55 {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+.authBox_dc6abe .linkButton_dc6abe.marginBottom20_f7730b {
+    margin-bottom: 64px;
+}
+.authBox_dc6abe:has(.mainLoginContainer_d58f04 .goBackButton_d58f04) .linkButton_dc6abe.marginBottom20_f7730b {
+    margin-bottom: 32px;
+}
+
+
+.authBox_dc6abe .verticalSeparator_c6cd4b {
+    display: none;
+}
+
+
+.qrLogin_c6cd4b {
+    height: calc(425px - 30px);
+    width: 270px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+.qrCodeContainer_c6cd4b {
+    margin-bottom: 16px;
+}
+.qrCode_c6cd4b {
+    border-radius: var(--border-radius-large) !important;
+}
+
+.qrLoginInner_c6cd4b .title_dc6abe {
+    margin: 0 8px 8px;
+}

@@ -1,0 +1,589 @@
+[class^="codeContainer_"] code {
+    border: 2px solid var(--background);
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+[class^="codeContainer_"] code::before {
+    display: block;
+    margin-bottom: 6px;
+    padding-bottom: 2px;
+    font-weight: 600;
+    border-bottom: 2px solid var(--color-2);
+}
+
+[class^="codeContainer_"] .abnf::before {
+    content: "ABNF";
+}
+[class^="codeContainer_"] .accesslog::before {
+    content: "Access logs";
+}
+[class^="codeContainer_"] :is(.actionscript, .as)::before {
+    content: "ActionScript";
+}
+[class^="codeContainer_"] .ada::before {
+    content: "Ada";
+}
+[class^="codeContainer_"] :is(.angelscript, .asc)::before {
+    content: "AngelScript";
+}
+[class^="codeContainer_"] :is(.apache, .apacheconf)::before {
+    content: "Apache";
+}
+[class^="codeContainer_"] :is(.applescript, .osascript)::before {
+    content: "AppleScript";
+}
+[class^="codeContainer_"] .arcade::before {
+    content: "Arcade";
+}
+[class^="codeContainer_"] :is(.arduino, .ino)::before {
+    content: "Arduino (C++ w/Arduino libs)";
+}
+[class^="codeContainer_"] :is(.armasm, .arm)::before {
+    content: "ARM assembler";
+}
+[class^="codeContainer_"] :is(.xml, .html, .xhtml, .rss, .atom, .xjb, .xsd, .xsl, .plist, .svg)::before {
+    content: "HTML, XML";
+}
+[class^="codeContainer_"] :is(.asciidoc, .adoc)::before {
+    content: "AsciiDoc";
+}
+[class^="codeContainer_"] .aspectj::before {
+    content: "AspectJ";
+}
+[class^="codeContainer_"] .autohotkey::before {
+    content: "AutoHotkey";
+}
+[class^="codeContainer_"] .autoit::before {
+    content: "AutoIt";
+}
+[class^="codeContainer_"] .avrasm::before {
+    content: "AVR assembler";
+}
+[class^="codeContainer_"] :is(.awk, .mawk, .nawk, .gawk)::before {
+    content: "Awk";
+}
+[class^="codeContainer_"] :is(.axapta, .x\+\+)::before {
+    content: "X++";
+}
+[class^="codeContainer_"] :is(.bash, .sh, .zsh)::before {
+    content: "Bash";
+}
+[class^="codeContainer_"] .basic::before {
+    content: "Basic";
+}
+[class^="codeContainer_"] .bnf::before {
+    content: "BNF";
+}
+[class^="codeContainer_"] :is(.brainfuck, .bf)::before {
+    content: "Brainfuck";
+}
+[class^="codeContainer_"] :is(.c, .h)::before {
+    content: "C";
+}
+[class^="codeContainer_"] .cal::before {
+    content: "C/AL";
+}
+[class^="codeContainer_"] :is(.capnproto, .capnp)::before {
+    content: "Cap'n Proto";
+}
+[class^="codeContainer_"] .ceylon::before {
+    content: "CEYLON";
+}
+[class^="codeContainer_"] .clean::before {
+    content: "CLEAN";
+}
+[class^="codeContainer_"] :is(.clojure, .clj)::before {
+    content: "Clojure";
+}
+[class^="codeContainer_"] .clojure-repl::before {
+    content: "Clojure REPL";
+}
+[class^="codeContainer_"] :is(.cmake, .cmake\.in)::before {
+    content: "CMake";
+}
+[class^="codeContainer_"] :is(.coffeescript, .coffee, .cson, .iced)::before {
+    content: "CoffeeScript";
+}
+[class^="codeContainer_"] .coq::before {
+    content: "Coq";
+}
+[class^="codeContainer_"] :is(.cos, .cls)::before {
+    content: "Cache Object Script";
+}
+[class^="codeContainer_"] :is(.cpp, .hpp, .cc, .hh, .cxx, .hxx ):before {
+    content: "C++";
+}
+[class^="codeContainer_"] :is(.crmsh, .crm, .pcmk)::before {
+    content: "Crmsh";
+}
+[class^="codeContainer_"] :is(.crystal, .cr)::before {
+    content: "Crystal";
+}
+[class^="codeContainer_"] :is(.cs, .csharp)::before {
+    content: "C#";
+}
+[class^="codeContainer_"] .csp::before {
+    content: "CSP";
+}
+[class^="codeContainer_"] .css::before {
+    content: "CSS";
+}
+[class^="codeContainer_"] .d::before {
+    content: "D";
+}
+[class^="codeContainer_"] :is(.markdown, .md, .mkdown, .mkd)::before {
+    content: "Markdown";
+}
+[class^="codeContainer_"] .dart::before {
+    content: "Dart";
+}
+[class^="codeContainer_"] :is(.delphi, .dpr, .dfm, .pas, .pascal)::before {
+    content: "Delphi";
+}
+[class^="codeContainer_"] :is(.diff, .patch)::before {
+    content: "Diff";
+}
+[class^="codeContainer_"] :is(.django, .jinja)::before {
+    content: "Django";
+}
+[class^="codeContainer_"] :is(.dns, .zone, .bind)::before {
+    content: "DNS Zone file";
+}
+[class^="codeContainer_"] :is(.dockerfile, .docker)::before {
+    content: "Dockerfile";
+}
+[class^="codeContainer_"] :is(.dos, .bat, .cmd)::before {
+    content: "DOS";
+}
+[class^="codeContainer_"] .dsconfig::before {
+    content: "dsconfig";
+}
+[class^="codeContainer_"] .dts::before {
+    content: "DTS (Device Tree)";
+}
+[class^="codeContainer_"] :is(.dust, .dst)::before {
+    content: "Dust";
+}
+[class^="codeContainer_"] .ebnf::before {
+    content: "EBNF";
+}
+[class^="codeContainer_"] .elixir::before {
+    content: "Elixir";
+}
+[class^="codeContainer_"] .elm::before {
+    content: "Elm";
+}
+[class^="codeContainer_"] :is(.ruby, .rb, .gemspac, .podspec, .thor, .irb)::before {
+    content: "Ruby";
+}
+[class^="codeContainer_"] .erb::before {
+    content: "ERB";
+}
+[class^="codeContainer_"] .erlang-repl::before {
+    content: "Erlang REPL";
+}
+[class^="codeContainer_"] :is(.erlang, .erl)::before {
+    content: "Erlang";
+}
+[class^="codeContainer_"] :is(.excel, .xls, .xlsx)::before {
+    content: "Excel";
+}
+[class^="codeContainer_"] .fix::before {
+    content: "FIX";
+}
+[class^="codeContainer_"] :is(.fortran, .f90, .f95)::before {
+    content: "Fortran";
+}
+[class^="codeContainer_"] :is(.fsharp, .fs, .fsx, .fsi, .fsscript)::before {
+    content: "F#";
+}
+[class^="codeContainer_"] :is(.gams, .gms)::before {
+    content: "Gams";
+}
+[class^="codeContainer_"] :is(.gauss, .gss)::before {
+    content: "GAUSS";
+}
+[class^="codeContainer_"] :is(.gcode, .nc)::before {
+    content: "G-Code";
+}
+[class^="codeContainer_"] .gherkin::before {
+    content: "Gherkin";
+}
+[class^="codeContainer_"] .glsl::before {
+    content: "GLSL";
+}
+[class^="codeContainer_"] .gml::before {
+    content: "GML";
+}
+[class^="codeContainer_"] .go::before {
+    content: "Go";
+}
+[class^="codeContainer_"] :is(.golo, .gololang)::before {
+    content: "Golo";
+}
+[class^="codeContainer_"] .gradle::before {
+    content: "Gradle";
+}
+[class^="codeContainer_"] .graphql::before {
+    content: "GraphQL";
+}
+[class^="codeContainer_"] .groovy::before {
+    content: "Groovy";
+}
+[class^="codeContainer_"] .haml::before {
+    content: "Haml";
+}
+[class^="codeContainer_"] :is(.handlebars, .hbs, .html\.hbs, .html\.handlebars)::before {
+    content: "Handlebars";
+}
+[class^="codeContainer_"] :is(.haskell, .hs)::before {
+    content: "Haskell";
+}
+[class^="codeContainer_"] :is(.haxe, .hx)::before {
+    content: "Haxe";
+}
+[class^="codeContainer_"] .hsp::before {
+    content: "HSP";
+}
+[class^="codeContainer_"] .http::before {
+    content: "HTTP";
+}
+[class^="codeContainer_"] .https::before {
+    content: "HTTPS";
+}
+[class^="codeContainer_"] :is(.hy, .hylang)::before {
+    content: "Hy";
+}
+[class^="codeContainer_"] :is(.inform7, .i7)::before {
+    content: "Inform7";
+}
+[class^="codeContainer_"] :is(.ini, .toml)::before {
+    content: "Ini, TOML";
+}
+[class^="codeContainer_"] .irpf90::before {
+    content: "IRPF90";
+}
+[class^="codeContainer_"] .isbl::before {
+    content: "ISBL";
+}
+[class^="codeContainer_"] :is(.java, .jsp)::before {
+    content: "Java";
+}
+[class^="codeContainer_"] :is(.javascript, .js, .jsx)::before {
+    content: "JavaScript";
+}
+[class^="codeContainer_"] .jboss-cli::before {
+    content: "JBOSS CLI";
+}
+[class^="codeContainer_"] .json::before {
+    content: "JSON";
+}
+[class^="codeContainer_"] :is(.julia, .jl)::before {
+    content: "Julia";
+}
+[class^="codeContainer_"] .julia-repl::before {
+    content: "Julia REPL";
+}
+[class^="codeContainer_"] :is(.kotlin, .kt)::before {
+    content: "Kotlin";
+}
+[class^="codeContainer_"] :is(.lasso, .ls, .lassoscript)::before {
+    content: "Lasso";
+}
+[class^="codeContainer_"] :is(.latex, .tex)::before {
+    content: "LaTeX";
+}
+[class^="codeContainer_"] .ldif::before {
+    content: "LDIF";
+}
+[class^="codeContainer_"] .leaf::before {
+    content: "Leaf";
+}
+[class^="codeContainer_"] .less::before {
+    content: "Less";
+}
+[class^="codeContainer_"] .lisp::before {
+    content: "Lisp";
+}
+[class^="codeContainer_"] .livecodeserver::before {
+    content: "LiveCode Server";
+}
+[class^="codeContainer_"] :is(.livescript, .ls)::before {
+    content: "LiveScript";
+}
+[class^="codeContainer_"] .llvm::before {
+    content: "LLVM IR";
+}
+[class^="codeContainer_"] .lsl::before {
+    content: "LSL (LINDEN SCRIPTING LANGUAGE)";
+}
+[class^="codeContainer_"] .lua::before {
+    content: "Lua";
+}
+[class^="codeContainer_"] :is(.makefile, .mk, .mak, .make)::before {
+    content: "Makefile";
+}
+[class^="codeContainer_"] :is(.mathematica, .mma, .wl)::before {
+    content: "Mathematica";
+}
+[class^="codeContainer_"] .matlab::before {
+    content: "Matlab";
+}
+[class^="codeContainer_"] .maxima::before {
+    content: "Maxima";
+}
+[class^="codeContainer_"] .mel::before {
+    content: "Maya Embedded Language";
+}
+[class^="codeContainer_"] .mercury::before {
+    content: "Mercury";
+}
+[class^="codeContainer_"] :is(.mips, .mipsasm)::before {
+    content: "MIPS Assembler";
+}
+[class^="codeContainer_"] .mizar::before {
+    content: "Mizar";
+}
+[class^="codeContainer_"] :is(.perl, .pl, .pm)::before {
+    content: "Perl";
+}
+[class^="codeContainer_"] .mojolicious::before {
+    content: "Mojolicious";
+}
+[class^="codeContainer_"] .monkey::before {
+    content: "Monkey";
+}
+[class^="codeContainer_"] .moonscript::before {
+    content: "Moonscript";
+}
+[class^="codeContainer_"] .n1ql::before {
+    content: "N1QL";
+}
+[class^="codeContainer_"] .nestedtext::before {
+    content: "Nested text";
+}
+[class^="codeContainer_"] :is(.nginx, .nginxconf)::before {
+    content: "Nginx";
+}
+[class^="codeContainer_"] :is(.nim, .nimrod)::before {
+    content: "Nim";
+}
+[class^="codeContainer_"] .nix::before {
+    content: "Nix";
+}
+[class^="codeContainer_"] .node-repl::before {
+    content: "NODE REPL";
+}
+[class^="codeContainer_"] .nsis::before {
+    content: "NSIS";
+}
+[class^="codeContainer_"] :is(.objectivec, .mm, .objc, .obj-c, .obj-c\+\+, .objective-c\+\+)::before {
+    content: "Objective C";
+}
+[class^="codeContainer_"] :is(.ocaml, .ml)::before {
+    content: "OCaml";
+}
+[class^="codeContainer_"] .glsl::before {
+    content: "OpenGL Shading Language";
+}
+[class^="codeContainer_"] :is(.openscad, .scad)::before {
+    content: "OpenSCAD";
+}
+[class^="codeContainer_"] .oxygene::before {
+    content: "Oxygene";
+}
+[class^="codeContainer_"] .parser3::before {
+    content: "Parser3";
+}
+[class^="codeContainer_"] :is(.pf, .pf\.conf)::before {
+    content: "PF";
+}
+[class^="codeContainer_"] :is(.pgsql, .postgred, .postgresql)::before {
+    content: "PostgreSQL & PL/pgSQL";
+}
+[class^="codeContainer_"] .php::before {
+    content: "PHP";
+}
+[class^="codeContainer_"] .php-template::before {
+    content: "PHP TEMPLATE";
+}
+[class^="codeContainer_"] :is(.plaintext, .txt, .text)::before {
+    content: "Plaintext";
+}
+[class^="codeContainer_"] .pony::before {
+    content: "Pony";
+}
+[class^="codeContainer_"] :is(.powershell, .ps, .ps1)::before {
+    content: "PowerShell";
+}
+[class^="codeContainer_"] .processing::before {
+    content: "Processing";
+}
+[class^="codeContainer_"] .profile::before {
+    content: "Python profiler results";
+}
+[class^="codeContainer_"] .prolog::before {
+    content: "Prolog";
+}
+[class^="codeContainer_"] .properties::before {
+    content: "Properties";
+}
+[class^="codeContainer_"] :is(.protobuf, .proto)::before {
+    content: "Protocol Buffers";
+}
+[class^="codeContainer_"] :is(.puppet, .pp)::before {
+    content: "Puppet";
+}
+[class^="codeContainer_"] .purebasic::before {
+    content: "PUREBASIC";
+}
+[class^="codeContainer_"] :is(.python, .py, .gyp)::before {
+    content: "Python";
+}
+[class^="codeContainer_"] :is(.python-repl, .pycon)::before {
+    content: "Python REPL";
+}
+[class^="codeContainer_"] :is(.q, .k, .kdb)::before {
+    content: "Q";
+}
+[class^="codeContainer_"] .qml::before {
+    content: "QML";
+}
+[class^="codeContainer_"] .r::before {
+    content: "R";
+}
+[class^="codeContainer_"] :is(.reasonml, .re)::before {
+    content: "ReasonML";
+}
+[class^="codeContainer_"] .rib::before {
+    content: "RenderMan RIB";
+}
+[class^="codeContainer_"] :is(.roboconf, .graph, .instances)::before {
+    content: "Roboconf";
+}
+[class^="codeContainer_"] .routeros::before {
+    content: "MIKROTIK ROUTEROS SCRIPT";
+}
+[class^="codeContainer_"] .rsl::before {
+    content: "RenderMan RSL";
+}
+[class^="codeContainer_"] .ruleslanguage::before {
+    content: "Oracle Rules Language";
+}
+[class^="codeContainer_"] :is(.rust, .rs)::before {
+    content: "Rust";
+}
+[class^="codeContainer_"] :is(.sas, .SAS)::before {
+    content: "SAS";
+}
+[class^="codeContainer_"] .scala::before {
+    content: "Scala";
+}
+[class^="codeContainer_"] .scheme::before {
+    content: "Scheme";
+}
+[class^="codeContainer_"] :is(.scilab, .sci)::before {
+    content: "Scilab";
+}
+[class^="codeContainer_"] .scss::before {
+    content: "SCSS";
+}
+[class^="codeContainer_"] :is(.shell, .console)::before {
+    content: "Shell";
+}
+[class^="codeContainer_"] .smali::before {
+    content: "Smali";
+}
+[class^="codeContainer_"] :is(.smalltalk, .st)::before {
+    content: "Smalltalk";
+}
+[class^="codeContainer_"] .sml::before {
+    content: "SML";
+}
+[class^="codeContainer_"] .sqf::before {
+    content: "SQF";
+}
+[class^="codeContainer_"] .sql::before {
+    content: "SQL";
+}
+[class^="codeContainer_"] :is(.stan, .stanfuncs)::before {
+    content: "Stan";
+}
+[class^="codeContainer_"] .stata::before {
+    content: "Stata";
+}
+[class^="codeContainer_"] :is(.step21, .p21, .step, .stp)::before {
+    content: "STEP Part 21";
+}
+[class^="codeContainer_"] :is(.stylus, .styl)::before {
+    content: "Stylus";
+}
+[class^="codeContainer_"] .subunit::before {
+    content: "SubUnit";
+}
+[class^="codeContainer_"] .swift::before {
+    content: "Swift";
+}
+[class^="codeContainer_"] .taggerscript::before {
+    content: "TAGGER SCRIPT";
+}
+[class^="codeContainer_"] :is(.yml, .yaml)::before {
+    content: "YAML";
+}
+[class^="codeContainer_"] .tap::before {
+    content: "Test Anything Protocol";
+}
+[class^="codeContainer_"] :is(.tcl, .tk)::before {
+    content: "Tcl";
+}
+[class^="codeContainer_"] .thrift::before {
+    content: "Thrift";
+}
+[class^="codeContainer_"] .tp::before {
+    content: "TP";
+}
+[class^="codeContainer_"] :is(.twig, .craftcms)::before {
+    content: "Twig";
+}
+[class^="codeContainer_"] :is(.typescript, .ts, .tsx, .mts, .cts)::before {
+    content: "TypeScript";
+}
+[class^="codeContainer_"] .vala::before {
+    content: "Vala";
+}
+[class^="codeContainer_"] :is(.vbnet, .vb)::before {
+    content: "VB.Net";
+}
+[class^="codeContainer_"] :is(.vbscript, .vbs)::before {
+    content: "VBScript";
+}
+[class^="codeContainer_"] .vbscript-html::before {
+    content: "VBScript in HTML";
+}
+[class^="codeContainer_"] :is(.verilog, .v)::before {
+    content: "Verilog";
+}
+[class^="codeContainer_"] .vhdl::before {
+    content: "VHDL";
+}
+[class^="codeContainer_"] .vim::before {
+    content: "Vim Script";
+}
+[class^="codeContainer_"] .wasm::before {
+    content: "WEBASSEMBLY";
+}
+[class^="codeContainer_"] .wren::before {
+    content: "WREN";
+}
+[class^="codeContainer_"] .x86asm::before {
+    content: "x86 Assembly";
+}
+[class^="codeContainer_"] :is(.xl, .tao)::before {
+    content: "XL";
+}
+[class^="codeContainer_"] :is(.xquery, .xpath, .xq, .xqm)::before {
+    content: "XQuery";
+}
+[class^="codeContainer_"] :is(.zephir, .zep)::before {
+    content: "Zephir";
+}

@@ -1,0 +1,142 @@
+.cozy_ec86aa .messageContent_ec86aa {
+    position: unset;
+}
+
+/** Chat Bubbles */
+.groupStart_d5deea.cozyMessage_d5deea>.contents_f9f2ca,
+.cozyMessage_d5deea:not(.groupStart_d5deea)>.contents_f9f2ca>.markup_f8f345:not(:empty, .searchResultsWrap_c2b47d *) {
+    width: fit-content;
+    margin: 0;
+    padding: 7px 12px;
+    border-radius: var(--border-radius-large);
+    background: var(--color-4);
+}
+
+.cozyMessage_d5deea.automodMessage_d5deea:before,
+.cozyMessage_d5deea.ephemeral_d5deea:before,
+.cozyMessage_d5deea.mentioned_d5deea:before,
+.cozyMessage_d5deea.replying_d5deea:before {
+    width: 0;
+}
+
+.groupStart_d5deea.cozyMessage_d5deea.mentioned_d5deea .contents_f9f2ca,
+.cozyMessage_d5deea.mentioned_d5deea:not(.groupStart_d5deea) .contents_f9f2ca>.markup_f8f345:not(:empty, .searchResultsWrap_c2b47d *) {
+    border: 2px solid #EF8D4B;
+    background: rgba(239, 141, 75, 0.17);
+}
+.cozyMessage_d5deea.mentioned_d5deea {
+    background: unset;
+}
+
+.groupStart_d5deea.cozyMessage_d5deea.replying_d5deea .contents_f9f2ca,
+.cozyMessage_d5deea.replying_d5deea:not(.groupStart_d5deea) .contents_f9f2ca>.markup_f8f345:not(:empty, .searchResultsWrap_c2b47d *),
+.groupStart_d5deea.cozyMessage_d5deea.ephemeral_d5deea .contents_f9f2ca,
+.cozyMessage_d5deea.ephemeral_d5deea:not(.groupStart_d5deea) .contents_f9f2ca>.markup_f8f345:not(:empty, .searchResultsWrap_c2b47d *) {
+    border: 2px solid #4B6FEF;
+    background: rgba(75, 111, 239, 0.17);
+}
+.cozyMessage_d5deea.replying_d5deea,
+.cozyMessage_d5deea.ephemeral_d5deea {
+    background: unset;
+}
+
+.groupStart_d5deea.cozyMessage_d5deea.automodMessage_d5deea .contents_f9f2ca,
+.cozyMessage_d5deea.automodMessage_d5deea:not(.groupStart_d5deea) .contents_f9f2ca>.markup_f8f345:not(:empty, .searchResultsWrap_c2b47d *) {
+    border: 2px solid #EF4B4B;
+    background: rgba(239, 75, 75, 0.17);
+}
+.cozyMessage_d5deea.automodMessage_d5deea {
+    background: unset;
+}
+
+.groupStart_d5deea.cozyMessage_d5deea.automodMessage_d5deea:hover .contents_f9f2ca,
+.cozyMessage_d5deea.automodMessage_d5deea:not(.groupStart_d5deea):hover .contents_f9f2ca>.markup_f8f345:not(:empty, .searchResultsWrap_c2b47d *) {
+    border: 2px solid var(--text-danger);
+    background: var(--background-message-automod-hover);
+}
+.cozyMessage_d5deea.automodMessage_d5deea:hover {
+    background: var(--background-message-automod-hover);
+}
+
+.shiki-root {
+    background-color: var(--color-4) !important;
+}
+
+.markup_f8f345 blockquote,
+.markup_f8f345 pre {
+    max-width: 100%;
+}
+
+
+/* Edited message date */
+.timestamp_ec86aa:not(.timestampInline_ec86aa, .timestampVisibleOnHover_ec86aa) time::after {
+    content: " (" attr(aria-label) ")";
+    color: var(--text-muted);
+    font-size: 0.625rem;
+}
+.edited_ec86aa:not(.message-translate-indicator),
+.timestamp_ec86aa[class*="CompactTimeStamp"] time::after {
+    display: none;
+}
+.timestamp_ec86aa[class*="CompactTimeStamp"] {
+    width: 3.2rem;
+}
+
+
+/* No Internet */
+.wrapper_cdfd51 {
+    background-color: unset;
+}
+.wrapper_b75bb9 {
+    background-color: var(--color-1);
+}
+.wrapper_b75bb9 {
+    background-color: var(--color-1);
+}
+
+
+/* Controls */
+.buttonContainer_f9f2ca .wrapper_ef319f {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.buttonContainer_f9f2ca .wrapper_ef319f .button_ef319f.selected_ef319f {
+    background-color: var(--color-6);
+}
+
+
+/* Chat Pills */
+.divider_d5deea {
+    justify-content: end;
+    height: 2px;
+    border: none;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-6);
+}
+.divider_d5deea.isUnread_c2654d {
+    background-color: #EF4B4B;
+}
+
+.content_c2654d {
+    padding: 8px 12px;
+    border: 2px solid var(--color-6);
+    border-radius: var(--border-radius-large);
+    background: var(--color-2);
+}
+
+.isUnread_c2654d .content_c2654d {
+    border-color: #EF4B4B;
+}
+.isUnread_c2654d .endCap_c2654d {
+    order: 1;
+    top: -6px;
+    left: 0 ;
+    right: unset;
+    padding: 0 1px 0 4px;
+    border-radius: var(--border-radius-medium) 0 0 var(--border-radius-medium);
+}
+.isUnread_c2654d .endCap_c2654d .unreadPillCap_c2654d {
+    left: unset;
+    right: -8px;
+    transform: rotate(180deg);
+}

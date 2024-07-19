@@ -1,0 +1,88 @@
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="OVERVIEW"]::before {
+    background: url("./src/readme.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="ROLES"]::before {
+    background: url("./src/at.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="EMOJI"]::before {
+    background: url("./src/face-smile.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="STICKERS"]::before {
+    background: url("./src/note-sticky.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="SOUNDBOARD"]::before {
+    background: url("./src/drum.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="WIDGET"]::before {
+    background: url("./src/window-maximize.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="GUILD_TEMPLATES"]::before {
+    background: url("./src/server.svg") no-repeat center;
+}
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="GUILD_TEMPLATES"] .dot_f92f5f {
+    margin-left: 5px;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="INTEGRATIONS"]::before {
+    background: url("./src/puzzle-piece.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="VANITY_URL"]::before {
+    background: url("./src/link.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="APP_DIRECTORY"]::before {
+    background: url("./src/robot.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="SAFETY"]::before {
+    background: url("./src/shield.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="AUDIT_LOG"]::before {
+    background: url("./src/file-lines.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="BANS"]::before {
+    background: url("./src/gavel.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="COMMUNITY"]::before {
+    background: url("./src/readme.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="ONBOARDING"]::before {
+    background: url("./src/list.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="ANALYTICS"]::before {
+    background: url("./src/chart-line.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="DISCOVERY"]::before {
+    background: url("./src/compass.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="ROLE_SUBSCRIPTIONS"]::before {
+    background: url("./src/coins.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="GUILD_PREMIUM"]::before {
+    background: url("./src/boost.svg") no-repeat center;
+}
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="GUILD_PREMIUM"] svg {
+    display: none;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="MEMBERS"]::before {
+    background: url("./src/users.svg") no-repeat center;
+}
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="MEMBERS"] svg {
+    display: none;
+}

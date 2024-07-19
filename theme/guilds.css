@@ -1,0 +1,125 @@
+/* Home Button */
+.tutorialContainer_f9623d {
+    margin-top: 12px;
+}
+
+/* Home Icon */
+.wrapper__8436d[data-list-item-id="guildsnav___home"] .childWrapper_a6ce15 {
+    background: var(--home-icon) no-repeat center !important;
+    background-size: cover !important;
+}
+.wrapper__8436d[data-list-item-id="guildsnav___home"] .childWrapper_a6ce15 svg {
+    display: none;
+}
+
+
+/* Unread */
+.unreadMentionsIndicatorBottom_fea3ef {
+    bottom: 130px;
+    width: 100%;
+}
+.unreadMentionsIndicatorBottom_fea3ef .bar_c10249 {
+    opacity: 1;
+    height: 28px;
+    border-radius: var(--border-radius-large);
+}
+
+
+/* Position */
+.wrapper_fea3ef.guilds_a4d4d9 {
+    width: 80px;
+    margin: 16px 0 16px 16px;
+    border-radius: var(--border-radius-large);
+}
+:has(.titleBar_a934d8) .wrapper_fea3ef.guilds_a4d4d9 {
+    margin: 0 0 16px 16px;
+}
+
+.tree_fea3ef {
+    width: 80px;
+    background-color: var(--color-2);
+}
+.wrapper_fea3ef.guilds_a4d4d9 .listItem_c96c45 {
+    width: 80px;
+}
+
+
+
+/*
+* Always
+*/
+.guilds_a4d4d9 .scroller_fea3ef {
+    contain: unset;
+    margin-bottom: 50px;
+    padding-bottom: 80px;
+}
+.guilds_a4d4d9 .scroller_fea3ef::before {
+    content: "";
+    margin-bottom: 16px;
+    position: fixed;
+    bottom: 0;
+    width: 80px;
+    height: 132px;
+    border-radius: 0px 0px var(--border-radius-large) var(--border-radius-large);
+    background-color: var(--color-2);
+    z-index: 11;
+}
+.tutorialContainer_c96c45 {
+    position: fixed;
+    bottom: 20px;
+    z-index: 12;
+}
+.tutorialContainer_c96c45 + .listItem_c96c45 {
+    position: fixed;
+    bottom: 78px;
+    contain: none;
+    z-index: 12;
+}
+.circleIconButton_db6521 {
+    background-color: var(--color-1);
+}
+.circleIconButton_db6521.selected_db6521 {
+    background-color: var(--color-3);
+}
+.circleIconButton_db6521 svg {
+    color: var(--accent);
+}
+
+
+
+/*
+* Folder
+*/
+.expandedFolderBackground_bc7085 {
+    width: 64px;
+    inset: -9px 8px 0;
+    border-radius: 16px;
+    background-color: var(--color-5);
+}
+.wrapper_bc7085 {
+    margin: 17px 0 8px;
+}
+.wrapper_bc7085:has(.expandedFolderBackground_bc7085.collapsed_bc7085) {
+    margin: 0;
+}
+.expandedFolderIconWrapper_bc7085 {
+    background-color: var(--color-2);
+}
+
+/* Folder Icon Color */
+.closedFolderIconWrapper_bc7085 {
+    display: none;
+}
+.folderIconWrapper_bc7085:not([style=""])::before {
+    position: absolute;
+    content: "";
+    width: 18px;
+    height: 18px;
+    inset: 0;
+    margin: auto;
+    background-color: inherit;
+    mask: url("../src/icons/folder.svg") no-repeat;
+    -webkit-mask: url("../src/icons/folder.svg") no-repeat;
+    transform: scale(1.3335);
+    filter: brightness(1.5) saturate(1.5);
+}

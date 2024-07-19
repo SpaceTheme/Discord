@@ -1,0 +1,24 @@
+.directoryContainer_da3f59 {
+    background-color: var(--background) !important;
+}
+
+.directoryContainer_da3f59 .card_e90143 {
+    background-color: var(--color-2);
+}
+.directoryContainer_da3f59 .card_e90143 .imageContainer_e90143 {
+    height: unset;
+    margin: 10px 10px 10px 0;
+}
+.directoryContainer_da3f59 .card_e90143 .imageContainer_e90143 img {
+    border-radius: var(--border-radius-large);
+}
+
+.directoryContainer_da3f59 .container_d9c848 {
+    background-color: var(--color-2);
+}
+.directoryContainer_da3f59 .container_d9c848 .imageContainer_d9c848 {
+    margin: 10px 10px 0 10px;
+}
+.directoryContainer_da3f59 .container_d9c848 .imageContainer_d9c848 img {
+    border-radius: var(--border-radius-large);
+}

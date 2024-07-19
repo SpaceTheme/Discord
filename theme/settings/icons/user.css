@@ -1,0 +1,175 @@
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="My Account"]::before {
+    background: url("./src/user.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Profile Customization"]::before {
+    background: url("./src/pen.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Privacy & Safety"]::before {
+    background: url("./src/shield-halved.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Family Center"]::before {
+    background: url("./src/user-group.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Authorized Apps"]::before {
+    background: url("./src/key.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Sessions"]::before {
+    background: url("./src/laptop.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Connections"]::before {
+    background: url("./src/link.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Settings Clips"]::before {
+    background: url("./src/clapperboard.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Friend Requests"]::before {
+    background: url("./src/user-plus.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Discord Nitro"]::before {
+    background: url("./src/nitro.svg") no-repeat center;
+}
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Discord Nitro"] svg {
+    display: none;
+}
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Discord Nitro"].premiumTab_c10c74 {
+    overflow: hidden;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Nitro Server Boost"]::before {
+    background: url("./src/boost.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Subscriptions"]::before {
+    background: url("./src/dollar-sign.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Library Inventory"]::before {
+    background: url("./src/gifts.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Billing"]::before {
+    background: url("./src/credit-card.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Appearance"]::before {
+    background: url("./src/palette.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Accessibility"]::before {
+    background: url("./src/universal-access.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Voice & Video"]::before {
+    background: url("./src/headset.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Text & Images"]::before {
+    background: url("./src/message.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Notifications"]::before {
+    background: url("./src/bell.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Keybinds"]::before {
+    background: url("./src/keyboard.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Language"]::before {
+    background: url("./src/language.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Windows"]::before {
+    background: url("./src/windows.svg") no-repeat center;
+}
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Linux"]::before {
+    background: url("./src/linux.svg") no-repeat center;
+}
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="MacOS"]::before {
+    background: url("./src/apple.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Streamer Mode"]::before {
+    background: url("./src/video.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Advanced"]::before {
+    background: url("./src/gear.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="VencordSettings"]::before {
+    background: url("./src/cat.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="VencordPlugins"]::before {
+    background: url("./src/puzzle-piece.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="VencordThemes"]::before {
+    background: url("./src/palette.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="VencordUpdater"]::before {
+    background: url("./src/download.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="VencordCloud"]::before {
+    background: url("./src/cloud.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="VencordSettingsSync"]::before {
+    background: url("./src/file-export.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Activity Privacy"]::before {
+    background: url("./src/shield.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Game Activity"]::before {
+    background: url("./src/gamepad.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Overlay"]::before {
+    background: url("./src/layer-group.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="changelog"]::before {
+    background: url("./src/newspaper.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="merchandise"]::before {
+    background: url("./src/shirt.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Hypesquad Online"]::before {
+    background: url("./src/hypersquad.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Experiments"]::before {
+    background: url("./src/flask.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Developer Options"]::before,
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Hotspot Options"]::before,
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Dismissible Content Options"]::before,
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Payment Flow Modals"]::before,
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Text Playground"]::before,
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="Text Component"]::before {
+    background: url("./src/code.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="logout"]::before {
+    background: url("./src/right-from-bracket.svg") no-repeat center;
+}
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="logout"] svg {
+    display: none;
+}

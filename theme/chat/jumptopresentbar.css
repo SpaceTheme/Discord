@@ -1,0 +1,41 @@
+/* Better Jump To Present Button */
+[class*="jumpToPresentBar"] {
+    display: contents;
+}
+[class*="jumpToPresentBar"] > button:first-child {
+    display: none;
+}
+[class*="jumpToPresentBar"] > button:last-child {
+    z-index: 1;
+    position: absolute;
+    right: 22px;
+    bottom: 24px;
+    display: flex;
+    height: auto;
+    padding: 8px !important;
+    font-size: 0px;
+    border-radius: 100px;
+    color: transparent;
+    background-color: var(--color-2);
+    box-shadow: var(--elevation-high);
+    transition: font-size .2s .1s, color .2s, padding .4s .1s;
+}
+[class*="jumpToPresentBar"] > button svg {
+    order: -1;
+    top: auto;
+    height: 24px;
+    width: 24px;
+    margin: 0px;
+    color: #FFFFFF;
+    transition: margin .6s;
+}
+[class*="jumpToPresentBar"]:hover > button {
+    padding: 8px 18px !important;
+    font-size: 14px;
+    color: #FFFFFF;
+    transition: font-size .2s, color .2s .1s, padding .4s;
+}
+[class*="jumpToPresentBar"]:hover > button svg {
+    margin-right: 2px;
+    margin-left: -6px;
+}

@@ -1,0 +1,15 @@
+/* Browse Channels v0.1 */
+.container_f1fd9c,
+.container_f1fd9c .scrollerContainer_c6b11b,
+.container_f1fd9c .container_c2efea,
+.container_f1fd9c .pageBody_c2efea {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1) !important;
+}
+.container_f1fd9c .prompt_c6b11b,
+.container_f1fd9c .channelRow_f04d06 {
+    background-color: var(--color-2);
+}
+.optionButtonWrapper_bd5e1f.selected_bd5e1f {
+    background-color: var(--color-1);
+}

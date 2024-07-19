@@ -1,0 +1,7 @@
+.chat_fb4810 {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+.chat_fb4810::before {
+    display: none;
+}

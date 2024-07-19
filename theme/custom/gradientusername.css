@@ -1,0 +1,257 @@
+/* Gradient Username Request */
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126874696097484821"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b {
+    display: flex;
+    flex-direction: column;
+}
+
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126874696097484821"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b::before {
+    order: -2;
+    display: flex;
+    padding: 12px 16px 4px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    white-space: pre-wrap;
+    content: "Request Gradient Username:";
+    border-radius: var(--border-radius-large) var(--border-radius-large) 0 0;
+    color: var(--header-primary);
+    background: var(--color-2);
+}
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126874696097484821"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b::after {
+    order: -1;
+    display: flex;
+    padding: 0 16px 8px;
+    font-size: 14px;
+    line-height: 18px;
+    white-space: pre-wrap;
+    content: "• At first you have to become a Supporter+ to request. (https://ko-fi.com/spacetheme/tiers) \a • 1. Color on Left side of the Name \a • 2. Color on Right Side \a • Please wait at least 24 hours for requests to be fulfilled. Requests will not always be taken in instantly.";
+    border-radius: 0;
+    color: var(--header-secondary);
+    background: var(--color-2);
+}
+
+html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126874696097484821"]) .form_a7d72e .inner_d0696b {
+    border-radius: 0 0 var(--border-radius-large) var(--border-radius-large);
+}
+
+
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/132176532767637505"], [style*="avatars/132176532767637505"]) :is(.title_d1da5f,
+                                                                                                          .username_f9f2ca,
+                                                                                                          .name_a31c43,
+                                                                                                          .nickname_c9ccf6,
+                                                                                                          .text-lg-semibold__9539a,
+                                                                                                          .overflow_c74e70,
+                                                                                                          .username_f3939d,
+                                                                                                          .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #00bd8e;
+    background: linear-gradient(90deg, #b03801 0%,#00bd8e 100%);
+}
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/221097896328691712"], [style*="avatars/221097896328691712"]) :is(.title_d1da5f,
+                                                                                                          .username_f9f2ca,
+                                                                                                          .name_a31c43,
+                                                                                                          .nickname_c9ccf6,
+                                                                                                          .text-lg-semibold__9539a,
+                                                                                                          .overflow_c74e70,
+                                                                                                          .username_f3939d,
+                                                                                                          .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #e31632;
+    background: linear-gradient(90deg, #12609a 0%, #e31632 50%, #b8c213 100%);
+}
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/495333777606967306"], [style*="avatars/495333777606967306"]) :is(.title_d1da5f,
+                                                                                                          .username_f9f2ca,
+                                                                                                          .name_a31c43,
+                                                                                                          .nickname_c9ccf6,
+                                                                                                          .text-lg-semibold__9539a,
+                                                                                                          .overflow_c74e70,
+                                                                                                          .username_f3939d,
+                                                                                                          .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #56436e;
+    background: linear-gradient(133deg, #b758ff 7%, #8c00ff 100%);
+}
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/496855814791888898"], [style*="avatars/496855814791888898"]) :is(.title_d1da5f,
+                                                                                                          .username_f9f2ca,
+                                                                                                          .name_a31c43,
+                                                                                                          .nickname_c9ccf6,
+                                                                                                          .text-lg-semibold__9539a,
+                                                                                                          .overflow_c74e70,
+                                                                                                          .username_f3939d,
+                                                                                                          .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #FFF;
+    background: linear-gradient(90deg, #4C00FF 0%, #FFF 50%, #4C00FF 100%);
+}
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/579703530164846592"], [style*="avatars/579703530164846592"]) :is(.title_d1da5f,
+                                                                                                          .username_f9f2ca,
+                                                                                                          .name_a31c43,
+                                                                                                          .nickname_c9ccf6,
+                                                                                                          .text-lg-semibold__9539a,
+                                                                                                          .overflow_c74e70,
+                                                                                                          .username_f3939d,
+                                                                                                          .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #00bfe5;
+    background: linear-gradient(90deg, #901fad 0%,#00bfe5 100%);
+}
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/682317162010247184"], [style*="avatars/682317162010247184"]) :is(.title_d1da5f,
+                                                                                                          .username_f9f2ca,
+                                                                                                          .name_a31c43,
+                                                                                                          .nickname_c9ccf6,
+                                                                                                          .text-lg-semibold__9539a,
+                                                                                                          .overflow_c74e70,
+                                                                                                          .username_f3939d,
+                                                                                                          .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #878cff;
+    background: linear-gradient(90deg,#878cff,#666cff 34%,#878cff 67%,#666cff);
+}
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/701870295195320410"], [style*="avatars/701870295195320410"]) :is(.title_d1da5f,
+                                                                                                          .username_f9f2ca,
+                                                                                                          .name_a31c43,
+                                                                                                          .nickname_c9ccf6,
+                                                                                                          .text-lg-semibold__9539a,
+                                                                                                          .overflow_c74e70,
+                                                                                                          .username_f3939d,
+                                                                                                          .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #00bfe5;
+    background: linear-gradient(90deg, #901fad 0%,#00bfe5 100%);
+}
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/770013098689953832"], [style*="avatars/770013098689953832"]) :is(.title_d1da5f,
+                                                                                                          .username_f9f2ca,
+                                                                                                          .name_a31c43,
+                                                                                                          .nickname_c9ccf6,
+                                                                                                          .text-lg-semibold__9539a,
+                                                                                                          .overflow_c74e70,
+                                                                                                          .username_f3939d,
+                                                                                                          .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #9000ff;
+    background: linear-gradient(90deg, #00f8ff 0%, #9000ff 100%);
+}
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/871735378837667880"], [style*="avatars/871735378837667880"]) :is(.title_d1da5f,
+                                                                                                          .username_f9f2ca,
+                                                                                                          .name_a31c43,
+                                                                                                          .nickname_c9ccf6,
+                                                                                                          .text-lg-semibold__9539a,
+                                                                                                          .overflow_c74e70,
+                                                                                                          .username_f3939d,
+                                                                                                          .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #8E24AA;
+    background: linear-gradient(90deg, #1E88E5 0%, #8E24AA 100%);
+}
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/1178768557178376222"], [style*="avatars/1178768557178376222"]) :is(.title_d1da5f,
+                                                                                                            .username_f9f2ca,
+                                                                                                            .name_a31c43,
+                                                                                                            .nickname_c9ccf6,
+                                                                                                            .text-lg-semibold__9539a,
+                                                                                                            .overflow_c74e70,
+                                                                                                            .username_f3939d,
+                                                                                                            .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #fff;
+    background: linear-gradient(90deg, #4c00ff 0%, #fff 50%, #4c00ff 100%);
+}

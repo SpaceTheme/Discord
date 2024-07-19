@@ -1,0 +1,48 @@
+.permissionsForm_a73849 {
+    display: grid;
+    grid: auto-flow dense/repeat(auto-fit,minmax(20rem,1fr));
+    grid-auto-rows: minmax(3rem,auto);
+    grid-gap: 10px;
+    margin-bottom: 15px !important;
+    padding: 40px 15px 15px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.permissionsForm_a73849+.permissionsForm_a73849 {
+    margin-top: 15px;
+}
+.permissionsForm_a73849:has(.text-sm-normal__95a78.marginBottom20_f7730b) {
+    padding: 65px 15px 15px;
+}
+.permissionsForm_a73849 .h5_c46f6a {
+    position: absolute;
+    transform: translateY(-25px);
+}
+.permissionsForm_a73849:has(.text-sm-normal__95a78.marginBottom20_f7730b) .h5_c46f6a {
+    transform: translateY(-50px);
+}
+.permissionsForm_a73849 .text-sm-normal__95a78.marginBottom20_f7730b {
+    position: absolute;
+    transform: translateY(-30px);
+}
+
+.permissionsForm_a73849 .container_ed1d57 {
+    position: relative;
+    margin-bottom: 0;
+    padding: 15px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-3);
+}
+
+.permissionsForm_a73849 .group_e3c4bb {
+    position: absolute;
+    bottom: 15px;
+    gap: 10px;
+    width: calc(100% - 30px);
+    height: 35px;
+    border: none;
+}
+
+.permissionsForm_a73849 .container_ed1d57 .divider_b03b7f {
+    display: none;
+}

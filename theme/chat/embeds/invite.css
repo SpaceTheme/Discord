@@ -1,0 +1,17 @@
+.wrapper_b9fe76 {
+    padding: 16px;
+    margin-top: 2px;
+    max-width: 450px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+.guildIconImage_b9fe76 {
+    border-radius: var(--border-radius-large) !important;
+}
+
+.inviteSplash_b9fe76 {
+    height: 100px;
+    margin: -5px -5px 16px -5px;
+    border-radius: var(--border-radius-large);
+}

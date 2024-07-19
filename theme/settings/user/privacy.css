@@ -1,0 +1,18 @@
+.container_dccaf1 {
+    padding: 15px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+.container_dccaf1 .profile_f7ea1b {
+    margin: 0;
+}
+.container_dccaf1 .profile_f7ea1b .avatarBackground_bb882a {
+    width: 80px;
+    height: 80px;
+    background-color: unset;
+}
+
+.container_dccaf1 .statusOption_f7ea1b .marker_f7ea1b {
+    margin-right: 0 !important;
+}

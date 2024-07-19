@@ -1,0 +1,65 @@
+.root_f9a4c9:has(.vc-gp-root) {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-4);
+}
+
+.vc-gp-banner {
+    width: calc(100% - 30px);
+    margin: 16px 16px 0;
+    border-radius: var(--border-radius-large);
+}
+
+.vc-gp-header {
+    margin: 16px;
+}
+.vc-gp-header img {
+    border-radius: 16px;
+}
+
+.vc-gp-name {
+    text-transform: none;
+}
+
+.vc-gp-tab-bar {
+    position: relative;
+    gap: 12px;
+    margin: 16px 16px 0;
+    padding: 12px 12px 0;
+    border: none;
+    border-radius: var(--border-radius-large) var(--border-radius-large) 0 0;
+    background-color: var(--color-1);
+}
+.vc-gp-tab {
+    height: unset;
+    padding: 16px 16px;
+    border: none !important;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.vc-gp-tab:hover {
+    background-color: var(--color-4);
+}
+.vc-gp-tab.vc-gp-selected {
+    background-color: var(--color-4);
+}
+
+.vc-gp-tab-content {
+    height: 250px;
+    margin: 0 16px 16px;
+    padding: 16px 12px 12px;
+    border-radius: 0 0 var(--border-radius-large) var(--border-radius-large);
+    background-color: var(--color-1);
+}
+.vc-gp-tab-content:has(.vc-gp-scroller) {
+    padding: 12px 0 12px 12px;
+}
+
+.vc-gp-scroller {
+    height: 100%;
+}
+
+.vc-gp-scroller .listRow_e4be58 {
+    margin: 0 0 12px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}

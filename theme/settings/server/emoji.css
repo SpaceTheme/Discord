@@ -1,0 +1,101 @@
+.content_dc1809 {
+    display: grid;
+    grid: auto-flow dense/repeat(auto-fit,minmax(15rem,1fr));
+    grid-auto-rows: minmax(3rem,auto);
+    grid-gap: 10px;
+}
+
+.content_dc1809 .emojiTable_dc1809 {
+    display: none;
+}
+
+.content_dc1809 .card_ffe375 {
+    height: unset;
+    padding: 15px 10px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+.content_dc1809 .card_ffe375:hover {
+    background-color: var(--color-4);
+}
+.content_dc1809 .card_ffe375:before {
+    display: none;
+}
+
+.content_dc1809 .emojiColumn_dc1809 {
+    flex-basis: unset;
+    margin-right: 15px;
+}
+
+
+.content_dc1809 .column_dc1809:nth-child(2) {
+    position: absolute;
+    top: 10px;
+    left: 60px;
+    flex-basis: unset;
+}
+
+.content_dc1809 .emojiAliasPlaceholder_dc1809 {
+    position: unset;
+    display: flex;
+    padding: 0;
+    line-height: 18px;
+}
+
+.content_dc1809 .emojiAliasPlaceholderContent_dc1809 {
+    display: unset;
+}
+.content_dc1809 .emojiAliasPlaceholder_dc1809:before,
+.content_dc1809 .emojiAliasPlaceholder_dc1809:after {
+    position: unset;
+}
+.emojiAliasPlaceholder_dc1809:before {
+    margin-left: -5px;
+}
+.emojiAliasPlaceholder_dc1809:after {
+    margin-left: 0;
+}
+
+.content_dc1809 .emojiAliasInput_dc1809 {
+    position: absolute;
+    width: fit-content;
+    margin: 0;
+}
+.content_dc1809 .emojiAliasInput_dc1809 .emojiInput_dc1809 {
+    height: unset;
+    padding: 0;
+    line-height: 18px;
+    background-color: var(--color-2);
+}
+
+
+.content_dc1809 .column_dc1809:nth-child(3) {
+    position: absolute;
+    left: 55px;
+    bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.content_dc1809 .column_dc1809 .avatar_dc1809 svg {
+    width: 20px !important;
+    height: 20px !important;
+}
+.content_dc1809 .column_dc1809 .emojiRowText_dc1809 {
+    position: unset;
+}
+
+
+.content_dc1809 .emojiRemove_dc1809 {
+    top: -3px;
+    right: -7px;
+    border: none;
+    background-color: var(--color-5);
+}
+.content_dc1809 .card_ffe375:hover .emojiRemove_dc1809 {
+    opacity: .6;
+}
+.content_dc1809 .card_ffe375:hover .emojiRemove_dc1809:hover {
+    opacity: 1;
+    background-color: var(--color-6);
+}

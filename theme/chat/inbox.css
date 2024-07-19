@@ -1,0 +1,103 @@
+.recentMentionsPopout_ddb5b4 {
+    max-height: 80vh !important;
+    padding: 12px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2);
+}
+
+.recentMentionsPopout_ddb5b4 .header_ac90a2 {
+    margin-bottom: 12px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+.recentMentionsPopout_ddb5b4 [class*="scroller"] {
+    padding: 0;
+    border-radius: var(--border-radius-large);
+}
+.recentMentionsPopout_ddb5b4 [class*="scroller"]::-webkit-scrollbar {
+    display: none;
+}
+
+/* For you */
+.recentMentionsPopout_ddb5b4 .container_fe1358 {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    background-color: var(--color-2);
+}
+
+.recentMentionsPopout_ddb5b4 .row_fd8ff1 {
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-1);
+}
+.recentMentionsPopout_ddb5b4 .row_fd8ff1:hover {
+    background-color: var(--color-4);
+}
+
+.recentMentionsPopout_ddb5b4 .row_fd8ff1 .tertiary_ad6d80 {
+    background-color: var(--color-6);
+}
+
+.container_f9bbb4 img {
+    height: 40px;
+}
+
+/* Unreads */
+.channel_d09ffd {
+    padding-bottom: 6px;
+}
+.channelHeader_f3978e {
+    position: unset;
+    padding: 0 16px;
+    border-radius: var(--border-radius-large) var(--border-radius-large) 0 0;
+    background-color: var(--color-1);
+}
+.channelHeader_f3978e:has(.collapsed_d09ffd) {
+    border-radius: var(--border-radius-large);
+}
+
+.collapseButton_d09ffd {
+    position: unset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    min-width: 32px;
+    height: 32px;
+    min-height: 32px;
+    margin-left: 12px;
+    padding: 0;
+    border-radius: 100%;
+    background-color: var(--color-6);
+}
+.channelHeader_f3978e .tertiary_ad6d80 {
+    background-color: var(--color-6);
+}
+.channelHeader_f3978e .markReadButton_d09ffd {
+    margin-left: 12px;
+}
+
+.channel_d09ffd .messages_c06487 {
+    border-radius: 0 0 var(--border-radius-large) var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+/* Mentions */
+.container_ddb5b4 {
+    margin-bottom: 6px;
+    padding: 0;
+}
+.container_ddb5b4 .messageContainer_ddb5b4 {
+    margin: 0;
+    border-radius: 0 0 var(--border-radius-large) var(--border-radius-large);
+    background-color: var(--color-1);
+}
+
+.hasMore_ac90a2 {
+    margin-top: 12px;
+    padding: 0 0 6px;
+}
+.hasMore_ac90a2 .button_dd4f85 {
+    background-color: var(--color-1);
+}

@@ -1,0 +1,20 @@
+.invite_cdcad9 {
+    display: flex;
+    gap: 12px;
+    border-radius: var(--border-radius-large);
+    background-color: var(--color-2) !important;
+}
+
+
+.coverImageWrapper_cdcad9 {
+    position: unset;
+    opacity: 1;
+}
+
+.coverImageNotActionable_cdcad9 {
+    filter: grayscale(0);
+}
+.coverImage_cdcad9 {
+    height: 100px;
+    mask: none;
+}

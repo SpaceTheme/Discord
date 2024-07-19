@@ -1,0 +1,22 @@
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="OVERVIEW"]::before {
+    background: url("./src/readme.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="PERMISSIONS"]::before {
+    background: url("./src/users-gear.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="INSTANT_INVITES"]::before {
+    background: url("./src/envelope.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="INTEGRATIONS"]::before {
+    background: url("./src/puzzle-piece.svg") no-repeat center;
+}
+
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="DELETE"]::before {
+    background: url("./src/trash.svg") no-repeat center;
+}
+.sidebarRegionScroller_c25c6d .item_a0[data-tab-id="DELETE"] svg {
+    display: none;
+}

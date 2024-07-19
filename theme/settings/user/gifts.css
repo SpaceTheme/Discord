@@ -1,0 +1,25 @@
+.questsContainer_f1791d .questsCard_c366aa {
+    max-height: unset !important;
+    margin-bottom: 15px;
+    background-color: var(--color-2);
+}
+.questsContainer_f1791d .questsCard_c366aa+.questsCard_c366aa {
+    margin-top: 15px;
+}
+
+.questsContainer_f1791d .outerContainer_af8856 {
+    margin: 15px 15px 0;
+    border-radius: var(--border-radius-large);
+}
+
+.questsContainer_f1791d .outerContainer_d7df05 {
+    padding: 15px;
+    background-color: unset;
+}
+
+.questsContainer_f1791d .questRewardTile_cc6d33 {
+    border-radius: var(--border-radius-large);
+}
+.questsContainer_f1791d .rewardTileExpired_d7df05 {
+    background-color: unset;
+}
