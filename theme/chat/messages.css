@@ -96,11 +96,14 @@
 
 
 /* Controls */
-.buttonContainer_f9f2ca .wrapper_ef319f {
+.buttonContainer_f9f2ca .wrapper_f7e168 {
     border-radius: var(--border-radius-large);
     background-color: var(--color-2);
 }
-.buttonContainer_f9f2ca .wrapper_ef319f .button_ef319f.selected_ef319f {
+.buttonContainer_f9f2ca .wrapper_f7e168 .button_f7e168 {
+    border-radius: var(--border-radius-large);
+}
+.buttonContainer_f9f2ca .wrapper_f7e168 .button_f7e168.selected_f7e168 {
     background-color: var(--color-6);
 }
 

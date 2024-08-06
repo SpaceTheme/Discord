@@ -60,12 +60,12 @@
     gap: 6px;
 }
 
-.container_b2ca13 .button_f67531 {
+.container_b2ca13 .button_adca65 {
     width: -webkit-fill-available;
     transition: background-color 0.15s ease-in-out;
     background-color: var(--color-3);
 }
-.container_b2ca13 .button_f67531:hover {
+.container_b2ca13 .button_adca65:hover {
     background-color: var(--color-1) !important;
 }
 
