@@ -1,7 +1,5 @@
-<!--
-> [!NOTE]
-> SpaceTheme for Discord is currently paused.
--->
+> [!WARNING]
+> SpaceTheme for Discord will not get an update for the time being, as the whole theme will be rewritten from scratch.
 
 <div align="center">
 <h3><img height="52" src="./_assets/img/logo.png"></h3>
