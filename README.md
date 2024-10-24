@@ -34,7 +34,7 @@ Using third party clients (e.g. Vencord or BetterDiscord) is against the Discord
 ```ps1
 iwr -useb "https://spacetheme.de/discord.ps1" | iex
 ```
-[Source](https://github.com/SpaceTheme/Installer/discord.ps1)
+[Source](https://github.com/SpaceTheme/Installer/blob/main/discord.ps1)
 
 ## Manual installation
 1. Visit [Vencord](https://vencord.dev/) or [BetterDiscord](https://betterdiscord.app/). and follow the instructions to install the client mod.
