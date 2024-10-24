@@ -28,7 +28,15 @@
 ## ⚠️Warning⚠️
 Using third party clients (e.g. Vencord or BetterDiscord) is against the Discord Terms of Service (ToS). While nobody has ever been banned for simply using discord client mods, We are not responsible for anything that might happen to your account by using third party clients. Use at your own discretion!
 
-## Installation
+## Automatic installation (Recommended)
+1. Visit [Vencord](https://vencord.dev/) or [BetterDiscord](https://betterdiscord.app/). and follow the instructions to install the client mod.
+1. Run the command in PowerShell:
+```ps1
+iwr -useb "https://spacetheme.de/discord.ps1" | iex
+```
+[Source](https://github.com/SpaceTheme/Installer/discord.ps1)
+
+## Manual installation
 1. Visit [Vencord](https://vencord.dev/) or [BetterDiscord](https://betterdiscord.app/). and follow the instructions to install the client mod.
 1. Get the `SpaceTheme.theme.css` file from [Releases](https://github.com/SpaceTheme/Discord/releases).
 1. Open the File Explorer and enter `%AppData%\Vencord\themes` or `%AppData%\BetterDiscord\themes` in the address bar.
