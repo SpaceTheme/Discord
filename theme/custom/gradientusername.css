@@ -277,3 +277,25 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126874696097484821
     text-decoration-color: #fff;
     background: linear-gradient(90deg, #4186ec 0%, #0bbafb 100%);
 }
+
+:is(.container_b2ca13,
+    .contents_f9f2ca,
+    .memberInner_a31c43,
+    .userProfileInner_c69a7b,
+    .channel_c91bad,
+    .userInfo_f3939d,
+    .itemCard_f02fcf):has([src*="avatars/623924391356399616"], [style*="avatars/623924391356399616"]) :is(.title_d1da5f,
+                                                                                                            .username_f9f2ca,
+                                                                                                            .name_a31c43,
+                                                                                                            .nickname_c9ccf6,
+                                                                                                            .text-lg-semibold__9539a,
+                                                                                                            .overflow_c74e70,
+                                                                                                            .username_f3939d,
+                                                                                                            .text-md\/semibold_dc00ef) {
+    font-weight: 700;
+    color: transparent !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    text-decoration-color: #a100ff;
+    background: linear-gradient(90deg, #a100ff 0%, #e174ff 100%);
+}
