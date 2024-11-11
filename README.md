@@ -30,7 +30,8 @@ Using third party clients (e.g. Vencord or BetterDiscord) is against the Discord
 
 ## Automatic installation (Recommended)
 1. Visit [Vencord](https://vencord.dev/) or [BetterDiscord](https://betterdiscord.app/). and follow the instructions to install the client mod.
-1. Run the command in PowerShell:
+1. Download [SpaceTheme Installer](https://github.com/SpaceTheme/Installer/releases) or
+<br>Run the command in PowerShell:
 ```ps1
 iwr -useb "https://spacetheme.de/discord.ps1" | iex
 ```
