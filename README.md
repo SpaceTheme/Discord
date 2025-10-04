@@ -6,8 +6,10 @@
 [![Website](https://img.shields.io/badge/website-back?style=for-the-badge&logo=googlechrome&logoColor=%23ffffff&labelColor=%23111111&color=%23111111)](https://spacetheme.de)
 <hr>
 </div>
+
 > [!IMPORTANT]
 > This will be reworked
+
 ![Preview](https://raw.githubusercontent.com/SpaceTheme/Discord/main/.github/assets/placeholder.png)
 <details>
     <summary>More images (xx.xx.xxxx)</summary>
