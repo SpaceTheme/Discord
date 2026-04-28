@@ -1,5 +1,5 @@
 /**
-* @name SpaceTheme
+* @name SpaceTheme for Discord
 * @author @spaceenergy
 * @description SpaceTheme for Discord
 * @invite 7Zv8Xz3Vzn
@@ -9,6 +9,8 @@
 * @website https://spacetheme.net
 **/
 
+
+@import url("https://raw.githubusercontent.com/SpaceTheme/Discord/main/src/main.css");
 
 
 :root {
@@ -29,4 +31,8 @@
     --st-blue-hover: 100, 154, 242;
     --st-yellow: 239, 141, 75;
     --st-yellow-hover: 239, 141, 75;
+
+
+    /* Custom Home Icon */
+    --home-icon: url("https://discord.com/assets/99e79fc8aff1ebe7fd97fb5fd799a2bd.webp"); /* The URL can be changed to any other image URL. GIF's are also supported. */
 }
