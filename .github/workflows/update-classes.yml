@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       
       - id: update
-        uses: metro420yt/class-update@v1-rc
+        uses: metro420yt/class-update@v1
         with:
           folder: src
           ext: css
