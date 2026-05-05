@@ -1,10 +1,10 @@
 /* Icon Request */
-html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b {
+html:has(.modeSelected__2ea32 [data-list-item-id="channels___1126871300661575732"]) .form_f75fb0 .channelTextArea_f75fb0 .scrollableContainer__74017 {
     display: flex;
     flex-direction: column;
 }
 
-html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b::before {
+html:has(.modeSelected__2ea32 [data-list-item-id="channels___1126871300661575732"]) .form_f75fb0 .channelTextArea_f75fb0 .scrollableContainer__74017::before {
     order: -2;
     display: flex;
     padding: 12px 16px 4px;
@@ -17,7 +17,7 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732
     color: var(--header-primary);
     background: var(--color-2);
 }
-html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732"]) .form_a7d72e .channelTextArea_a7d72e .scrollableContainer_d0696b::after {
+html:has(.modeSelected__2ea32 [data-list-item-id="channels___1126871300661575732"]) .form_f75fb0 .channelTextArea_f75fb0 .scrollableContainer__74017::after {
     order: -1;
     display: flex;
     padding: 0 16px 8px;
@@ -30,7 +30,7 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732
     background: var(--color-2);
 }
 
-html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732"]) .form_a7d72e .inner_d0696b {
+html:has(.modeSelected__2ea32 [data-list-item-id="channels___1126871300661575732"]) .form_f75fb0 .inner__74017 {
     border-radius: 0 0 var(--border-radius-large) var(--border-radius-large);
 }
 
@@ -40,141 +40,141 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732
 ! PGS
 !
 */
-.containerDefault_f6f816 a[data-list-item-id="channels___928787683671687269"],
-.containerDefault_f6f816 a[data-list-item-id="channels___942140331892285581"],
-.containerDefault_f6f816 a[data-list-item-id="channels___814985548028182609"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759498922116251658"],
-.containerDefault_f6f816 a[data-list-item-id="channels___928781005807030303"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759498956815859782"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759490590257446986"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1163568103955894332"],
-.containerDefault_f6f816 a[data-list-item-id="channels___760115341375438858"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759492413470539776"],
-.containerDefault_f6f816 a[data-list-item-id="channels___928782640696401950"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1109877268592988252"],
-.containerDefault_f6f816 a[data-list-item-id="channels___772493538234597387"],
-.containerDefault_f6f816 a[data-list-item-id="channels___929438701271015464"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759490330809860126"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1249428422380359731"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759490360086626392"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759489650015338567"],
-.containerDefault_f6f816 a[data-list-item-id="channels___940816236101652520"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759490786248228875"],
-.containerDefault_f6f816 a[data-list-item-id="channels___760115433617227787"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759491102218125322"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1040723150150840332"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759490868423688222"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759491017199583243"],
-.containerDefault_f6f816 a[data-list-item-id="channels___759491043317252166"] {
+.containerDefault_c69b6d a[data-list-item-id="channels___928787683671687269"],
+.containerDefault_c69b6d a[data-list-item-id="channels___942140331892285581"],
+.containerDefault_c69b6d a[data-list-item-id="channels___814985548028182609"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759498922116251658"],
+.containerDefault_c69b6d a[data-list-item-id="channels___928781005807030303"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759498956815859782"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759490590257446986"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1163568103955894332"],
+.containerDefault_c69b6d a[data-list-item-id="channels___760115341375438858"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759492413470539776"],
+.containerDefault_c69b6d a[data-list-item-id="channels___928782640696401950"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1109877268592988252"],
+.containerDefault_c69b6d a[data-list-item-id="channels___772493538234597387"],
+.containerDefault_c69b6d a[data-list-item-id="channels___929438701271015464"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759490330809860126"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1249428422380359731"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759490360086626392"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759489650015338567"],
+.containerDefault_c69b6d a[data-list-item-id="channels___940816236101652520"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759490786248228875"],
+.containerDefault_c69b6d a[data-list-item-id="channels___760115433617227787"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759491102218125322"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1040723150150840332"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759490868423688222"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759491017199583243"],
+.containerDefault_c69b6d a[data-list-item-id="channels___759491043317252166"] {
     padding: 9px 6px;
 }
 
-.containerDefault_f6f816 a[data-list-item-id="channels___928787683671687269"]::before {      /* moderator-chat */
+.containerDefault_c69b6d a[data-list-item-id="channels___928787683671687269"]::before {      /* moderator-chat */
     content: "👮‍♂️";
     background-color: #00aff040;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___942140331892285581"]::before {      /* mod-spam */
+.containerDefault_c69b6d a[data-list-item-id="channels___942140331892285581"]::before {      /* mod-spam */
     content: "📨";
     background-color: #00a6ed40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___814985548028182609"]::before {      /* rules */
+.containerDefault_c69b6d a[data-list-item-id="channels___814985548028182609"]::before {      /* rules */
     content: "📜";
     background-color: #ffdea740;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759498922116251658"]::before {      /* announcements */
+.containerDefault_c69b6d a[data-list-item-id="channels___759498922116251658"]::before {      /* announcements */
     content: "📣";
     background-color: #f9c23c40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___928781005807030303"]::before {      /* introductions */
+.containerDefault_c69b6d a[data-list-item-id="channels___928781005807030303"]::before {      /* introductions */
     content: "🦺";
     background-color: #ff672340;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759498956815859782"]::before {      /* cool-links */
+.containerDefault_c69b6d a[data-list-item-id="channels___759498956815859782"]::before {      /* cool-links */
     content: "🔗";
     background-color: #bebebe40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759490590257446986"]::before {      /* mod-logs */
+.containerDefault_c69b6d a[data-list-item-id="channels___759490590257446986"]::before {      /* mod-logs */
     content: "📁";
     background-color: #fcd53f40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1163568103955894332"]::before {     /* fediverse-posts */
+.containerDefault_c69b6d a[data-list-item-id="channels___1163568103955894332"]::before {     /* fediverse-posts */
     content: "📮";
     background-color: #f92f6040;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___760115341375438858"]::before {      /* vip-chatter */
+.containerDefault_c69b6d a[data-list-item-id="channels___760115341375438858"]::before {      /* vip-chatter */
     content: "💎";
     background-color: #1c5cd740;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759492413470539776"]::before {      /* offtopic */
+.containerDefault_c69b6d a[data-list-item-id="channels___759492413470539776"]::before {      /* offtopic */
     content: "👮‍♂️";
     background-color: #00aff040;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___928782640696401950"]::before {      /* games */
+.containerDefault_c69b6d a[data-list-item-id="channels___928782640696401950"]::before {      /* games */
     content: "🎮";
     background-color: #53356640;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1109877268592988252"]::before {     /* free-games */
+.containerDefault_c69b6d a[data-list-item-id="channels___1109877268592988252"]::before {     /* free-games */
     content: "🎁";
     background-color: #ca0b4a40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___772493538234597387"]::before {      /* bot-spam */
+.containerDefault_c69b6d a[data-list-item-id="channels___772493538234597387"]::before {      /* bot-spam */
     content: "🏆️";
     background-color: #cdc4d640;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___929438701271015464"]::before {      /* photography */
+.containerDefault_c69b6d a[data-list-item-id="channels___929438701271015464"]::before {      /* photography */
     content: "📸";
     background-color: #63599440;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759490330809860126"]::before {      /* collections */
+.containerDefault_c69b6d a[data-list-item-id="channels___759490330809860126"]::before {      /* collections */
     content: "🧺";
     background-color: #f3ad6140;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1249428422380359731"]::before {      /* stalker news */
+.containerDefault_c69b6d a[data-list-item-id="channels___1249428422380359731"]::before {      /* stalker news */
     content: "☢️";
     background-color: #ffb02e40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759490360086626392"]::before {      /* anime-manga */
+.containerDefault_c69b6d a[data-list-item-id="channels___759490360086626392"]::before {      /* anime-manga */
     content: "🗻";
     background-color: #6b438b40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759489650015338567"]::before {      /* content-feed */
+.containerDefault_c69b6d a[data-list-item-id="channels___759489650015338567"]::before {      /* content-feed */
     content: "📰";
     background-color: #998ea440;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___940816236101652520"]::before {      /* streams */
+.containerDefault_c69b6d a[data-list-item-id="channels___940816236101652520"]::before {      /* streams */
     content: "🔴";
     background-color: #f8312f40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759490786248228875"]::before {      /* voice-chat */
+.containerDefault_c69b6d a[data-list-item-id="channels___759490786248228875"]::before {      /* voice-chat */
     content: "🗯️";
     background-color: #ffffff40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___760115433617227787"]::before {      /* VIP VC */
+.containerDefault_c69b6d a[data-list-item-id="channels___760115433617227787"]::before {      /* VIP VC */
     content: "💎";
     background-color: #1c5cd740;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759491102218125322"]::before {      /* General VC */
+.containerDefault_c69b6d a[data-list-item-id="channels___759491102218125322"]::before {      /* General VC */
     content: "🎙️";
     background-color: #b4acbc40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1040723150150840332"]::before {     /* Private */
+.containerDefault_c69b6d a[data-list-item-id="channels___1040723150150840332"]::before {     /* Private */
     content: "🔐";
     background-color: #f9c23c40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759490868423688222"]::before {      /* Gaming Den */
+.containerDefault_c69b6d a[data-list-item-id="channels___759490868423688222"]::before {      /* Gaming Den */
     content: "🕹️";
     background-color: #f8312f40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759491017199583243"]::before {      /* Music Lounge */
+.containerDefault_c69b6d a[data-list-item-id="channels___759491017199583243"]::before {      /* Music Lounge */
     content: "📻";
     background-color: #83cbff40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___759491043317252166"]::before {      /* AFK */
+.containerDefault_c69b6d a[data-list-item-id="channels___759491043317252166"]::before {      /* AFK */
     content: "💀";
     background-color: #ffffff40;
 }
 
-.containerDefault_f6f816 a[data-list-item-id^="channels___"]::before {
+.containerDefault_c69b6d a[data-list-item-id^="channels___"]::before {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -186,7 +186,7 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732
     border-radius: var(--border-radius-large);
 }
 
-.containerDefault_f6f816 :is(a[data-list-item-id="channels___928787683671687269"],
+.containerDefault_c69b6d :is(a[data-list-item-id="channels___928787683671687269"],
                              a[data-list-item-id="channels___942140331892285581"],
                              a[data-list-item-id="channels___814985548028182609"],
                              a[data-list-item-id="channels___759498922116251658"],
@@ -211,7 +211,7 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732
                              a[data-list-item-id="channels___1040723150150840332"],
                              a[data-list-item-id="channels___759490868423688222"],
                              a[data-list-item-id="channels___759491017199583243"],
-                             a[data-list-item-id="channels___759491043317252166"] ) :is(.iconContainer_d8bfb3, .linkBottom_d8bfb3) {
+                             a[data-list-item-id="channels___759491043317252166"] ) :is(.iconContainer__2ea32, .linkBottom__2ea32) {
     margin-left: 37px;
 }
 
@@ -222,166 +222,166 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732
 ! SpaceTheme
 !
 */
-.containerDefault_f6f816 a[data-list-item-id="channels___1104518841092034631"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104875221472792668"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1261359628747280384"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1215613548827508776"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104561510715494463"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1209815012403716166"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1209815101134082120"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104524821909479484"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104518841092034630"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1112389436815187979"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1224373306795364432"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1244349851492421692"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1261358630767427655"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104516051733065901"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1238649517902139403"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1191846540218736650"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1192344004520595577"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1213565675327590470"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1213565711738470470"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1213565355897790464"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1213565514450870292"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104523856846270546"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104523460052520980"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1126864557596479559"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1126864502554624042"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1190661950800142386"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104552173695680583"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104523836302573688"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104523441157181511"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1104552018414161981"],
-.containerDefault_f6f816 a[data-list-item-id="channels___1203491488865198110"] {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104518841092034631"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104875221472792668"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1261359628747280384"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1215613548827508776"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104561510715494463"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1209815012403716166"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1209815101134082120"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104524821909479484"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104518841092034630"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1112389436815187979"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1224373306795364432"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1244349851492421692"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1261358630767427655"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104516051733065901"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1238649517902139403"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1191846540218736650"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1192344004520595577"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1213565675327590470"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1213565711738470470"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1213565355897790464"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1213565514450870292"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104523856846270546"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104523460052520980"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1126864557596479559"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1126864502554624042"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1190661950800142386"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104552173695680583"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104523836302573688"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104523441157181511"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1104552018414161981"],
+.containerDefault_c69b6d a[data-list-item-id="channels___1203491488865198110"] {
     padding: 9px 6px;
 }
 
-.containerDefault_f6f816 a[data-list-item-id="channels___1104518841092034631"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104518841092034631"]::before {
     content: "👮‍♂️";
     background-color: #00aff040;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104875221472792668"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104875221472792668"]::before {
     content: "⬆️";
     background-color: #00aff040;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1261359628747280384"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1261359628747280384"]::before {
     content: "📁";
     background-color: #ffce2540;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1215613548827508776"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1215613548827508776"]::before {
     content: "📟";
     background-color: #00d26a40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104561510715494463"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104561510715494463"]::before {
     content: "👤";
     background-color: #6b478d40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1209815012403716166"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1209815012403716166"]::before {
     content: "🗯️";
     background-color: #5865f240;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1209815101134082120"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1209815101134082120"]::before {
     content: "🎮";
     background-color: #01a9ea40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104524821909479484"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104524821909479484"]::before {
     content: "👋";
     background-color: #ffcf2940;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104518841092034630"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104518841092034630"]::before {
     content: "📜";
     background-color: #ffdaa340;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1112389436815187979"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1112389436815187979"]::before {
     content: "📣";
     background-color: #ffba2540;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1224373306795364432"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1224373306795364432"]::before {
     content: "🎁";
     background-color: #ca0b4a40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1244349851492421692"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1244349851492421692"]::before {
     content: "💎";
     background-color: #26eafc40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1261358630767427655"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1261358630767427655"]::before {
     content: "📫";
     background-color: #5092ff40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104516051733065901"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104516051733065901"]::before {
     content: "💬";
     background-color: #ffffff40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1238649517902139403"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1238649517902139403"]::before {
     content: "🚀";
     background-color: #f92f6040;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1191846540218736650"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1191846540218736650"]::before {
     content: "🤖";
     background-color: #cdc5d740;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1192344004520595577"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1192344004520595577"]::before {
     content: "🐙";
     background-color: #ff755140;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1213565675327590470"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1213565675327590470"]::before {
     content: "💎";
     background-color: #1c5cd740;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1213565711738470470"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1213565711738470470"]::before {
     content: "💫";
     background-color: #ffb02e40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1213565355897790464"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1213565355897790464"]::before {
     content: "🗨️";
     background-color: #ffffff40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1213565514450870292"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1213565514450870292"]::before {
     content: "🆘";
     background-color: #ff005e40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104523856846270546"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104523856846270546"]::before {
     content: "📰";
     background-color: #f3eef840;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104523460052520980"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104523460052520980"]::before {
     content: "✨";
     background-color: #ffba2540;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1126864557596479559"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1126864557596479559"]::before {
     content: "👤";
     background-color: #6b478d40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1126864502554624042"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1126864502554624042"]::before {
     content: "📟";
     background-color: #00d26440;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1190661950800142386"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1190661950800142386"]::before {
     content: "💾";
     background-color: #5e5d9640;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104552173695680583"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104552173695680583"]::before {
     content: "🆘";
     background-color: #ff005e40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104523836302573688"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104523836302573688"]::before {
     content: "📰";
     background-color: #f3eef840;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104523441157181511"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104523441157181511"]::before {
     content: "✨";
     background-color: #ffba2540;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1104552018414161981"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1104552018414161981"]::before {
     content: "🆘";
     background-color: #ff005e40;
 }
-.containerDefault_f6f816 a[data-list-item-id="channels___1203491488865198110"]::before {
+.containerDefault_c69b6d a[data-list-item-id="channels___1203491488865198110"]::before {
     content: "🚀";
     background-color: #f92f6040;
 }
 
-.containerDefault_f6f816 a[data-list-item-id^="channels___"]::before {
+.containerDefault_c69b6d a[data-list-item-id^="channels___"]::before {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -393,7 +393,7 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732
     border-radius: var(--border-radius-large);
 }
 
-.containerDefault_f6f816 :is(a[data-list-item-id="channels___1104518841092034631"],
+.containerDefault_c69b6d :is(a[data-list-item-id="channels___1104518841092034631"],
                              a[data-list-item-id="channels___1104875221472792668"],
                              a[data-list-item-id="channels___1261359628747280384"],
                              a[data-list-item-id="channels___1215613548827508776"],
@@ -423,7 +423,7 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732
                              a[data-list-item-id="channels___1104523836302573688"],
                              a[data-list-item-id="channels___1104523441157181511"],
                              a[data-list-item-id="channels___1104552018414161981"],
-                             a[data-list-item-id="channels___1203491488865198110"]) :is(.iconContainer_d8bfb3, .linkBottom_d8bfb3) {
+                             a[data-list-item-id="channels___1203491488865198110"]) :is(.iconContainer__2ea32, .linkBottom__2ea32) {
     margin-left: 37px;
 }
 
@@ -441,7 +441,7 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732
 */
 
 /* Sidebar */
-.sidebar_a4d4d9>.scrollerBase_c49869 {
+.sidebar__5e434>.scrollerBase_d125d2 {
     margin: 0 0 16px;
     border-radius: var(--border-radius-large);
     background-color: var(--color-2);
@@ -506,28 +506,28 @@ html:has(.modeSelected_d8bfb3 [data-list-item-id="channels___1126871300661575732
 */
 
 /* Base */
-.card_eb1ca6,
-.container_f11cbf {
+.card_e90879,
+.container_a76561 {
     height: 400px;
     background-color: var(--color-2) !important;
 }
 
 /* Banner */
-img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
+img.splashImage_e90879.splashImageHeight_e90879 {
     border-radius: var(--border-radius-large);
 }
-.splash_eb1ca6 {
+.splash_e90879 {
     width: -webkit-fill-available;
     margin: 12px;
 }
 
 /* Icon */
-.iconMask_eb1ca6 {
+.iconMask_e90879 {
     background-color: var(--color-2) !important;
 }
 
 /* Action Button */
-.actionButtons_eb1ca6 .wrapper_ef319f {
+.actionButtons_e90879 .wrapper_f7ecac {
     border-radius: var(--border-radius-large);
     background-color: #2b2b2b;
 }
@@ -546,13 +546,13 @@ img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
 =-=-=-=-=-=-=-=
 */
 
-.searchBar_f0963d .searchBarComponent_f0963d {
+.searchBar_e6b769 .searchBarComponent__35e86 {
     height: 100%;
     text-align: center;
     white-space: unset;
     background-color: var(--color-3);
 }
-.searchBar_f0963d {
+.searchBar_e6b769 {
     height: 60px;
     padding: 6px;
     border-radius: var(--border-radius-large);
@@ -567,7 +567,7 @@ img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
 =-=-=-=-=-=-=-=
 */
 
-.channel_c91bad {
+.channel__972a0 {
     max-width: unset;
 }
 
@@ -577,7 +577,7 @@ img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
 =-=-=-=-=-=-=-=
 */
 
-.privateChannels_f0963d .scroller_c47fa9 {
+.privateChannels_e6b769 .scroller__99e7c {
     margin: 16px 0;
     border-radius: var(--border-radius-large);
 }
@@ -588,10 +588,10 @@ img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
 =-=-=-=-=-=-=-=
 */
 
-.scroller_c47fa9 {
+.scroller__99e7c {
     background-color: var(--color-2) !important;
 }
-.privateChannels_f0963d {
+.privateChannels_e6b769 {
     background-color: var(--background);
 }
 
@@ -604,15 +604,15 @@ img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
 */
 
 /* Module */
-.peopleColumn_c2739c {
+.peopleColumn__133bf {
     margin: 0 16px 0 0;
     border-radius: var(--border-radius-large);
     background-color: var(--color-1);
 }
 
 /* Searchbar */
-.peopleColumn_c2739c
-.searchBar_e0840f {
+.peopleColumn__133bf
+.searchBar__5ec2f {
     height: 40px;
     margin: 16px 16px 6px 16px;
     border-radius: var(--border-radius-large);
@@ -620,23 +620,23 @@ img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
 }
 
 /* Background */
-.tabBody_c2739c {
+.tabBody__133bf {
     background-color: var(--background);
 }
 
 /* Friends List Cards
-.peopleList_e0840f {
+.peopleList__5ec2f {
     margin: 16px;
     padding: 0;
 }
-.peopleList_e0840f::-webkit-scrollbar {
+.peopleList__5ec2f::-webkit-scrollbar {
     display: none;
 }
-.peopleList_e0840f>div {
+.peopleList__5ec2f>div {
     display: flex;
     flex-wrap: wrap;
 }
-.peopleListItem_d51464 {
+.peopleListItem_cc6179 {
     height: auto !important;
     width: 307px;
     margin: 6px !important;
@@ -646,16 +646,16 @@ img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
     border-radius: var(--border-radius-large);
     background-color: var(--color-2) !important;
 }
-.peopleListItem_d51464 .listItemContents_e05dae,
-.peopleListItem_d51464 .listItemContents_ccc740,
-.peopleListItem_d51464 .listItemContents_f71b83 {
+.peopleListItem_cc6179 .listItemContents_fc004c,
+.peopleListItem_cc6179 .listItemContents_e1ecd3,
+.peopleListItem_cc6179 .listItemContents__61863 {
     display: flex;
     flex-wrap: wrap;
     align-content: space-between;
     max-width: 291px;
 }
 
-.peopleListItem_d51464 .userInfo_f3939d {
+.peopleListItem_cc6179 .userInfo__0a06e {
     display: flex;
     flex: unset;
     align-items: center;
@@ -665,45 +665,45 @@ img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
     border-radius: var(--border-radius-large);
     background-color: var(--color-1);
 }
-.peopleListItem_d51464 .userInfo_f3939d:hover {
+.peopleListItem_cc6179 .userInfo__0a06e:hover {
     background-color: var(--color-3);
 }
-.peopleListItem_d51464 .userInfo_f3939d .discriminator_f3939d {
+.peopleListItem_cc6179 .userInfo__0a06e .discriminator__0a06e {
     visibility: hidden !important;
 }
-.peopleListItem_d51464 .userInfo_f3939d:hover .discriminator_f3939d {
+.peopleListItem_cc6179 .userInfo__0a06e:hover .discriminator__0a06e {
     visibility: visible !important;
 }
 
-.peopleListItem_d51464 .username_f3939d {
+.peopleListItem_cc6179 .username__0a06e {
     overflow: unset;
 }
-.peopleListItem_d51464 .userInfo_f3939d:hover .username_f3939d {
+.peopleListItem_cc6179 .userInfo__0a06e:hover .username__0a06e {
     overflow: hidden;
 }
 
-.peopleListItem_d51464 .actions_e05dae,
-.peopleListItem_d51464 .actions_ccc740,
-.peopleListItem_d51464 .actionButton_e01b91.actionDeny_e01b91 {
+.peopleListItem_cc6179 .actions_fc004c,
+.peopleListItem_cc6179 .actions_e1ecd3,
+.peopleListItem_cc6179 .actionButton_f8fa06.actionDeny_f8fa06 {
     width: 100%;
     margin: 8px 0 0;
 }
-.peopleListItem_d51464 .actions_ccc740 .actionButton_e01b91 {
+.peopleListItem_cc6179 .actions_e1ecd3 .actionButton_f8fa06 {
     margin: 0;
 }
-.peopleListItem_d51464 .actions_ccc740 .actionButton_e01b91:nth-of-type(2) {
+.peopleListItem_cc6179 .actions_e1ecd3 .actionButton_f8fa06:nth-of-type(2) {
     margin-left: 6px;
 }
-.peopleListItem_d51464 .actionButton_e01b91 {
+.peopleListItem_cc6179 .actionButton_f8fa06 {
     width: 100%;
     margin-left: 7px;
     border-radius: var(--border-radius-large);
     background-color: var(--color-3);
 }
-.peopleListItem_d51464 .actionButton_e01b91:hover {
+.peopleListItem_cc6179 .actionButton_f8fa06:hover {
     background-color: var(--color-1);
 }
-.actionButton_e01b91:first-child {
+.actionButton_f8fa06:first-child {
     margin: 0;
 } */
 
@@ -716,33 +716,33 @@ img.splashImage_eb1ca6.splashImageHeight_eb1ca6 {
 */
 
 /* Cards */
-.itemCard_f02fcf {
+.itemCard__7e549 {
     border: none;
     background-color: var(--color-3);
 }
-.itemCard_f02fcf .body_cd82a7,
-.itemCard_f02fcf .section_cd82a7 {
+.itemCard__7e549 .body__00943,
+.itemCard__7e549 .section__00943 {
     border-radius: var(--border-radius-large);
     background-color: var(--color-4);
 }
-.emptyCard_f02fcf {
+.emptyCard__7e549 {
     background-color: var(--color-3);
 }
 
 /* Module */
-.nowPlayingColumn_c2739c {
+.nowPlayingColumn__133bf {
     min-width: 420px;
     background-color: var(--background);
 }
-.container_bf550a {
+.container__7d20c {
     border-radius: var(--border-radius-large);
 }
-.nowPlayingColumn_c2739c
-.scroller_bf550a {
+.nowPlayingColumn__133bf
+.scroller__7d20c {
     border: none;
 }
 
 /* Background */
-.container_bf550a {
+.container__7d20c {
     background-color: var(--color-2);
 }
